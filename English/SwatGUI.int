@@ -1,0 +1,281 @@
+[SwatGUIController]
+WaitingString=Waiting for other players...
+VIPTimerText=VIP Time Remaining:
+RDTimerText=Bombs Remaining: %1/%2
+ViewingFrom="Now viewing from: "
+ViewingFromVIP="Now viewing from the VIP: "
+MissionCompleted=You have [c=00ff00]COMPLETED[\c] the mission!
+MissionFailed=You have [c=ff0000]FAILED[\c] the mission!
+ObjectiveShown=You have received a new objective!
+SwatWin=SWAT has won the round!
+SuspectsWin=The Suspects have won the round!
+GameTied=The round has ended in a tie!
+OneMinWarning=1 Minute left!
+TenSecWarning=10 Seconds!
+DisarmBomb=SWAT has disarmed a bomb!
+SwatWinRD=SWAT has disarmed all the bombs!
+SuspectsWinRD=[c=ff0000]The Suspects have won the round!
+SwatRespawnEvent=SWAT reinforcements have arrived.
+SuspectsRespawnEvent=Suspect reinforcements have arrived.
+BothTeamsRespawnEvent=Reinforcements have arrived.
+VIPSafe=The VIP has escaped!  SWAT wins!
+VIPRescued=SWAT has freed the VIP!
+VIPCaptured=Suspects have captured the VIP!
+YouAreVIP=You are the VIP! You must now avoid capture and escape.
+WinSuspectsGoodKill=SWAT accidentally killed the VIP! The suspects win the round.
+WinSuspectsBadKill=The Suspects have killed the VIP! The suspects win the round.
+WinSwatBadKill=The Suspects have killed the VIP too soon! SWAT wins the round.
+PreGameText=Time before round begins:
+MidGameText=Round time remaining:
+PostGameText=Time before next round:
+HelpStack=("***Component Layout***","  ","(Up Arrow) - Moves the current control up","(Down Arrow) - Moves the current control down","(Left Arrow) - Moves the current control left","(Right Arrow) - Moves the current control right","(-) - Sizes the current control shorter","(=) - Sizes the current control taller","(NUMPAD -) - Sizes the current control thinner","(NUMPAD +) - Sizes the current control thicker","  ","***Information Displays and Toggles***","  ","(H) - Displays this quick help menu","(N) - Displays a list of all available GUI Styles and Fonts","(O) - Displays a list of all pages on the server stack","(M) - Displays the member list for the current control","(B) - Toggles edit mode for the member list","(K) - Toggles Config variables shown in Member Display","(L) - Toggles GUI members shown in Member Display","(G) - Toggles snap to grid on/off","  ","***Component Actions***","  ","(Ctrl + LeftMouse) - Selects the component under the mouse","(Ctrl + T) - Toggles absolute/scaling values of the current control","(Ctrl + I) - Toggles absolute/scaling values of all controls on current page","(Ctrl + Z) - Undoes the last operation on the current control","(Ctrl + A) - Redoes the last operation on the current control","(Ctrl + S) - Saves the configuration of the current control","(Ctrl + P) - Saves the configuration of all controls on the current page","(Ctrl + E) - Brings up the Object editor window on the current control","(Ctrl + N) - Create a new component for the selected MultiComponent or Active Page","				  Please enter a descriptive name and remember to save!!!","(Ctrl + Delete) - Delete the selected component","				  Please remember to save!!!","(Ctrl + C) - Copies the currently selected component's config properties to the clipboard component","(Ctrl + V) - Copies the currently selected component's config properties from the clipboard component","(Ctrl + F) - Move the current component forward in it's MenuOwner's Controls list","(Ctrl + B) - Move the current component backward in it's MenuOwner's Controls list","(Ctrl + Alt + F) - Move the current component to the front of it's MenuOwner's Controls list","(Ctrl + Alt + B) - Move the current component to the back of it's MenuOwner's Controls list","(Ctrl + O) - Reorder the Controls within this MultiComponent based on their RenderWeights","  ","***Styles***","  ","(Ctrl + Shift + N) - Create a new GUIStyles","				  Please enter a descriptive name!","(Ctrl + Shift + C) - Copies the currently selected component's style's config properties to the clipboard style","(Ctrl + Shift + V) - Copies the currently selected component's style's config properties from the clipboard style","  ","***Advanced***","  ","(Ctrl + Alt + D) - Toggle GUI Edit Mode (Must have bModAuthor specified for GUIController)","(Ctrl + Alt + U) - Brings up the Object editor window on this GUIController","(Ctrl + Alt + Y) - Saves the settings on this GUIController","  ","***Miscellaneous***","  ","(<Hold> Shift) - Removes the information display from the bottom of the screen","(<Hold> Ctrl + Alt) - Displays the hierarchy of the current control","(<Hold> Ctrl + Alt + MoveMouse) - Moves the currently selected control with the mouse (snapping done after release)","  ","***Console Commands***","  ","(SetGuiRes X Y) - Sets the gui & game resolution","(SetGuiStyle X) - Changes the GUIStyle of the current component to X","(SetGuiGridSize X) - Sets the grid spacing to X pixels","  "," "," GUI Editor V0.9 By Dan Kaplan"," Irrational Games, LLC"," ")
+DLG_OK=OK
+DLG_Yes=YES
+DLG_Continue=CONTINUE
+DLG_Retry=RETRY
+DLG_Ignore=IGNORE
+DLG_No=NO
+DLG_Abort=ABORT
+DLG_Cancel=CANCEL
+
+[SwatGUIPage]
+QuitPrompt=Quit to Windows?
+
+[SwatServerBrowserMenu]
+VersionFormatString=Version: %1
+ModFormatString=Mod: %1
+ConnectPasswordQueryString=Please enter the Password for the selected server:
+
+[SwatServerSetupMenu]
+SelectedIndexColorString=[c=00ff00]
+BackButtonHelpString=Return to the Main Menu.
+CancelButtonHelpString=Discard changes and return to the previous menu.
+QuitButtonHelpString=Exit the game and return to Windows.
+AcceptButtonHelpString=Apply the current settings and return to the previous menu.
+StartButtonHelpString=Start the server with the current settings.
+ReStartButtonHelpString=Restart the server with the current settings.
+BackButtonString=MAIN
+CancelButtonString=CANCEL
+QuitButtonString=QUIT
+AcceptButtonString=APPLY
+StartButtonString=START SERVER
+ReStartButtonString=RESTART SERVER
+CannotUndercutCurrentPlayersFormatString=Cannot proceed.  The maximum number of players (%1) cannot be less than the current number of players (%2).  Please increase the Max Players value and try again.
+LoadingMaplistString=Searching for available maps...
+HostCDKeyInvalidString=Invalid CD Key!
+StartDedicatedServerQueryString=Quit the game and launch a dedicated server with the current settings?
+CannotStartDedicatedServerString=Cannot start dedicated server. A SWAT4 dedicated server is already running on this machine.
+StartServerQueryString=Start the server?
+ReStartServerQueryString=Restart the server with the current settings?
+LANString=LAN
+GAMESPYString=Internet
+IdealPlayerCountString=Recommended Players: %1 - %2
+LevelAuthorString=Author: %1
+LevelTitleString=Map: %1
+
+[SwatMissionLoadingMenu]
+LoadSplashString=Loading...
+WaitForConnectionString=Connecting...
+LoadMapString=Loading...
+DownloadString=Downloading...
+
+[SwatObjectivesPopupMenu]
+ContinueString=CONTINUE
+ResumeString=RESUME
+AbortString=ABORT
+DebriefString=DEBRIEF
+AbortQueryString=Are you sure you wish to end the mission?
+
+[SwatMPPage]
+BombsRemaining=Bombs Remaining: %1/%2
+RoundsRemainingString=Round: %1/%2
+GameModeAndLevelString=Level: %2    Mode: %1
+LoadSplashString=Loading...
+WaitForConnectionString=Connecting...
+LoadMapString=Loading...
+DownloadString=Downloading...
+ConfirmAbortString=Disconnect from the current game?
+WaitingForPlayersString=Waiting for players to reconnect...
+
+[SwatChatPanel]
+TeamChatMessage=[c=808080][b]%1[\b]: %2
+GlobalChatMessage=[c=00ff00][b]%1[\b]: %2
+NameChangeMessage=[c=ff00ff][b]%1[\b] changed name to [b]%2[\b].
+KickMessage=[c=ff00ff][b]%1[\b] kicked [b]%2[\b].
+BanMessage=[c=ff00ff][b]%1[\b] BANNED [b]%2[\b]!
+SwitchTeamsMessage=[c=00ffff][b]%1[\b] switched teams.
+SwatSuicideMessage=[c=0000ff][b]%1[\b] suicided!
+SuspectsSuicideMessage=[c=ff0000][b]%1[\b] suicided!
+SwatTeamKillMessage=[c=0000ff][b]%1[\b] betrayed [b]%2[\b] with a %3!
+SuspectsTeamKillMessage=[c=ff0000][b]%1[\b] double crossed [b]%2[\b] with a %3!
+SwatKillMessage=[c=0000ff][b]%1[\b] neutralized [b]%2[\b] with a %3!
+SuspectsKillMessage=[c=ff0000][b]%1[\b] killed [b]%2[\b] with a %3!
+SwatArrestMessage=[c=0000ff][b]%1[\b] arrested [b]%2[\b]!
+SuspectsArrestMessage=[c=ff0000][b]%1[\b] arrested [b]%2[\b]!
+ConnectedMessage=[c=ffff00][b]%1[\b] connected to the server.
+DisconnectedMessage=[c=ffff00][b]%1[\b] dropped from the server.
+EquipNotAvailableString=[c=ffffff]No %1 available to equip.
+SniperAlertedString=[c=ffffff]Press %1 to activate the sniper view.
+NewObjectiveString=[c=ffffff]You have received a new objective.
+MissionCompletedString=[c=ffffff]You have [c=00ff00]COMPLETED[c=ffffff] the mission!
+MissionFailedString=[c=ffffff]You have [c=ff0000]FAILED[c=ffffff] the mission!
+SettingsUpdatedString=[c=ffff00][b]%1[\b] updated the server settings.
+DebugMessageString=[c=ffffff]DEBUG_MSG: %1
+PromptToDebriefMessage=[c=ffffff]Press '[k=GUICloseMenu]' to proceed to Debrief.
+SomeoneString=someone
+SlotNames[0]=Invalid
+SlotNames[1]=Primary Weapon
+SlotNames[2]=Backup Weapon
+SlotNames[3]=Flashbang Grenade
+SlotNames[4]=CS Gas Grenade
+SlotNames[5]=Sting Grenade
+SlotNames[6]=Pepper Spray
+SlotNames[7]=breaching device
+SlotNames[8]=Toolkit
+SlotNames[9]=Optiwand
+SlotNames[10]=Wedge
+SlotNames[11]=ZipCuff
+
+[SwatMPScoresPanel]
+VIPString=" (VIP)"
+TeamScoreFormatString=%1: %2   Rounds won: %3
+StartGameString=START GAME
+AbortGameString=END GAME
+NextGameString=NEXT GAME
+AdminLoginString=ADMIN LOGIN
+AdminPasswordQueryString=Please enter the admin password to login:
+
+[SwatObjectivesPanel]
+InProgressString=In Progress
+CompletedString=Completed
+FailedString=Failed
+
+[SwatLeadershipPanel]
+BonusFormatString=%1
+PenaltyFormatStringx=%1
+TotalString=Total
+RankingFormatString=Ranking: %1
+NoPenaltiesDeducted=No Penalties Deducted!
+MissionFailedRanking=Failure!
+DifficultyLabelString=Required score: %1
+
+[SwatCOOPOfficerStatusPanel]
+IncapacitatedString=[c=ff0000][b]Incapacitated
+InjuredString=[c=ff0000]Injured
+HealthyString=Healthy
+NotAvailable=[c=ff00ff][b]Not Available
+NotReady=[c=FF0000]Not Ready
+Ready=[c=00FF00]Ready
+
+[SwatOfficerStatusPanel]
+IncapacitatedString=[c=ff0000][b]Incapacitated
+InjuredString=[c=ff0000]Injured
+HealthyString=Healthy
+NotAvailable=[c=ffffff][b]Not Available
+
+[SwatMissionSetupMenu]
+CampaignString=CAMPAIGN
+CustomString=CUSTOM
+
+[SwatSPLoadoutPanel]
+ConfirmOverwrite=A loadout named '%1' already exists; are you sure that you wish to overwrite it?
+ConfirmDelete=Delete loadout '%1'?
+ConfirmApplyToAll=Are you sure that you wish to apply the selected loadout to your entire team?
+OfficerInfo[0]=A recent transfer from Los Angeles, the Sergeant is cool under fire and always business like.  With a new element to command he will have to gain the respect of his squad while on the job.
+OfficerInfo[1]=A thirty year veteran of the force, and 25 year veteran of SWAT, Officer Reynolds is the most experienced member of the element.  His experience has taught him that staying calm can be the key to survival as a SWAT officer.  Realizing the value of his experience, he is always willing to give his advice to the element.
+OfficerInfo[2]=Officer Girard is a local boy, born and raised in the metropolitan area.  Girard has been a member of SWAT for 6 years and been decorated for his bravery on 2 occasions.
+OfficerInfo[3]=Spending only 2 years on the street before passing the rigorous SWAT training course and trials, Officer Fields is one of the youngest officers on the force to be promoted to SWAT.  Although a bit of a loudmouth, he has proven to be a very capable operator.
+OfficerInfo[4]=Officer Jackson has had a long and distinguished career on SWAT.  As well as being a top-notch operator, Jackson prides himself on being an athlete.  He is in peak physical condition and can be an intimidating presence on any operation.
+OfficerVitals[0]=|Nickname:  Boss|Badge No.:  3187|Years of Service:  15
+OfficerVitals[1]=Officer Steven Reynolds|Nickname:  Gramps|Badge No.:  3077|Years of Service: 30
+OfficerVitals[2]=Officer Anthony Girard|Nickname:  Subway|Badge No.:  3518|Years of Service: 14
+OfficerVitals[3]=Officer Zachary Fields|Nickname:  Hollywood|Badge No.: 3975|Years of Service:  6
+OfficerVitals[4]=Officer Allen Jackson|Nickname:  Python|Badge No.:  3248|Years of Service:  18
+
+[SwatMissionSelectionPanel]
+DifficultyLabelString=Score of [b]%1[\b] required to advance.
+
+[SwatMainMenu]
+TrainingFriendlyString=Training
+PromptToGotoTrainingFirstString=SWAT (R) 4 requires challenging squad-based tactics and compliance with law-enforcement procedures. It is [b]strongly[\b] recommended that you play the training mission before attempting other SWAT engagements. Continue anyway?
+ConfirmNoTrainingString=Are you sure that you do not want to play the training mission?
+
+[Swat4Credits]
+
+[SwatConnectionFailureMenu]
+ConnectionFailed=The connection to the server has failed.
+NetworkingFailed=The network connection has failed.
+UrlFailed=Error: %1
+ConnectionTimeout=The connection to the server has timed out.
+RejectedByServer=The connection to the server was rejected.
+CDKeyFailed=CD Key authentication has failed.
+DemoLoadFailed=Invalid demo map: '%1'
+ConfigMD5ChecksumFailure=File is incompatible with the version on the server: '%1'
+ConfigMD5ChecksumCountFailure=Connection to server rejected (unexpected number of configuration files).
+PackageMD5ChecksumFailure=Connection to server rejected (invalid content).
+GenericFailure=The connection to the server has failed.
+IPBanned=You have been banned from this server.
+WrongPassword=The password you entered is incorrect.
+NeedPassword=You need to enter a password to join this game.
+InvalidOptions=The options you specified are invalid.
+
+[SwatMissionAbortMenu]
+EndTheMissionConfirmation=Are you sure you wish to end the mission?
+
+[SwatVideoSettingsPanel]
+WarningTextVideoResolutionChange=The game will now attempt to change video resolution. If this fails, the game will revert to the current setting after 10 seconds. Are you sure you want to change video resolution?
+ConfirmResetString=Are you sure that you wish to reset all video settings to their defaults? This may take a few moments.
+
+[SwatKeyControlSettingsPanel]
+ReMappingQuery=The current bindings for %1 are %2. Press a different key to add it to the list of bindings, or press a currently bound key to remove it from the bindings.
+ConfirmResetString=Are you sure that you wish to reset all key bindings to their defaults? This may take a few moments.
+
+[SwatGameControlSettingsPanel]
+GCIOptionS1P1String=Hold [k=OpenGraphicCommandInterface | RightMouseAlias] to open menu
+GCIOptionS1P2String=Click [k=Fire] to select
+GCIOptionS1P3String=Release [k=OpenGraphicCommandInterface | RightMouseAlias] to cancel
+GCIOptionS2P1String=Hold [k=OpenGraphicCommandInterface | RightMouseAlias] to open menu
+GCIOptionS2P2String=Release [k=OpenGraphicCommandInterface | RightMouseAlias] to select
+GCIOptionS2P3String=Click [k=Fire] to cancel
+GCIOptionS3P1String=Click [k=OpenGraphicCommandInterface | RightMouseAlias] to open menu
+GCIOptionS3P2String=Click [k=Fire] to select
+GCIOptionS3P3String=Click [k=OpenGraphicCommandInterface | RightMouseAlias] to cancel
+GCIOptionS4P1String=Click [k=OpenGraphicCommandInterface | RightMouseAlias] to open menu
+GCIOptionS4P2String=Click [k=OpenGraphicCommandInterface | RightMouseAlias] to select
+GCIOptionS4P3String=Click [k=Fire] to cancel
+ConfirmResetString=Are you sure that you wish to reset all game settings to their defaults?
+
+[SwatAudioSettingsPanel]
+ConfirmResetString=Are you sure that you wish to reset all audio settings to their defaults?
+
+[SwatSettingsPanel]
+ConfirmResetString=Are you sure that you wish to reset these settings to their defaults? This may take a few moments.
+ConfirmationTextSettingsChange=Do you wish to keep these new settings?
+
+[SwatGameSettingsMenu]
+MainMenuString=MAIN MENU
+BackString=BACK
+
+[SwatDebriefingMenu]
+MissionCompletedString=[c=ffffff]Mission [c=00ff00]Completed[c=ffffff]!
+MissionFailedString=[c=ffffff]Mission [c=ff0000]Failed[c=ffffff]!
+MissionCompletedDifficultyReqFailedString=[c=ffffff]Mission [c=ff0000]Completed[c=ffffff]!
+ContinueMissionCompletedString=NEXT MISSION
+ContinueMissionFailedString=SELECT MISSION
+MainMenuString=MAIN MENU
+
+[CustomScenario_SelectionPanel]
+ConfirmDeleteString=Are you sure that you wish to delete scenario %1 from pack %2?
+
+[CustomScenarioPage]
+ConfirmationString=There are unsaved changes.  Are you sure you want to leave and lose those changes?
+ConfirmOverwriteExistingScenarioString=A scenario named '%1' already exists in pack '%2'.  Are you sure you wish to overwrite it?
+
+[SwatCampaignMenu]
+StringA=" is not a valid campaign name."
+StringB="Campaign: "
+StringC="A campaign with the name "
+StringE=" already exists.  Do you wish to overwrite it?"
+StringJ="Are you sure that you want to delete campaign "
+StringK=Officer Default
+

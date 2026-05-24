@@ -1,0 +1,7470 @@
+[toc_SwatWin]
+Caption=Excellent job entry team.  Head to debrief.
+
+[Train34_1]
+Caption=No, that's not right.  One more time.
+
+[Train33_1]
+Caption=That's not what I asked. Try again.
+
+[toc_SwatTeamKill]
+Caption=Entry team.  Friendly fire!
+
+[Train32_1]
+Caption=Good.  Now tell the Red Team to fall in and move down to the other door.
+
+[toc_SwatRespawnEvent]
+Caption=Entry team, your back-up has just arrived down range.
+
+[Train31_2]
+Caption=Command the Blue Team to stack up on the door at the end of the hallway.   That way, they can cover your back while you and the Red Team move to the door on the left.
+
+[Train31_1]
+Caption=You now have two possible directions of travel.  Sometimes it's best to split up your element to perform different tasks.
+
+[toc_SwatArrest]
+Caption=Nice work entry team.  Suspect in custody.
+
+[Train30_2]
+Caption=Have them Fall In and then move up to the intersection.
+
+[Train30_1]
+Caption=When the team discovers a hallway while clearing they will enter it and wait for you.  This prevents the team from becoming overextended.
+
+[toc_SuspectsWin]
+Caption=TOC to entry team.  This one's too far gone.  Abort.
+
+[Train29_2]
+Caption=When you are finished with the wand, tell the element to clear the room.
+
+[Train28_2]
+Caption=Use the Optiwand on this doorway to scout out what's ahead.  You should be able to stand on your side of the door and stick the wand through the doorway without entering the room.
+
+[toc_SuspectsTeamKill]
+Caption=Entry team.  They've started killing each other.  Use caution.
+
+[Train28_1]
+Caption="Alright.  Behind these tires there's an open doorway.  It's often best to scout out a room from a safe distance.  Back in the day we used a mirror-on-a-stick -- simple, but effective.  Nowadays there's a high tech gadget for everything.  For corners and open doors, we have the Optiwand.  The Optiwand's a tiny camera at the end of telescoping tube.  You can even use it to peer under a closed door to scope out a room before you enter it.  "
+
+[toc_SuspectsRespawnEvent]
+Caption=Entry team, be advised.  Additional suspects have arrived.
+
+[Train27_3]
+Caption=Deploying a grenade into the doorway will buy your team time to clear the threshold.  Go ahead and do an Open, Bang and Clear on that door.
+
+[Train27_1]
+Caption=Beware of doorways.  Most SWAT fatalities occur when the team is ambushed as they come through the door.
+
+[toc_SuspectsArrest]
+Caption=Entry team.  An officer has been taken hostage.
+
+[Train26_3]
+Caption=I shut the lights off on 'em.  Follow them in, and use the flashlight mounted on your firearm to navigate to the next door.
+
+[toc_OneMinuteWarning]
+Caption=Entry team, you have less than a minute to disarm those bombs!
+
+[Train26_2]
+Caption=Don't make me come down there, Fields.
+
+[toc_AllBombsDisarmed]
+Caption=Entry team, the final bomb has been disarmed.  Good job.
+
+[Train26_1]
+Caption=Nice!  Good one, LT.
+
+[Train25_1]
+Caption=Are we speakin' the same language here?  I said, behind me.
+
+[Train24_1]
+Caption=Not that one, you knucklehead.
+
+[Train23_5]
+Caption=Ok, let's see if you guys can clear a room.  Order the team to clear the room behind me.
+
+[Train23_4]
+Caption=Fields has a big mouth, but you'll be glad he's around when you're knee high in brass.
+
+[Train23_3]
+Caption=Nothing, sir.
+
+[Train23_2]
+Caption=I don't think I quite heard you, Fields... what did you say?
+
+[Train23_1]
+Caption=Nice to meet you, too.
+
+[Train22_1]
+Caption=If you're going to lead a tactical element, you'd better start working with them.  The team is in the room to the right.  Order them to Fall In, and let's see how you work together.
+
+[Train21_7]
+Caption=Well, the team is eager to meet you, so let's get moving.  Move into the next room.
+
+[Train21_6]
+Caption=You won't be in anybody's hands if you don't pipe down.
+
+[Train21_5]
+Caption=I guess we'll be in good hands, then.
+
+[Train21_4]
+Caption=Guess that's why they're the best.
+
+[Train21_3]
+Caption=L.A.?  It's a warzone out there.  I hear they get multiple call-ups ever week.
+
+[Train21_2]
+Caption=He's a transfer from L.A.  Supposed to be top notch.
+
+[Train21_1]
+Caption=What do you know about the new lead, anyway?
+
+[Train20_3]
+Caption=Now that Hanson has given up, you need to restrain him.  At an incident scene, you will need to restrain everyone you find, since you can never be 100% sure who is a victim and who is a perp.
+
+[Train20_2]
+Caption=You are authorized to take down anyone who is aiming a weapon at you or another person, but remember -- you should fire your weapon only in defense of life.  If a subject hasn't given up, but isn't threatening anyone, use your other options.  You can hit them with the less lethal shotgun, zap them with the taser, pepper spray them, or use one of your grenades.  That will give even the biggest knucklehead second thoughts about resisting.
+
+[Train20_1]
+Caption=Officer Hanson here was smart enough to give up for you, but the perps, and sometimes even the victims, don't give up that easily.
+
+[Train19_1]
+Caption=We are a life saving organization.  We don't want to kill people.  Sometimes the knuckleheads give you no choice, but our goal is to have a peaceful resolution of the situation.  The best solution is one in which you don't have to fire your weapon.  So, the first thing you need to do when you see anyone is to get them on the ground.  Yell as loud as you can to get them to comply.
+
+[Train18_1]
+Caption=I guess you'll have to try the C2 on the job.  Oh, well.  Let's continue.
+
+[Train17_2]
+Caption=You do need to be careful with these -- they are explosives.  Anyone directly on the other side of a door is going to get seriously injured.
+
+[Train17_1]
+Caption=Nice!  I never get tired of that.
+
+[Train16_1]
+Caption=Now stand back and blow it.
+
+[Train15_2]
+Caption=This is a two step process.  First set the charge above the doorknob.
+
+[Train15_1]
+Caption=Ok, we're goin' all out on this one.  Pull out your C2 charge and let's blow this thing open.  C2 is great for opening doors quickly and surprising the perps on the other side.
+
+[Train14_3]
+Caption=Nice work.  Move on to the next door  - we'll use a breaching charge on this one.   Much louder, but more fun.
+
+[toc_VIPcaptured]
+Caption=Entry team.  The VIP has been captured.  You have 2 minutes to free him.
+
+[Train14_2]
+Caption=We have multiple tools for handling a locked door.   The first is picking it -- good when you want your entry to an area to be quiet.  Pull out your toolkit, and use it to pick the lock.
+
+[Train14_1]
+Caption=Heh, I locked it before you got here.
+
+[toc_VIPRescued]
+Caption=Entry team.  The VIP has been released.  Escort him to safety.
+
+[Train13_1]
+Caption=Go ahead and try this door.
+
+[toc_VIPSafe]
+Caption=The VIP is safe.  Good work entry team.
+
+[Train12_1]
+Caption=Sting grenades pelt their targets with rubber balls that stun and disorient them.
+
+[toc_WinSuspectsBadKill]
+Caption=Entry team, abort mission.  They've killed the VIP!
+
+[Train11_1]
+Caption=CS gas causes people's eyes to water and affects their breathing.  Makes it difficult for them to do anything other than cough for a short period of time.
+
+[Train10_1]
+Caption=Flashbangs are designed to disorient people with a very loud bang and an extremely bright flash.  If you don't look away from the detonation, you can get blinded too.
+
+[toc_WinSuspectsGoodKill]
+Caption=Entry team!  What are you doing!  You killed the VIP!
+
+[Train9_4]
+Caption=Cheer up, kid, we all had to do this once.  It'll only sting for a few hours....
+
+[toc_WinSwatBadKill]
+Caption=Entry team.  The VIP is down.  This one wasn't your fault.
+
+[Train9_3]
+Caption=Uh... I guess so.
+
+[Train9_2]
+Caption=You ready, Cadet?
+
+[toc_ContactedBlueOne]
+Caption=TOC to Fields...
+
+[toc_ContactedBlueTwo]
+Caption=TOC to Jackson...
+
+[Train9_1]
+Caption=Welcome to the grenade range.  Practice throwing your non-lethal grenades for a while.  You can test your accuracy by throwing them through the windows on the structure.  You can also test their effectiveness by throwing them at Cadet Wilson. Wilson has "volunteered" to experience precisely how non-lethals affect suspects in the field.
+
+[toc_ContactedEntryTeam]
+Caption=TOC to entry team...
+
+[Train8_4]
+Caption=When you are done, go through the door to the right.
+
+[Train8_3]
+Caption=When you must move and fire, keep in mind that moving smoothly, at a constant speed will give you better control over your weapon.  Remember, smooth is fast;  Smooth is accurate.
+
+[toc_ContactedLead]
+Caption=TOC to Lead...
+
+[Train8_2]
+Caption=This portion of the range is for firing at multiple targets behind cover.  Try moving and firing at them to get a sense of just how movements affect your accuracy.
+
+[toc_ContactedRedOne]
+Caption=TOC to Reynolds...
+
+[Train8_1]
+Caption=Not bad.   Remember, you are most accurate when you have a strong and stable firing position.  When you try to move and shoot, your accuracy is going to suffer. The faster you move, the worse your aim will be.  Your accuracy will be highest when you are standing still and crouching.
+
+[toc_ContactedRedTwo]
+Caption=TOC to Girard....
+
+[Train7_1]
+Caption=Now you can see how hard it can be to control your weapon and remain accurate at this range?
+
+[toc_MissionCompletedFailure]
+Caption=TOC to entry team, abort mission.
+
+[Train6_2]
+Caption=When you are finished on the range, move through the door on the right.
+
+[toc_MissionCompletedSuccess]
+Caption="TOC to entry team, objectives complete. "
+
+[Train6_1]
+Caption="At long range accuracy becomes imperative.  Your abiity to control your weapon with skill and discipline will save your life, and the lives of the people around you.  If you set the M4 on full auto, you will quickly lose control of it due to recoil.  Give a try now: set your M4 to full auto, and try to fire several short, controlled bursts.  "
+
+[Train5_3]
+Caption=When you're done, move down to the long range station.
+
+[toc_RepliedInjHostageReported]
+Caption=Roger that.  EMTs standing by.
+
+[Train5_2]
+Caption="Submachine guns and rifles have multiple firing modes, ranging from single shot to full automatic.  The M4 fires in semi and full-auto modes, while the submachine gun has semi-auto and a 3 round burst.  "
+
+[toc_RepliedInjSuspectReported]
+Caption=Copy.  Medical teams notified.
+
+[Train5_1]
+Caption=Your pistol is your backup weapon, usually used when you are in a bind or don't have time to reload.  At this range, pistols and shotguns become less accurate and it's often best to use a submachine gun or an assault rifle.   Equip your primary weapon and take some shots at this mid range target.
+
+[toc_RepliedHostageReported]
+Caption=Roger that.  Trailers standing by.
+
+[Train4_1]
+Caption=Whoa!  That one was wild.  Make sure you are firing from a solid shooting platform.  Remember that any shot that misses the target in the field might strike an innocent civilian.
+
+[Train3_1]
+Caption=Not bad!  The button on your right will reel in the target if you want to see the location of your hits.
+
+[toc_RepliedMissionStart]
+Caption=TOC copies.  Entry team, you are cleared for action.  Go when ready.
+
+[Train2_4]
+Caption=When you are finished with that, step up to the center station.
+
+[Train2_3]
+Caption=A good thing to practice is the so-called 'Failure Drill'.  That's when you take two shots at the body and then one at the head.
+
+[toc_RepliedOfficerDown]
+Caption=Roger that.  Medical assistance awaiting all clear.
+
+[Train2_2]
+Caption="Step up to the station on the far left and take a few shots at the targets.  You should practice aiming for the center of mass.  Hitting a suspect in the chest has the best chance of stopping him cold.   "
+
+[Train2_1]
+Caption=This is the firing range.  Firearm proficiency is a top priority for any SWAT officer, but never forget that SWAT is a life saving organization.  You are only authorized to fire in defense of life.
+
+[toc_RepliedSuspectReported]
+Caption=Copy.  Continue mission.
+
+[Train1_2]
+Caption=As you know, training is what gives SWAT the edge in the field.  Take advantage of this facility to test out your weapons, and meet your new team.  When  you are ready to start, just go through the door to the right of the chalkboard.
+
+[Train1_1]
+Caption=Welcome to the Riverside Training Facility.  I'm Lieutenant Sonny Bonds. I'll be observing your practice run from the catwalks, and giving you a few pointers about our procedures.  I'm sure you've heard all of this before, but it never hurts to practice one more time.
+
+[s1_spottedteam]
+Caption=TOC, this is Sierra One. Entry team spotted.
+
+[s1_lostteam]
+Caption=TOC, this is Sierra One. Lost visuals on entry team.
+
+[DNA_load]
+Caption=42 Adam, this is central BCC.  Multiple SWAT units responding to CP at base of Mount Threshold Ave; barricade/hostage situation
+
+[Hotel_load]
+Caption=Commander 20 Adam this is central BCC. Multiple SWAT units responding to CP at 1700 West 7th Avenue, hostage situation.
+
+[Arms_load]
+Caption="Adam, Boy, Truck 1 responding to staging at 1210 Canopy Road, high risk warrant service. "
+
+[Hospital_load]
+Caption=240 Adam, this is central BCC. Multiple SWAT units responding to St. Michael's Medical Center for rapid deployment.
+
+[Tenement_load]
+Caption=429 Adam, this is central BCC.  Adam, Boy, Truck unit 1 responding to 2189 Carrols Road, high risk warrant service.
+
+[s2_SpottedTeam]
+Caption=TOC, this is Sierra Two. Element spotted.
+
+[s2_LostTeam]
+Caption=TOC, this is Sierra Two. Lost visual on entry team.
+
+[Jewelry_load]
+Caption=429 Adam, this is central BCC.  Multiple SWAT units responding to CP at Broadway and East 100, barricade/hostage situation.
+
+[Barber_load]
+Caption=All units, this is central BCC.  Multiple SWAT units responding Code 3 to 1092 Westfield Road, officer in danger.
+
+[Red_load]
+Caption=78 Adam, this is central BCC.  Multiple SWAT units responding Code 3 to Command Post at Gridley and Bromfield, barricade/hostage situation.
+
+[Victory_load]
+Caption=79 Adam, this is central BCC.  Multiple SWAT units responding Code 3 to Command Post at 29th and Arlington, barricade/hostage situation.
+
+[Abomb_load]
+Caption=79 Adam, this is central BCC.  Multiple SWAT units responding Code 3 to CP at 127th and Adelaide, barricade situation.
+
+[Qwik_load]
+Caption=1812 Adam, this is central BCC.  Multiple SWAT units responding Code 3 to CP at Pitkin and Daly, barricade/hostage situation.
+
+[ld_AnnouncedComply]
+Caption=Police!  Put your hands up!
+
+[Fairfax_load]
+Caption="39 Adam, this is Central BCC. Adam, Boy and Truck 1 responding to 25 Glendive Lane for high risk warrant service. "
+
+[FoodWall_load]
+Caption="Detective 247 Adam, this is Central BCC. Adam, Boy and Truck 1 responding to 1572 Norman Street for high risk warrant service. "
+
+[ld_AnnouncedComplyWithGun]
+Caption=Police!  Drop your weapons!
+
+[ld_ArrestedSuspect]
+Caption=You have the right to remain silent.
+
+[ld_ContactedTOC]
+Caption=TOC, this is entry team...
+
+[ld_MissionDoneFailure]
+Caption=Make 'em safe, this one got away from us.
+
+[ld_MissionDoneSuccess]
+Caption=Nice work. Let's head back to HQ.
+
+[ld_OrderedBangNClear]
+Caption="Bang and clear!  "
+
+[ld_OrderedBlueFragment]
+Caption=Blue...
+
+[ld_OrderedBlueOne]
+Caption=Fields...
+
+[ld_OrderedBlueTwo]
+Caption=Jackson...
+
+[ld_OrderedBreachBangNClear]
+Caption=Bang and clear!
+
+[ld_OrderedBreachBangNMakeEntry]
+Caption=Bang and make entry!
+
+[ld_OrderedBreachGasNClear]
+Caption=Gas and clear!
+
+[ld_OrderedBreachGasNMakeEntry]
+Caption=Gas and make entry!
+
+[ld_OrderedBreachNClear]
+Caption=Open and clear!
+
+[ld_OrderedBreachNMakeEntry]
+Caption=Make entry and clear!
+
+[ld_OrderedBreachStingNClear]
+Caption=Deploy sting and clear.
+
+[ld_OrderedBreachStingNMakeEntry]
+Caption=Sting and make entry!
+
+[ld_OrderedCloseDoor]
+Caption=Close that door.
+
+[ld_OrderedCover]
+Caption=Cover that area.
+
+[ld_OrderedDeployBang]
+Caption=Deploy flashbang.
+
+[ld_OrderedDeployBreachSG]
+Caption=Deploy breaching shotgun!
+
+[ld_OrderedDeployC2]
+Caption=Deploy C2.
+
+[ld_OrderedDeployCS]
+Caption=Deploy CS.
+
+[ld_OrderedDeployedSting]
+Caption=Use a sting grenade.
+
+[ld_OrderedDeployLessLethalSG]
+Caption=Hit 'em with a beanbag!
+
+[ld_OrderedDeployPepper]
+Caption=Deploy pepper spray
+
+[ld_OrderedDeployPepperGun]
+Caption=Deploy the pepper gun.
+
+[ld_OrderedDeployTaser]
+Caption=Use a taser!
+
+[ld_OrderedDeployWedge]
+Caption=Wedge the door!
+
+[ld_OrderedDisable]
+Caption=Disable that.
+
+[ld_OrderedDisableBomb]
+Caption=Disable that bomb
+
+[ld_OrderedElement]
+Caption=Gold...
+
+[ld_OrderedElementFragment]
+Caption=Element...
+
+[ld_OrderedExamine]
+Caption=Take a closer look.
+
+[ld_OrderedExamineButton]
+Caption=Check out that button.
+
+[fh2_AnnouncedRestrained_m07]
+Caption=You got no right to be arresting me!
+
+[ld_OrderedFallIn]
+Caption=Fall in.
+
+[ld_OrderedGasNClear]
+Caption=Gas and clear!
+
+[ld_OrderedMirrorCorner]
+Caption=Mirror the corner.
+
+[ld_OrderedMirrorRoom]
+Caption=Mirror the room!
+
+[ld_OrderedMirrorUnderDoor]
+Caption=Mirror under the door.
+
+[ld_OrderedMoveNClear]
+Caption=Move and clear.
+
+[ld_OrderedMoveTo]
+Caption=Go there.
+
+[ld_OrderedPickLock]
+Caption=Pick the lock.
+
+[ld_OrderedRedFragment]
+Caption=Red...
+
+[ld_OrderedRedOne]
+Caption=Reynolds...
+
+[ld_OrderedRedTwo]
+Caption=Girard..
+
+[ld_OrderedRemoveWedge]
+Caption=Remove the wedge
+
+[ld_OrderedRestrainFemCivilian]
+Caption=Cuff her.
+
+[ld_OrderedRestrainFemSuspect]
+Caption=Take her into custody.
+
+[ld_OrderedRestrainMaleCivilian]
+Caption=Cuff him.
+
+[ld_OrderedRestrainMaleSuspect]
+Caption=Take him into custody.
+
+[ld_OrderedSecureEvidence]
+Caption=Secure that!
+
+[ld_OrderedSecureWeapon]
+Caption=Secure that weapon for evidence!
+
+[ld_OrderedStackupTryDoor]
+Caption=Stack up and check the lock.
+
+[ld_OrderedStingNClear]
+Caption=Sting and clear!
+
+[ld_OrderedUse]
+Caption=Use that.
+
+[ld_ReactedBang]
+Caption=Aah!
+
+[ld_ReactedPepper]
+Caption=Hey!
+
+[ld_ReassuredAggressiveHostage]
+Caption=Stay quiet..
+
+[ld_ReassuredPassiveHostage]
+Caption=Youre safe now.
+
+[ld_RepliedTOC]
+Caption=Copy.
+
+[ld_RepliedToTOCMissionStart]
+Caption=Copy.  On our way.
+
+[ld_ReportedB1DownToTOC]
+Caption=TOC, this is entry team. Officer Fields is down.  Ready an evac.
+
+[ld_ReportedB2DownToTOC]
+Caption=TOC, this is entry team. Officer Jackson's down.  Ready an evac.
+
+[ld_ReportedCivilianSecured]
+Caption=TOC, this is entry team. Civilian secured and ready to evacuate.
+
+[ld_ReportedDeadSuspect]
+Caption=TOC, this is entry team. We have a dead suspect.
+
+[ld_ReportedDeployingC2]
+Caption=Deploying charge, prepare for detonation..
+
+[ld_ReportedDOA]
+Caption=TOC, this is entry team.  We have a DOA here.
+
+[ld_ReportedHostageKilled]
+Caption=TOC, this is entry team. We have a dead victim here.
+
+[ld_ReportedInjCivilianSecured]
+Caption=TOC, this is entry team. We've got a wounded civilian.
+
+[ld_ReportedInjSuspectSecured]
+Caption=TOC, this is entry team. Suspect is injured and in need of medical attention.
+
+[ld_ReportedMirrorNoTargets]
+Caption=No one in sight.
+
+[ld_ReportedOneSuspectSeen]
+Caption=Suspect is visible.
+
+[ld_ReportedPickingLock]
+Caption=Picking the lock...
+
+[ld_ReportedR1DownToTOC]
+Caption=TOC, this is entry team. Reynolds is down!  He's ready for evac.
+
+[ld_ReportedR2DownToTOC]
+Caption=TOC, this is entry team. Officer Girard down.  Ready for evac.
+
+[ld_ReportedSuspectSecured]
+Caption=TOC, this is entry team. Suspect is secured and ready for transport.
+
+[ld_StartedMission]
+Caption=Element to TOC, entry team in position.
+
+[b1_AnnouncedCivilianComplied]
+Caption=Contact has complied!
+
+[b1_AnnouncedClear]
+Caption=Area clear!
+
+[b1_AnnouncedComply]
+Caption=Police!  Get down, now!
+
+[b1_AnnouncedComplyWithGun]
+Caption=Police!  Drop your weapons!
+
+[b1_AnnouncedDoorClosed]
+Caption=Door closed.
+
+[b1_AnnouncedDoorIsAlreadyWedged]
+Caption=Already wedged!
+
+[b1_AnnouncedDoorIsWedged]
+Caption=Wedge deployed.
+
+[b1_AnnouncedLostTarget]
+Caption=Suspect is gone.  Orders?
+
+[b1_AnnouncedRemovedWedged]
+Caption=Wedge removed.
+
+[b1_AnnouncedStillCovering]
+Caption=Still clear.
+
+[b1_AnnouncedSuspectComplied]
+Caption=Suspect complied.
+
+[b1_ArrestedSuspect]
+Caption=Zipped and ready.
+
+[b1_AskedLeadToRestrain]
+Caption=You ready to cuff, Sir?
+
+[b1_BlueOneReported]
+Caption=Fields reporting...
+
+[b1_BlueTeamReported]
+Caption=Blue team...
+
+[b1_CompletedFallIn]
+Caption=In position.
+
+[b1_CompletedMoveTo]
+Caption=In position.
+
+[b1_CouldntBreachLocked]
+Caption=It's locked; confirm breach?
+
+[b1_CouldntBreachNoC2]
+Caption=No C2 available.
+
+[b1_CouldntCompleteMove]
+Caption=Can't get there.
+
+[b1_CoveredCompliedUnrestrained]
+Caption=Stay down.
+
+[b1_ElementReported]
+Caption=Element...
+
+[b1_ExaminedHostageDead]
+Caption=This one's DOA
+
+[b1_Four]
+Caption=Four...
+
+[b1_Multiple]
+Caption=Many...
+
+[b1_OpenedTrappedDoor]
+Caption=Somebody trapped it.
+
+[b1_ReactedBang]
+Caption=Blinded!
+
+[b1_ReactedFirstShot]
+Caption=Careful!
+
+[b1_ReactedHitByDoor]
+Caption=Someone's behind the door.
+
+[b1_ReactedLeadKilledOfficer]
+Caption=Lead's gone rogue!  Get him!
+
+[b1_ReactedSecondShot]
+Caption="Watch it!   "
+
+[b1_ReactedThirdShot]
+Caption=Get him!
+
+[b1_ReassuredAggressiveHostage]
+Caption=It's just procedure.
+
+[b1_ReassuredPassiveHostage]
+Caption=Easy, good guys are here.
+
+[b1_RepliedCantDeployThrown]
+Caption=Can't throw there!
+
+[b1_RepliedDisabling]
+Caption=Copy - on it.
+
+[b1_RepliedFallIn]
+Caption=Roger -- moving to you.
+
+[b1_RepliedMoveTo]
+Caption=Understood -- moving.
+
+[b1_RepliedSwitchingPositions]
+Caption=Swap now.
+
+[b1_Reported1Suspect1Civilian]
+Caption=Two targets... one armed, one not...
+
+[b1_ReportedAlreadyBusy]
+Caption=I'm busy!
+
+[b1_ReportedAndRestrained]
+Caption="TOC, Fields speaking, "
+
+[b1_ReportedB2Down]
+Caption=Jackson's down!
+
+[b1_ReportedBeanBagUnavailable]
+Caption=Outta beanbags.
+
+[b1_ReportedBombDisabled]
+Caption=Bomb defused.
+
+[b1_ReportedBreachSGUnavailable]
+Caption=No breaching ammo.
+
+[b1_ReportedC2andSGUnavailable]
+Caption=Nothin' left but picks.
+
+[b1_ReportedCivilianRestrained]
+Caption=Civilian restrained.
+
+[b1_ReportedCivilianSpotted]
+Caption=Gotta contact...
+
+[b1_ReportedCivilianWillNotComply]
+Caption=We have a stubborn one...
+
+[b1_ReportedFemCivilianWillNotComply]
+Caption=She won't get down...
+
+[b1_ReportedMaleCivilianWillNotComply]
+Caption=He won't get down...
+
+[b1_ReportedContinuingClear2Minus]
+Caption=Moving forward!
+
+[b1_ReportedContinuingClear2Plus]
+Caption=Moving forward!  Trailers!
+
+[b1_ReportedDeadSuspect]
+Caption=Suspect down!
+
+[b1_ReportedDeployingBeanBag]
+Caption=Non lethal up.
+
+[b1_ReportedDeployingBreachSG]
+Caption=Breaching now.
+
+[b1_ReportedDeployingC2]
+Caption=Beginning breach.
+
+[b1_ReportedDeployingFlashbang]
+Caption=Droppin' bang.
+
+[b1_ReportedDeployingGas]
+Caption=Gas goin' in.
+
+[b1_ReportedDeployingPepper]
+Caption=Spraying pepper!
+
+[b1_ReportedDeployingPepperGun]
+Caption=Sure thing.
+
+[b1_ReportedDeployingSting]
+Caption=Droppin' stinger!
+
+[b1_ReportedDeployingTaser]
+Caption=Taser ready.
+
+[b1_ReportedDeployingToolkit]
+Caption=Unlocking it.
+
+[b1_ReportedDoorAlreadyClosed]
+Caption=Already closed.
+
+[b1_ReportedDoorBlocked]
+Caption=Something's in the way!
+
+[b1_ReportedDoorLocked]
+Caption=Door locked.
+
+[b1_ReportedDoorOpen]
+Caption=Door's unlocked.
+
+[b1_ReportedDoorUnlocked]
+Caption=It's unlocked.
+
+[b1_ReportedEvidenceSecured]
+Caption=Secured!
+
+[b1_ReportedFlashbangUnavailable]
+Caption=Team's out of bangs.
+
+[b1_ReportedGasUnavailable]
+Caption=Can't; no gas left.
+
+[b1_ReportedGenericOrderReply]
+Caption=Copy - on it.
+
+[b1_ReportedHostageDead]
+Caption=Found a victim DOA...
+
+[b1_ReportedHostageIncapacitated]
+Caption=Civilian down! Still breathing.
+
+[b1_ReportedLeadDown]
+Caption=Lead is down!
+
+[b1_ReportedManyCiviliansSeen]
+Caption=Many contacts, they look unarmed...
+
+[b1_ReportedManySuspectsSeen]
+Caption=Lots of bad guys... armed and ready...
+
+[b1_ReportedMirrorNoTargets]
+Caption=No targets visible.
+
+[b1_ReportedMirrorUnavailable]
+Caption=Not available!
+
+[b1_ReportedMoveUpBangs]
+Caption=Swap for bangs.
+
+[b1_ReportedMoveUpBeanBags]
+Caption=Bean bags forward.
+
+[b1_ReportedMoveUpBreachSG]
+Caption=Let the breacher in.
+
+[b1_ReportedMoveUpC2]
+Caption=Swap for C2.
+
+[b1_ReportedMoveUpGas]
+Caption=Move the CS up.
+
+[b1_ReportedMoveUpPepper]
+Caption=Swap for the pepper spray.
+
+[b1_ReportedMoveUpPepperGun]
+Caption=Pepper forward!
+
+[b1_ReportedMoveUpSting]
+Caption=Stingers forward!
+
+[b1_ReportedMoveUpTaser]
+Caption=Taser moving up!
+
+[b1_ReportedMoveUpWedges]
+Caption=Swap for wedges.
+
+[b1_ReportedNoEvidence]
+Caption=Nothing there.
+
+[b1_ReportedNoGun]
+Caption=Nothing there
+
+[b1_ReportedNotWedged]
+Caption=No wedge there.
+
+[b1_ReportedOfficerDown]
+Caption=Officer down!
+
+[b1_ReportedOneCivilianSeen]
+Caption=One person, unarmed...
+
+[b1_ReportedOneSuspectSeen]
+Caption=One suspect in sight!
+
+[b1_ReportedPepperUnavailable]
+Caption=Nope, no pepper spray.
+
+[b1_ReportedPepperGunUnavailable]
+Caption=Don't got it.
+
+[b1_ReportedR1Down]
+Caption=Reynold's down!
+
+[b1_ReportedR2Down]
+Caption=Girard is down!
+
+[b1_ReportedStingUnavailable]
+Caption=No stingers.
+
+[b1_ReportedSuspectDown]
+Caption=Bad guy down!
+
+[b1_ReportedSuspectFleeing]
+Caption=Suspect fleeing
+
+[b1_ReportedFemSuspectFleeing]
+Caption=Suspect fleeing
+
+[b1_ReportedMaleSuspectFleeing]
+Caption=He's taking off..
+
+[b1_ReportedSuspectNeutralized]
+Caption=Suspect down!
+
+[b1_ReportedSuspectRestrained]
+Caption=Suspect secured.
+
+[b1_ReportedSuspectsAndCivsSeen]
+Caption=We got a party...  Numerous guys and guns...
+
+[b1_ReportedSuspectSpotted]
+Caption=Suspect in sight!
+
+[b1_ReportedSuspectWillNotComply]
+Caption=This one won't give up.
+
+[b1_ReportedFemSuspectWillNotComply]
+Caption=This one won't give up.
+
+[b1_ReportedMaleSuspectWillNotComply]
+Caption=This one won't give up.
+
+[b1_ReportedTaserUnavailable]
+Caption=None availble!
+
+[b1_ReportedThresholdClear]
+Caption=No visible threats.
+
+[b1_ReportedTrapDisabled]
+Caption=Trap removed.
+
+[b1_ReportedTwoCiviliansSeen]
+Caption=Two unarmed contacts...
+
+[b1_ReportedTwoSuspectsSeen]
+Caption=Two armed suspects visible...
+
+[b1_ReportedWeaponSecured]
+Caption=Weapon secured!
+
+[b1_ReportedWedgesUnavailable]
+Caption=No more wedges.
+
+[b1_StartedClearing]
+Caption=Go, go, go!  Time to move!
+
+[b1_Three]
+Caption=Three...
+
+[b1_ToldPlayerBlocksDoor]
+Caption=You're blockin' the door.
+
+[b1_ToldPlayerToMove]
+Caption=You're in my way.
+
+[b1_Two]
+Caption=Two...
+
+[b2_AnnouncedCivilianComplied]
+Caption=Contact has complied!
+
+[b2_AnnouncedClear]
+Caption=Area clear!
+
+[b2_AnnouncedComply]
+Caption=Police!  Get down, now!
+
+[b2_AnnouncedComplyWithGun]
+Caption=Police!  Drop your weapons!
+
+[b2_AnnouncedDoorClosed]
+Caption=Door closed.
+
+[b2_AnnouncedDoorIsAlreadyWedged]
+Caption=Already wedged.
+
+[b2_AnnouncedDoorIsWedged]
+Caption=Door is wedged.
+
+[b2_AnnouncedLostTarget]
+Caption=Lost sight of them.  What now?
+
+[b2_AnnouncedRemovedWedged]
+Caption=Wedge removed.
+
+[b2_AnnouncedStillCovering]
+Caption=Still clear here
+
+[b2_AnnouncedSuspectComplied]
+Caption=Suspect complied!
+
+[b2_ArrestedSuspect]
+Caption=You got nothin' to say
+
+[b2_AskedLeadToRestrain]
+Caption=We gonna get out the cuffs?
+
+[b2_BlueTwoReported]
+Caption=Jackson reporting...
+
+[b2_BlueTeamReported]
+Caption=Blue team...
+
+[b2_CompletedFallIn]
+Caption=With you.
+
+[b2_CompletedMoveTo]
+Caption=In position.
+
+[b2_CouldntBreachLocked]
+Caption=Door's locked.  Confirm breach?
+
+[b2_CouldntBreachNoC2]
+Caption=No C2 available.
+
+[b2_CouldntCompleteMove]
+Caption=Negative, can't reach position.
+
+[b2_CoveredCompliedUnrestrained]
+Caption=Stay down.
+
+[b2_ElementReported]
+Caption=Element...
+
+[b2_ExaminedHostageDead]
+Caption=Victim down!
+
+[b2_Four]
+Caption=Four...
+
+[b2_Multiple]
+Caption=Many...
+
+[b2_OpenedTrappedDoor]
+Caption=Trapped.
+
+[b2_ReactedBang]
+Caption=My eyes!
+
+[b2_ReactedFirstShot]
+Caption=Careful!
+
+[b2_ReactedHitByDoor]
+Caption=Behind the door!
+
+[b2_ReactedLeadKilledOfficer]
+Caption="Lead's lost it!  "
+
+[b2_ReactedPepper]
+Caption=Aughh!  Watch your aim!
+
+[b2_ReactedSecondShot]
+Caption=Watch it!  No more warnings!
+
+[b2_ReactedSting]
+Caption=Ughh... hate that...
+
+[b2_ReactedThirdShot]
+Caption=Take him out!
+
+[b2_ReassuredAggressiveHostage]
+Caption=Keep it quiet!
+
+[b2_ReassuredPassiveHostage]
+Caption=Don't worry, I'll keep you safe.
+
+[b2_RepliedCantDeployThrown]
+Caption=Can't deploy.
+
+[b2_RepliedDisabling]
+Caption=Roger.
+
+[b2_RepliedFallIn]
+Caption=Understood -- following
+
+[b2_RepliedMoveTo]
+Caption=Roger, moving up.
+
+[b2_RepliedSwitchingPositions]
+Caption=Swap with me.
+
+[b2_Reported1Suspect1Civilian]
+Caption=Two contacts, one armed, one not...
+
+[b2_ReportedAlreadyBusy]
+Caption=Busy!
+
+[b2_ReportedAndRestrained]
+Caption="TOC, Jackson here, "
+
+[b2_ReportedB1Down]
+Caption=Fields is down!
+
+[b2_ReportedBeanBagUnavailable]
+Caption=We're out of less lethal.
+
+[b2_ReportedBombDisabled]
+Caption=Bomb has been defused.
+
+[b2_ReportedBreachSGUnavailable]
+Caption=Can't deploy!  No shotgun.
+
+[b2_ReportedC2andSGUnavailable]
+Caption=Nothin' but picks.
+
+[b2_ReportedCivilianRestrained]
+Caption=Civilian restrained.
+
+[b2_ReportedCivilianSpotted]
+Caption=Unarmed contact in sight!
+
+[b2_ReportedCivilianWillNotComply]
+Caption=This one's stubborn.
+
+[b2_ReportedFemCivilianWillNotComply]
+Caption=She won't comply.
+
+[b2_ReportedMaleCivilianWillNotComply]
+Caption=He won't comply...
+
+[b2_ReportedContinuingClear2Minus]
+Caption=Moving forward!
+
+[b2_ReportedContinuingClear2Plus]
+Caption="Moving forward! "
+
+[b2_ReportedDeadSuspect]
+Caption=Suspect neutralized!
+
+[b2_ReportedDeployingBeanBag]
+Caption=On it.
+
+[b2_ReportedDeployingBreachSG]
+Caption=Readying shotgun.
+
+[b2_ReportedDeployingC2]
+Caption=Booyah!  Deploying charge!
+
+[b2_ReportedDeployingFlashbang]
+Caption=Deploying bang.
+
+[b2_ReportedDeployingGas]
+Caption=Deploying CS.
+
+[b2_ReportedDeployingPepper]
+Caption=Pepper out.
+
+[b2_ReportedDeployingPepperGun]
+Caption=On it.
+
+[b2_ReportedDeployingSting]
+Caption=Deploying sting grenade!
+
+[b2_ReportedDeployingTaser]
+Caption=Taser out.
+
+[b2_ReportedDeployingToolkit]
+Caption=Unlocking it now.
+
+[b2_ReportedDoorAlreadyClosed]
+Caption=Already closed.
+
+[b2_ReportedDoorBlocked]
+Caption=Stuck.. Something in the way.
+
+[b2_ReportedDoorLocked]
+Caption=Door is locked.
+
+[b2_ReportedDoorOpen]
+Caption=Door's unlocked.
+
+[b2_ReportedDoorUnlocked]
+Caption=Door unlocked.
+
+[b2_ReportedEvidenceSecured]
+Caption=Secured!
+
+[b2_ReportedFlashbangUnavailable]
+Caption=Negative, no bangs left.
+
+[b2_ReportedGasUnavailable]
+Caption=Negative, no CS available.
+
+[b2_ReportedGenericOrderReply]
+Caption=Copy that.
+
+[b2_ReportedHostageDead]
+Caption=Found a victim DOA...
+
+[b2_ReportedHostageIncapacitated]
+Caption=Civilian down.
+
+[b2_ReportedLeadDown]
+Caption=Lead's down!
+
+[b2_ReportedManyCiviliansSeen]
+Caption=Many contacts, they look clean...
+
+[b2_ReportedManySuspectsSeen]
+Caption=Party's on.  Multiple suspects, all armed...
+
+[b2_ReportedMirrorNoTargets]
+Caption=No one in sight.
+
+[b2_ReportedMirrorUnavailable]
+Caption=Can't deploy!
+
+[b2_ReportedMoveUpBangs]
+Caption=Swap for bangs.
+
+[b2_ReportedMoveUpBeanBags]
+Caption=Bean bags forward.
+
+[b2_ReportedMoveUpBreachSG]
+Caption=Let the breacher in.
+
+[b2_ReportedMoveUpC2]
+Caption=Swap for C2.
+
+[b2_ReportedMoveUpGas]
+Caption=Move the CS up.
+
+[b2_ReportedMoveUpPepper]
+Caption=Swap for the pepper.
+
+[b2_ReportedMoveUpPepperGun]
+Caption=Gun forward!
+
+[b2_ReportedMoveUpSting]
+Caption=Sting grenades forward!
+
+[b2_ReportedMoveUpTaser]
+Caption=Taser moving up!
+
+[b2_ReportedMoveUpWedges]
+Caption=Swap for wedges.
+
+[b2_ReportedNoEvidence]
+Caption=Nothing there.
+
+[b2_ReportedNotWedged]
+Caption=Not wedged.
+
+[b2_ReportedOfficerDown]
+Caption=Officer down!
+
+[b2_ReportedOneCivilianSeen]
+Caption=One person, unarmed...
+
+[b2_ReportedOneSuspectSeen]
+Caption=One Suspect spotted.
+
+[b2_ReportedPepperUnavailable]
+Caption=No pepper available.
+
+[b2_ReportedPepperGunUnavailable]
+Caption=Unavailable.
+
+[b2_ReportedR1Down]
+Caption=Officer Reynolds' down!
+
+[b2_ReportedR2Down]
+Caption=Officer Girard is down!
+
+[b2_ReportedStingUnavailable]
+Caption=No stingers available.
+
+[b2_ReportedSuspectDown]
+Caption=Suspect is down!
+
+[b2_ReportedSuspectFleeing]
+Caption=We have a runner...
+
+[b2_ReportedFemSuspectFleeing]
+Caption=We have a runner...
+
+[b2_ReportedMaleSuspectFleeing]
+Caption=He's taking off..
+
+[b2_ReportedSuspectNeutralized]
+Caption=Suspect down!
+
+[b2_ReportedSuspectRestrained]
+Caption=Suspect restrained.
+
+[b2_ReportedSuspectsAndCivsSeen]
+Caption=Mixed crowd... some packin, some not...
+
+[b2_ReportedSuspectSpotted]
+Caption=Suspect in sight!
+
+[b2_ReportedSuspectWillNotComply]
+Caption=This one won't budge.
+
+[b2_ReportedFemSuspectWillNotComply]
+Caption=This one won't budge.
+
+[b2_ReportedMaleSuspectWillNotComply]
+Caption=Won't comply. We need to give him a nudge.
+
+[b2_ReportedTaserUnavailable]
+Caption=Non-available!
+
+[b2_ReportedThresholdClear]
+Caption=Clear so far!
+
+[b2_ReportedTrapDisabled]
+Caption=Removed the trap.
+
+[b2_ReportedTwoCiviliansSeen]
+Caption=Two clean contacts...
+
+[b2_ReportedTwoSuspectsSeen]
+Caption=Two suspects, armed..
+
+[b2_ReportedWeaponSecured]
+Caption=Weapon secured!
+
+[b2_ReportedWedgesUnavailable]
+Caption=No more wedges.
+
+[b2_RequestedOrders]
+Caption=Your orders, sir?
+
+[b2_StartedClearing]
+Caption=Time to move!  Go, go, go!
+
+[b2_Three]
+Caption=Three...
+
+[b2_ToldPlayerBlocksDoor]
+Caption=Stop blocking the door.
+
+[b2_ToldPlayerToMove]
+Caption=You're in my way.
+
+[b2_Two]
+Caption=Two..
+
+[r1_AnnouncedCivilianComplied]
+Caption=Civilian has complied!
+
+[r1_AnnouncedClear]
+Caption=Clear!
+
+[r1_AnnouncedComply]
+Caption=Everybody down!
+
+[r1_AnnouncedComplyWithGun]
+Caption=Police!  Drop your weapons!
+
+[r1_AnnouncedDoorClosed]
+Caption=Door closed.
+
+[r1_AnnouncedDoorIsAlreadyWedged]
+Caption=Its wedged already, sir.
+
+[r1_AnnouncedDoorIsWedged]
+Caption=Wedge deployed.
+
+[r1_AnnouncedLostTarget]
+Caption=Suspect out of range.  What now?
+
+[r1_AnnouncedRemovedWedged]
+Caption=Wedge removed.
+
+[r1_AnnouncedStillCovering]
+Caption=Still clear here.
+
+[r1_AnnouncedSuspectComplied]
+Caption=Suspect has complied!
+
+[r1_ArrestedSuspect]
+Caption=Alright.  That's enough.
+
+[r1_AskedLeadToRestrain]
+Caption=What about the cuffs, Sir?
+
+[r1_CompletedFallIn]
+Caption=With you, Sir.
+
+[r1_CompletedMoveTo]
+Caption=In position.
+
+[r1_CouldntBreachLocked]
+Caption=Locked.  Orders?
+
+[r1_CouldntBreachNoC2]
+Caption=No C2 available.
+
+[r1_CouldntCompleteMove]
+Caption=I can't get there.
+
+[r1_CoveredCompliedUnrestrained]
+Caption=Stay down.
+
+[r1_ElementReported]
+Caption=Element...
+
+[r1_ExaminedHostageDead]
+Caption=Hostage contact; looks DOA.
+
+[r1_Four]
+Caption=Four...
+
+[r1_Multiple]
+Caption=Many...
+
+[r1_OpenedTrappedDoor]
+Caption=Somebody trapped it.
+
+[r1_ReactedBang]
+Caption=Watch it!
+
+[r1_ReactedFirstShot]
+Caption=Friendly fire!  Watch it!
+
+[r1_ReactedHitByDoor]
+Caption=Door's tryin' to open.
+
+[r1_ReactedLeadKilledOfficer]
+Caption=Lead's gone rogue!  Get him!
+
+[r1_ReactedPepper]
+Caption=Hey! Auugh!
+
+[r1_ReactedSecondShot]
+Caption=Hey!  Watch your gun!
+
+[r1_ReactedSting]
+Caption=Ohhh... watch your aim!
+
+[r1_ReactedThirdShot]
+Caption=Lead's gone rogue! Get him!
+
+[r1_ReassuredAggressiveHostage]
+Caption=Stay calm.
+
+[r1_ReassuredPassiveHostage]
+Caption=Hang in there, it'll be OK!
+
+[r1_RedOneReported]
+Caption=Reynolds reporting...
+
+[r1_RedTeamReported]
+Caption=Red team...
+
+[r1_RepliedCantDeployThrown]
+Caption=Can't deploy there, Sir.
+
+[r1_RepliedDisabling]
+Caption=Copy - on it.
+
+[r1_RepliedFallIn]
+Caption=Got it.  Falling in.
+
+[r1_RepliedMoveTo]
+Caption=Copy that, moving now.
+
+[r1_RepliedSwitchingPositions]
+Caption=Need to get into position
+
+[r1_Reported1Suspect1Civilian]
+Caption=Two contacts: one armed, one not...
+
+[r1_ReportedAlreadyBusy]
+Caption=Already busy, sir.
+
+[r1_ReportedAndRestrained]
+Caption=Reynolds to TOC...
+
+[r1_ReportedB1Down]
+Caption=Fields is down!
+
+[r1_ReportedB2Down]
+Caption=Jacskon's down!
+
+[r1_ReportedBeanBagUnavailable]
+Caption=No shotgun, Sir.
+
+[r1_ReportedBombDisabled]
+Caption=Bomb defused.
+
+[r1_ReportedBreachSGUnavailable]
+Caption=No shotgun ammo available.
+
+[r1_ReportedC2andSGUnavailable]
+Caption=Nothing but picks here, Sir.
+
+[r1_ReportedCivilianRestrained]
+Caption="Civilian secured. "
+
+[r1_ReportedCivilianSpotted]
+Caption=Unarmed contact in sight!
+
+[r1_ReportedCivilianWillNotComply]
+Caption=They won't get down...
+
+[r1_ReportedFemCivilianWillNotComply]
+Caption=She won't get down...
+
+[r1_ReportedMaleCivilianWillNotComply]
+Caption=He won't get down...
+
+[r1_ReportedContinuingClear2Minus]
+Caption=Moving forward!
+
+[r1_ReportedContinuingClear2Plus]
+Caption=Continuing on!
+
+[r1_ReportedDeadSuspect]
+Caption=Suspect down!
+
+[r1_ReportedDeployingBeanBag]
+Caption=Non lethal ready.
+
+[r1_ReportedDeployingBreachSG]
+Caption=Breaching shotgun ready.
+
+[r1_ReportedDeployingC2]
+Caption=Setting charge.
+
+[r1_ReportedDeployingFlashbang]
+Caption=Deploying bang.
+
+[r1_ReportedDeployingGas]
+Caption=Deploying CS.
+
+[r1_ReportedDeployingPepper]
+Caption=Deploying pepper spray!
+
+[r1_ReportedDeployingPepperGun]
+Caption=Yes, Sir.
+
+[r1_ReportedDeployingSting]
+Caption=Sting grenade out.
+
+[r1_ReportedDeployingTaser]
+Caption=Taser ready.
+
+[r1_ReportedDeployingToolkit]
+Caption=Unlocking it.
+
+[r1_ReportedDoorAlreadyClosed]
+Caption=Already closed.
+
+[r1_ReportedDoorBlocked]
+Caption=Door's blocked!
+
+[r1_ReportedDoorLocked]
+Caption=Door is locked.
+
+[r1_ReportedDoorOpen]
+Caption=Door's unlocked.
+
+[r1_ReportedDoorUnlocked]
+Caption=It's unlocked.
+
+[r1_ReportedEvidenceSecured]
+Caption=Got it!
+
+[r1_ReportedFlashbangUnavailable]
+Caption=No bangs left.
+
+[r1_ReportedGasUnavailable]
+Caption=No more CS.
+
+[r1_ReportedGenericOrderReply]
+Caption=Copy - on it.
+
+[r1_ReportedHostageDead]
+Caption=We have a victim down...
+
+[r1_ReportedHostageIncapacitated]
+Caption=Civilian down! Still breathing.
+
+[r1_ReportedLeadDown]
+Caption=Lead's down!
+
+[r1_ReportedManyCiviliansSeen]
+Caption=Many contacts, they look unarmed...
+
+[r1_ReportedManySuspectsSeen]
+Caption=Multiple contacts, all armed...
+
+[r1_ReportedMirrorNoTargets]
+Caption=No one in sight.
+
+[r1_ReportedMirrorUnavailable]
+Caption=Not available!
+
+[r1_ReportedMoveUpBangs]
+Caption=Swap for bangs.
+
+[r1_ReportedMoveUpBeanBags]
+Caption=Bean bags forward.
+
+[r1_ReportedMoveUpBreachSG]
+Caption=Let the breacher in.
+
+[r1_ReportedMoveUpC2]
+Caption=Swap for C2.
+
+[r1_ReportedMoveUpGas]
+Caption=Move the CS up.
+
+[r1_ReportedMoveUpPepper]
+Caption=Bring up the pepper spray!
+
+[r1_ReportedMoveUpPepperGun]
+Caption=Gun comin' forward.
+
+[r1_ReportedMoveUpSting]
+Caption=Stingers forward!
+
+[r1_ReportedMoveUpWedges]
+Caption=Swap for wedges.
+
+[r1_ReportedNoEvidence]
+Caption=Nothing there.
+
+[r1_ReportedNoGun]
+Caption=Nothing there
+
+[r1_ReportedNotWedged]
+Caption=No wedge there.
+
+[r1_ReportedOfficerDown]
+Caption=Officer down!
+
+[r1_ReportedOneCivilianSeen]
+Caption=One person, unarmed...
+
+[r1_ReportedOneSuspectSeen]
+Caption=One suspect in sight!
+
+[r1_ReportedPepperUnavailable]
+Caption=No pepper available.
+
+[r1_ReportedPepperGunUnavailable]
+Caption=Don't got it, sir.
+
+[r1_ReportedR2Down]
+Caption=Girard is down!
+
+[r1_ReportedStingUnavailable]
+Caption=No stingers available.
+
+[r1_ReportedSuspectDown]
+Caption=Suspect is down!
+
+[r1_ReportedSuspectFleeing]
+Caption=Suspect running..
+
+[r1_ReportedMaleSuspectFleeing]
+Caption=Suspect running..
+
+[r1_ReportedSuspectNeutralized]
+Caption=Suspect down!
+
+[r1_ReportedSuspectRestrained]
+Caption=Suspect secured.
+
+[r1_ReportedSuspectsAndCivsSeen]
+Caption="Mixed crowd... contacts with and without weapons "
+
+[r1_ReportedSuspectSpotted]
+Caption=Suspect in sight!
+
+[r1_ReportedSuspectWillNotComply]
+Caption=This one won't give up.
+
+[r1_ReportedMaleSuspectWillNotComply]
+Caption=He's not complying.
+
+[r1_ReportedThresholdClear]
+Caption=Clear so far..
+
+[r1_ReportedTrapDisabled]
+Caption=Removed the trap.
+
+[r1_ReportedTwoCiviliansSeen]
+Caption=Two unarmed contacts
+
+[r1_ReportedTwoSuspectsSeen]
+Caption=Two armed contacts visible...
+
+[r1_ReportedWeaponSecured]
+Caption=Weapon secured!
+
+[r1_ReportedWedgesUnavailable]
+Caption=No more  wedges.
+
+[r1_RequestedOrders]
+Caption=Sir, what next?
+
+[r1_StartedClearing]
+Caption=Move it!  Go, go, go!
+
+[r1_Three]
+Caption=Three...
+
+[r1_ToldPlayerBlocksDoor]
+Caption=You're blocking the door.
+
+[r1_ToldPlayerToMove]
+Caption=You're in my spot, sir.
+
+[r1_Two]
+Caption=Two..
+
+[r2_AnnouncedCivilianComplied]
+Caption=Contact has complied!
+
+[r2_AnnouncedClear]
+Caption=Room clear!
+
+[r2_AnnouncedComply]
+Caption=Police!  On the floor!
+
+[r2_AnnouncedComplyWithGun]
+Caption=Drop your weapons! Do it!
+
+[r2_AnnouncedDoorClosed]
+Caption=Door closed.
+
+[r2_AnnouncedDoorIsAlreadyWedged]
+Caption=Already wedged.
+
+[r2_AnnouncedDoorIsWedged]
+Caption=Door wedged.
+
+[r2_AnnouncedLostTarget]
+Caption=Suspect's outta range.  What next?
+
+[r2_AnnouncedRemovedWedged]
+Caption=Wedge removed.
+
+[r2_AnnouncedStillCovering]
+Caption=Still clear here
+
+[r2_ArrestedSuspect]
+Caption=Keep it quiet!
+
+[r2_AskedLeadToRestrain]
+Caption=You gonna get this one, Boss?
+
+[r2_CompletedFallIn]
+Caption=With you.
+
+[r2_CompletedMoveTo]
+Caption=In position.
+
+[r2_CouldntBreachLocked]
+Caption=Door's locked. Should we breach it?
+
+[r2_CouldntBreachNoC2]
+Caption=No C2.
+
+[r2_CouldntCompleteMove]
+Caption=I can't reach that spot.
+
+[r2_CoveredCompliedUnrestrained]
+Caption=Stay down.
+
+[r2_ElementReported]
+Caption=Element...
+
+[r2_ExaminedHostageDead]
+Caption=We have a victim.  I think he's dead.
+
+[r2_Four]
+Caption=Four...
+
+[r2_Multiple]
+Caption=Many...
+
+[r2_OpenedTrappedDoor]
+Caption=That was trapped...
+
+[r2_ReactedBang]
+Caption=Careful with the bangs...
+
+[r2_ReactedFirstShot]
+Caption=Hey! Careful!
+
+[r2_ReactedHitByDoor]
+Caption=Watch the door.
+
+[r2_ReactedLeadKilledOfficer]
+Caption="Lead's lost it!  "
+
+[r2_ReactedPepper]
+Caption=Aughh!  Watch your aim!
+
+[r2_ReactedSecondShot]
+Caption=Watch it!  No more warnings!
+
+[r2_ReactedThirdShot]
+Caption=Stop him now!
+
+[r2_ReassuredAggressiveHostage]
+Caption=Take it easy!  We're the good guys.
+
+[r2_ReassuredPassiveHostage]
+Caption=You'll be safe soon.
+
+[r2_RedTwoReported]
+Caption=Girard reporting...
+
+[r2_RedTeamReported]
+Caption=Red team...
+
+[r2_RepliedCantDeployThrown]
+Caption=Can't deploy there!
+
+[r2_RepliedDisabling]
+Caption=Roger - working on it.
+
+[r2_RepliedFallIn]
+Caption=Roger -- moving to you.
+
+[r2_RepliedMoveTo]
+Caption=Understood -- moving.
+
+[r2_RepliedSwitchingPositions]
+Caption=Swap with me.
+
+[r2_Reported1Suspect1Civilian]
+Caption=Two contacts, one armed, one not...
+
+[r2_ReportedAlreadyBusy]
+Caption=Busy, Boss.
+
+[r2_ReportedAndRestrained]
+Caption="TOC, this is Girard, "
+
+[r2_ReportedB1Down]
+Caption=Fields is down!
+
+[r2_ReportedB2Down]
+Caption=Jacskon's down!
+
+[r2_ReportedBeanBagUnavailable]
+Caption=No beanbag ammo!
+
+[r2_ReportedBombDisabled]
+Caption=That's it!  Bomb is safe.
+
+[r2_ReportedBreachSGUnavailable]
+Caption=Can't deploy!
+
+[r2_ReportedC2andSGUnavailable]
+Caption=Nothin' but picks left.
+
+[r2_ReportedCivilianRestrained]
+Caption="Civilian secured. "
+
+[r2_ReportedCivilianSpotted]
+Caption=Unarmed contact in sight!
+
+[r2_ReportedCivilianWillNotComply]
+Caption=We have a stubborn one...
+
+[r2_ReportedFemCivilianWillNotComply]
+Caption=She won't get down...
+
+[r2_ReportedMaleCivilianWillNotComply]
+Caption=He won't get down...
+
+[r2_ReportedContinuingClear2Minus]
+Caption="Moving on!   "
+
+[r2_ReportedContinuingClear2Plus]
+Caption=Moving on!
+
+[r2_ReportedDeadSuspect]
+Caption=Suspect down.
+
+[r2_ReportedDeployingBeanBag]
+Caption=Less lethal ready.
+
+[r2_ReportedDeployingBreachSG]
+Caption=Breaching shotgun ready.
+
+[r2_ReportedDeployingC2]
+Caption=Using C2.
+
+[r2_ReportedDeployingFlashbang]
+Caption=Prep for flashbang.
+
+[r2_ReportedDeployingGas]
+Caption=Using gas.
+
+[r2_ReportedDeployingPepper]
+Caption=Using OC.
+
+[r2_ReportedDeployingPepperGun]
+Caption=Here it comes.
+
+[r2_ReportedDeployingSting]
+Caption=Deploying stinger!
+
+[r2_ReportedDeployingTaser]
+Caption=Taser ready.
+
+[r2_ReportedDeployingToolkit]
+Caption=Getting the lock.
+
+[r2_ReportedDoorAlreadyClosed]
+Caption=Already closed.
+
+[r2_ReportedDoorBlocked]
+Caption=Something's in the way!
+
+[r2_ReportedDoorLocked]
+Caption=Door's locked.
+
+[r2_ReportedDoorOpen]
+Caption=Door's unlocked.
+
+[r2_ReportedDoorUnlocked]
+Caption=Door's unlocked.
+
+[r2_ReportedEvidenceSecured]
+Caption=Secured!
+
+[r2_ReportedFlashbangUnavailable]
+Caption=Sorry, Boss.  No bangs.
+
+[r2_ReportedGasUnavailable]
+Caption=No more CS gas.
+
+[r2_ReportedGenericOrderReply]
+Caption=Check.  On it.
+
+[r2_ReportedHostageDead]
+Caption=Found a victim, DOA...
+
+[r2_ReportedHostageIncapacitated]
+Caption=Civilian down! Still breathing.
+
+[r2_ReportedLeadDown]
+Caption=Lead's been injured!
+
+[r2_ReportedManyCiviliansSeen]
+Caption=Many contacts, they look unarmed...
+
+[r2_ReportedManySuspectsSeen]
+Caption=Multiple suspects, all armed...
+
+[r2_ReportedMirrorNoTargets]
+Caption=No one in sight.
+
+[r2_ReportedMirrorUnavailable]
+Caption=Can't do that, Boss.
+
+[r2_ReportedMoveUpBangs]
+Caption=Swap for bangs.
+
+[r2_ReportedMoveUpBeanBags]
+Caption=Bean bags forward.
+
+[r2_ReportedMoveUpBreachSG]
+Caption=Let the breacher in.
+
+[r2_ReportedMoveUpC2]
+Caption=Swap for C2.
+
+[r2_ReportedMoveUpGas]
+Caption=Move the CS up.
+
+[r2_ReportedMoveUpPepper]
+Caption=Get some pepper up here.
+
+[r2_ReportedMoveUpPepperGun]
+Caption=Gun comin' through.
+
+[r2_ReportedMoveUpSting]
+Caption=Sting grenades forward.
+
+[r2_ReportedMoveUpTaser]
+Caption=Taser moving up!
+
+[r2_ReportedMoveUpWedges]
+Caption=Swap for wedges.
+
+[r2_ReportedNoEvidence]
+Caption=Nothing there.
+
+[r2_ReportedNoGun]
+Caption=I don't see any weapon.
+
+[r2_ReportedNotWedged]
+Caption=Not wedged.
+
+[r2_ReportedOfficerDown]
+Caption=Officer down!
+
+[r2_ReportedOneCivilianSeen]
+Caption=One person, unarmed...
+
+[r2_ReportedOneSuspectSeen]
+Caption=One suspect in sight!
+
+[r2_ReportedPepperUnavailable]
+Caption=No pepper available.
+
+[r2_ReportedPepperGunUnavailable]
+Caption=Can't do that.
+
+[r2_ReportedR1Down]
+Caption=Reynolds' down!
+
+[r2_ReportedStingUnavailable]
+Caption=No sting grenades.
+
+[r2_ReportedSuspectDown]
+Caption=Suspect is down!
+
+[r2_ReportedSuspectFleeing]
+Caption=Suspect fleeing
+
+[r2_ReportedFemSuspectFleeing]
+Caption=Suspect fleeing
+
+[r2_ReportedMaleSuspectFleeing]
+Caption=He's taking off..
+
+[r2_ReportedSuspectNeutralized]
+Caption=Suspect down!
+
+[r2_ReportedSuspectRestrained]
+Caption=Suspect secured.
+
+[r2_ReportedSuspectsAndCivsSeen]
+Caption=Mixed crowd... let's be careful.
+
+[r2_ReportedSuspectSpotted]
+Caption=Suspect in sight!
+
+[r2_ReportedSuspectWillNotComply]
+Caption=This one's not giving up...
+
+[r2_ReportedFemSuspectWillNotComply]
+Caption=This one's not giving up
+
+[r2_ReportedMaleSuspectWillNotComply]
+Caption=He won't get down.
+
+[r2_ReportedTaserUnavailable]
+Caption=None available!
+
+[r2_ReportedThresholdClear]
+Caption=Clear so far.
+
+[r2_ReportedTrapDisabled]
+Caption=Removed the trap.
+
+[r2_ReportedTwoCiviliansSeen]
+Caption=Two unarmed contacts...
+
+[r2_ReportedTwoSuspectsSeen]
+Caption=Two armed suspects visible...
+
+[r2_ReportedWeaponSecured]
+Caption=Weapon secured!
+
+[r2_ReportedWedgesUnavailable]
+Caption=I'm out of wedges.
+
+[r2_RequestedOrders]
+Caption=Boss, we're lookin for work.
+
+[r2_StartedClearing]
+Caption="Go, go, go!  "
+
+[r2_Three]
+Caption=Three...
+
+[r2_ToldPlayerBlocksDoor]
+Caption=Get away from the door.
+
+[r2_ToldPlayerToMove]
+Caption=Boss, you're in my way.
+
+[r2_Two]
+Caption=Two..
+
+[ldMP_MissionDoneSuccess]
+Caption=Nice work. Let's head back to HQ.
+
+[ldMP_OrderedBangNClear]
+Caption="Bang and clear!  "
+
+[ldMP_OrderedBlueFragment]
+Caption=Blue...
+
+[ldMP_OrderedBlueOne]
+Caption=Fields...
+
+[ldMP_OrderedBlueTwo]
+Caption=Jackson...
+
+[ldMP_OrderedBreachBangNClear]
+Caption=Bang and clear!
+
+[ldMP_OrderedBreachBangNMakeEntry]
+Caption=Bang and make entry!
+
+[ldMP_OrderedBreachGasNClear]
+Caption=Gas and clear!
+
+[ldMP_OrderedBreachGasNMakeEntry]
+Caption=Gas and make entry!
+
+[ldMP_OrderedBreachNClear]
+Caption=Open and clear!
+
+[ldMP_OrderedBreachNMakeEntry]
+Caption=Make entry and clear!
+
+[ldMP_OrderedBreachStingNClear]
+Caption=Deploy sting and clear.
+
+[ldMP_OrderedBreachStingNMakeEntry]
+Caption=Sting and make entry!
+
+[ldMP_OrderedCloseDoor]
+Caption=Close that door.
+
+[ldMP_OrderedCover]
+Caption=Cover that area.
+
+[ldMP_OrderedDeployBang]
+Caption=Deploy flashbang.
+
+[ldMP_OrderedDeployBreachSG]
+Caption=Deploy breaching shotgun!
+
+[ldMP_OrderedDeployC2]
+Caption=Deploy C2.
+
+[ldMP_OrderedDeployCS]
+Caption=Deploy CS.
+
+[ldMP_OrderedDeployedSting]
+Caption=Use a sting grenade.
+
+[ldMP_OrderedDeployLessLethalSG]
+Caption=Hit 'em with a beanbag!
+
+[ldMP_OrderedDeployPepper]
+Caption=Deploy pepper spray
+
+[ldMP_OrderedDeployPepperGun]
+Caption=Deploy the pepper gun.
+
+[ldMP_OrderedDeployTaser]
+Caption=Use a taser!
+
+[ldMP_OrderedDeployWedge]
+Caption=Wedge the door!
+
+[ldMP_OrderedDisable]
+Caption=Disable that.
+
+[ldMP_OrderedDisableBomb]
+Caption=Disable that bomb
+
+[ldMP_OrderedElement]
+Caption=Gold...
+
+[ldMP_OrderedElementFragment]
+Caption=Element...
+
+[ldMP_OrderedExamine]
+Caption=Take a closer look.
+
+[ldMP_OrderedFallIn]
+Caption=Fall in.
+
+[ldMP_OrderedGasNClear]
+Caption=Gas and clear!
+
+[ldMP_OrderedMirrorCorner]
+Caption=Mirror the corner.
+
+[ldMP_OrderedMirrorRoom]
+Caption=Mirror the room!
+
+[ldMP_OrderedMirrorUnderDoor]
+Caption=Mirror under the door.
+
+[ldMP_OrderedMoveNClear]
+Caption=Move and clear.
+
+[ldMP_OrderedMoveTo]
+Caption=Go there.
+
+[ldMP_OrderedPickLock]
+Caption=Pick the lock.
+
+[ldMP_OrderedRedFragment]
+Caption=Red...
+
+[ldMP_OrderedRedOne]
+Caption=Reynolds...
+
+[ldMP_OrderedRedTwo]
+Caption=Girard..
+
+[ldMP_OrderedRemoveWedge]
+Caption=Remove the wedge
+
+[ldMP_OrderedSecureEvidence]
+Caption=Secure that!
+
+[ldMP_OrderedSecureWeapon]
+Caption=Secure that weapon for evidence!
+
+[ldMP_OrderedStackupTryDoor]
+Caption=Stack up and check the lock.
+
+[ldMP_OrderedStingNClear]
+Caption=Sting and clear!
+
+[ldMP_OrderedUse]
+Caption=Use that.
+
+[b1_ContactedTOC]
+Caption=TOC, this is entry team
+
+[b1_MissionDoneFailure]
+Caption=Make 'em safe; this one got away from us.
+
+[b1_MissionDoneSuccess]
+Caption=Good work, guys. Let's head to debrief.
+
+[b1_OrderedBlueFragment]
+Caption=Blue
+
+[b1_OrderedBlueTwo]
+Caption=Jackson
+
+[b1_OrderedBreachBangNMakeEntry]
+Caption=Bang and clear!
+
+[b1_OrderedElement]
+Caption=Gold
+
+[b1_OrderedElementFragment]
+Caption=Element
+
+[b1_OrderedRedFragment]
+Caption=Red
+
+[b1_OrderedRedOne]
+Caption=Reynolds
+
+[b1_OrderedRedTwo]
+Caption=Girard..
+
+[b1_RepliedTOC]
+Caption=Roger.
+
+[b1_RepliedToTOCMissionStart]
+Caption=Copy.  On our way.
+
+[b1_ReportedCivilianSecured]
+Caption=TOC, this is entry team.  Civilian secured and ready to evacuate.
+
+[b1MP_ReportedDeadSuspect]
+Caption=Suspect down!
+
+[b1MP_ReportedDeployingC2]
+Caption=Beginning breach.
+
+[b1_ReportedDOA]
+Caption=TOC, this is entry team.  We have a body here.
+
+[b1_ReportedHostageKilled]
+Caption=TOC, this is entry team.  Civilian down; looks DOA.
+
+[b1_ReportedInjCivilianSecured]
+Caption=TOC, this is entry team.  Civilian down, but breathing.  Ready for evac.
+
+[b1_ReportedInjSuspectSecured]
+Caption=TOC, this is entry team.  Suspect is injured; is in need of medical attention.
+
+[b1_ReportedOfficerDownToTOC]
+Caption=TOC, this is entry team.  Officer down!  Ready evac!
+
+[b1_ReportedOtherTeamOnIt]
+Caption=Red's on it.
+
+[b1_ReportedPickingLock]
+Caption=Picking the lock
+
+[b1_ReportedSuspectSecured]
+Caption=TOC, this is entry team.  Suspect is secure and ready to evacuate.
+
+[b1_StartedMission]
+Caption=Element to TOC, entry team in position.
+
+[b2_ContactedTOC]
+Caption=TOC, this is entry team
+
+[b2_MissionDoneFailure]
+Caption=Make 'em safe; this one got away from us.
+
+[b2_MissionDoneSuccess]
+Caption=Good work, guys. Let's head to debrief.
+
+[b2_OrderedBlueFragment]
+Caption=Blue
+
+[b2_OrderedBlueOne]
+Caption=Fields
+
+[b2_OrderedBreachBangNMakeEntry]
+Caption=Bang and clear!
+
+[b2_OrderedBreachNClear]
+Caption=Breach and clear!
+
+[b2_OrderedBreachNMakeEntry]
+Caption=Move in and clear!
+
+[b2_OrderedBreachStingNMakeEntry]
+Caption=Sting and make entry!
+
+[b2_OrderedDeployBreachSG]
+Caption=Breach it; use the shotgun.
+
+[b2_OrderedDeployPepper]
+Caption=Use pepper.
+
+[b2_OrderedDeployPepperGun]
+Caption=Deploy the pepper gun.
+
+[b2_OrderedDeployTaser]
+Caption=Get the taser out!
+
+[b2_OrderedElement]
+Caption=Gold
+
+[b2_OrderedElementFragment]
+Caption=Element
+
+[b2_OrderedExamine]
+Caption=What's that?
+
+[b2_OrderedMoveNClear]
+Caption=Move and clear!
+
+[b2_OrderedPickLock]
+Caption=Pick it.
+
+[b2_OrderedRedFragment]
+Caption=Red
+
+[b2_OrderedRedOne]
+Caption=Reynolds
+
+[b2_OrderedRedTwo]
+Caption=Girard..
+
+[b2_OrderedStackupTryDoor]
+Caption=Stack up.  Try the door.
+
+[b2_OrderedStingNClear]
+Caption=Sting and clear!
+
+[b2_RepliedTOC]
+Caption=Roger.
+
+[b2_RepliedToTOCMissionStart]
+Caption=Copy.  On our way.
+
+[b2_ReportedCivilianSecured]
+Caption=TOC, this is entry team.  Civilian secured and ready for transport.
+
+[b2MP_ReportedDeadSuspect]
+Caption=Suspect neutralized!
+
+[b2MP_ReportedDeployingC2]
+Caption=Booyah!  Deploying charge!
+
+[b2_ReportedDOA]
+Caption=TOC, this is entry team.  We have a body here.
+
+[b2_ReportedHostageKilled]
+Caption=TOC, this is entry team.  Civilian down; looks DOA.
+
+[b2_ReportedInjCivilianSecured]
+Caption=TOC, this is entry team.  Civilian down, but breathing.  Ready for evac.
+
+[b2_ReportedInjSuspectSecured]
+Caption=TOC, this is entry team.  Suspect is injured; is in need of medical attention.
+
+[b2_ReportedOfficerDownToTOC]
+Caption=TOC, this is entry team.  Officer down!  Ready evac!
+
+[b2_ReportedOtherTeamOnIt]
+Caption=Red's on it.
+
+[b2_ReportedPickingLock]
+Caption=Picking the lock
+
+[b2_ReportedSuspectSecured]
+Caption=TOC, this is entry team.  Suspect is secure and ready to evacuate.
+
+[b2_StartedMission]
+Caption=Element to TOC, entry team in position.
+
+[r1_ContactedTOC]
+Caption=TOC, this is entry team
+
+[r1_MissionDoneFailure]
+Caption=Make 'em safe; this one got away from us.
+
+[r1_MissionDoneSuccess]
+Caption=Good work, guys. Let's head to debrief.
+
+[r1_OrderedBlueFragment]
+Caption=Blue
+
+[r1_OrderedBlueOne]
+Caption=Fields
+
+[r1_OrderedBlueTwo]
+Caption=Jackson
+
+[r1_OrderedBreachBangNMakeEntry]
+Caption=Bang and clear!
+
+[r1_OrderedElement]
+Caption=Gold
+
+[r1_OrderedElementFragment]
+Caption=Element
+
+[r1_OrderedRedFragment]
+Caption=Red
+
+[r1_OrderedRedTwo]
+Caption=Girard..
+
+[r1_RepliedTOC]
+Caption=Roger that.
+
+[r1_RepliedToTOCMissionStart]
+Caption=Copy.  On our way.
+
+[r1_ReportedCivilianSecured]
+Caption=TOC, this is entry team.  Civilian secured and ready to evacuate.
+
+[r1MP_ReportedDeadSuspect]
+Caption=Suspect down!
+
+[r1MP_ReportedDeployingC2]
+Caption=Setting charge.
+
+[r1_ReportedDOA]
+Caption=TOC, this is entry team.  We have a body here.
+
+[r1_ReportedHostageKilled]
+Caption=TOC, this is entry team.  Civilian down; looks DOA.
+
+[r1_ReportedInjCivilianSecured]
+Caption=TOC, this is entry team.  Civilian down, but breathing.  Ready for evac.
+
+[r1_ReportedInjSuspectSecured]
+Caption="TOC, this is entry team.  Injured suspect secure and ready for evac.   "
+
+[r1_ReportedOfficerDownToTOC]
+Caption=TOC, this is entry team.  Officer down!  Ready evac!
+
+[r1_ReportedOtherTeamOnIt]
+Caption=Blue's on it.
+
+[r1_ReportedPickingLock]
+Caption=Picking the lock
+
+[r1_ReportedSuspectSecured]
+Caption=TOC, this is entry team.  Suspect restrained.  Ready for pick-up.
+
+[r1_StartedMission]
+Caption=Element to TOC, entry team in position.
+
+[r2_ContactedTOC]
+Caption=TOC, this is entry team
+
+[r2_MissionDoneFailure]
+Caption=Make 'em safe; this one got away from us.
+
+[r2_MissionDoneSuccess]
+Caption=Good work, guys. Let's head to debrief.
+
+[r2_OrderedBlueFragment]
+Caption=Blue
+
+[r2_OrderedBlueOne]
+Caption=Fields
+
+[r2_OrderedBlueTwo]
+Caption=Jackson
+
+[r2_OrderedBreachBangNMakeEntry]
+Caption=Bang and clear!
+
+[r2_OrderedBreachGasNClear]
+Caption=Use gas.  Open and clear!
+
+[r2_OrderedBreachNMakeEntry]
+Caption=Move in and clear it!
+
+[r2_OrderedBreachStingNMakeEntry]
+Caption=Sting and make entry!
+
+[r2_OrderedCover]
+Caption=Keep it covered.
+
+[r2_OrderedDeployBreachSG]
+Caption=Breach it; use the shotgun.
+
+[r2_OrderedDeployedSting]
+Caption=Use a stinger.
+
+[r2_OrderedDeployPepper]
+Caption=Use pepper.
+
+[r2_OrderedDeployTaser]
+Caption=Get the taser out!
+
+[r2_OrderedDisable]
+Caption=Disable that.
+
+[r2_OrderedElement]
+Caption=Gold
+
+[r2_OrderedElementFragment]
+Caption=Element
+
+[r2_OrderedMirrorCorner]
+Caption=Mirror the corner.
+
+[r2_OrderedMirrorRoom]
+Caption=Mirror the room!
+
+[r2_OrderedMirrorUnderDoor]
+Caption=Mirror under the door.
+
+[r2_OrderedMoveNClear]
+Caption=Move in!
+
+[r2_OrderedPickLock]
+Caption=Pick it.
+
+[r2_OrderedRedFragment]
+Caption=Red
+
+[r2_OrderedRedOne]
+Caption=Reynolds
+
+[r2_OrderedRestrainMaleSuspect]
+Caption=Cuff that idiot.
+
+[r2_OrderedRestrainMaleCivilian]
+Caption=Cuff him.
+
+[r2_OrderedRestrainFemSuspect]
+Caption=Cuff that idiot.
+
+[r2_OrderedRestrainFemCivilian]
+Caption=Cuff her.
+
+[r2_OrderedSecureEvidence]
+Caption=Secure that!
+
+[r2_OrderedStingNClear]
+Caption=Sting and clear!
+
+[r2_OrderedUse]
+Caption=Use that.
+
+[r2_RepliedTOC]
+Caption=Roger that.
+
+[r2_RepliedToTOCMissionStart]
+Caption=Copy.  On our way.
+
+[r2_ReportedCivilianSecured]
+Caption=TOC, this is entry team.  Civilian secured and ready for transport.
+
+[r2MP_ReportedDeadSuspect]
+Caption=Suspect down.
+
+[r2MP_ReportedDeployingC2]
+Caption=Using C2.
+
+[r2_ReportedDOA]
+Caption=TOC, this is entry team.  We have a DOA here.
+
+[r2_ReportedHostageKilled]
+Caption=TOC, this is entry team.  Civilian down; looks DOA.
+
+[r2_ReportedInjCivilianSecured]
+Caption=TOC, this is entry team.  Civilian down, but breathing.  Ready for evac.
+
+[r2_ReportedInjSuspectSecured]
+Caption=TOC, this is entry team.  Suspect is injured; is in need of medical attention.
+
+[r2_ReportedOfficerDownToTOC]
+Caption=TOC, this is entry team.  Officer down!  Ready evac!
+
+[r2_ReportedOtherTeamOnIt]
+Caption=Blue's on it.
+
+[r2_ReportedPickingLock]
+Caption=Picking the lock
+
+[r2_ReportedSuspectSecured]
+Caption=TOC, this is entry team.  Suspect is secure and ready for transport.
+
+[r2_StartedMission]
+Caption=Element to TOC, entry team in position.
+
+[vip_ReactedPepper]
+Caption=Ah! Shit!
+
+[vip_VIPHelp]
+Caption=Help!
+
+[ms1_AnnouncedBarricade]
+Caption=Hide out!
+
+[ms1_AnnouncedCompliant]
+Caption=I give up!  Don't shoot!
+
+[ms1_AnnouncedFlee]
+Caption=Run!
+
+[ms1_AnnouncedInvestigate]
+Caption=Take a look...
+
+[ms1_AnnouncedNonCompliant]
+Caption=You won't stop us!
+
+[ms1_AnnouncedRestrained]
+Caption=Goddamn cops.
+
+[ms1_AnnouncedSpottedOfficer]
+Caption=I see the cops!
+
+[ms1_AnnouncedSpottedOfficerScared]
+Caption=Where'd they come from?
+
+[ms1_AnnouncedSpottedOfficerSurprised]
+Caption=Hey!  The cops'r'here!
+
+[ms1_CalledForHelp]
+Caption=Somebody get over here!
+
+[ms1_DoorBlocked]
+Caption=Don't tell me this is locked!
+
+[ms1_ReactedBang]
+Caption=Huh? What!?
+
+[ms1_ReactedBreach]
+Caption=The door!
+
+[ms1_ReactedDownOfficer]
+Caption=One less cop!
+
+[ms1_ReactedDownSuspect]
+Caption=Hang in there..
+
+[ms1_ReactedHitByDoor]
+Caption=The door!
+
+[ms1_ReactedInjuryIntense]
+Caption=They hit me!
+
+[ms1_ReactedInjuryNormal]
+Caption=Damn it!
+
+[ms1_RepliedToHostage]
+Caption=Just do what I say!
+
+[ms1_ReportedBarricading]
+Caption=What's goin' on out there?
+
+[ms1_ShotAtBreachedDoor]
+Caption=Start shooting!
+
+[ms1_TalkedToHostage]
+Caption=Don't give me any trouble!
+
+[ms1_ThreatenedHostage]
+Caption=Just keep comin' and see what happens...
+
+[ms2_AnnouncedBarricade]
+Caption=This looks safe.
+
+[ms2_AnnouncedCompliant]
+Caption=I dropped it! Don't shoot!
+
+[ms2_AnnouncedFlee]
+Caption=Run!
+
+[ms2_AnnouncedInvestigate]
+Caption=What's that?
+
+[ms2_AnnouncedNonCompliant]
+Caption=No!
+
+[ms2_AnnouncedRestrained]
+Caption=Hey!  Not so tight!
+
+[ms2_AnnouncedSpottedOfficer]
+Caption=There they are!
+
+[ms2_AnnouncedSpottedOfficerScared]
+Caption=I got trouble!
+
+[ms2_AnnouncedSpottedOfficerSurprised]
+Caption=You can't be here!
+
+[ms2_CalledForHelp]
+Caption=Help!
+
+[ms2_DoorBlocked]
+Caption=It's stuck!
+
+[ms2_ReactedBreach]
+Caption=The door!
+
+[ms2_ReactedDownOfficer]
+Caption=Serves you right..
+
+[ms2_ReactedDownSuspect]
+Caption=Goddamn killers...
+
+[ms2_ReactedHitByDoor]
+Caption=Block the door!  Cops!
+
+[ms2_ReactedInjuryIntense]
+Caption=Ahh!  I'm hit!
+
+[ms2_ReactedPepper]
+Caption=Ahh!  Get it off!  Ahh!
+
+[ms2_ReportedBarricading]
+Caption=Wait for 'em..
+
+[ms2_ShotAtBreachedDoor]
+Caption=Damn you!
+
+[ms2_TalkedToHostage]
+Caption=Don't give me any trouble.
+
+[ms2_ThreatenedHostage]
+Caption=Keep comin' and I shoot!
+
+[ms3_AnnouncedBarricade]
+Caption=In here, quick...
+
+[ms3_AnnouncedCompliant]
+Caption=Shit!  Don't shoot!
+
+[ms3_AnnouncedFlee]
+Caption=Take cover!
+
+[ms3_AnnouncedInvestigate]
+Caption=What was that?
+
+[ms3_AnnouncedNonCompliant]
+Caption=No!  Stop!!!
+
+[ms3_AnnouncedRestrained]
+Caption=Where's my goddamned lawyer?
+
+[ms3_AnnouncedSpottedOfficer]
+Caption=Police!
+
+[ms3_AnnouncedSpottedOfficerScared]
+Caption=Ah, Damn!
+
+[ms3_AnnouncedSpottedOfficerSurprised]
+Caption=Where'd they come from?
+
+[ms3_CalledForHelp]
+Caption=Help! Now!
+
+[ms3_DoorBlocked]
+Caption=Damn it!  Open up!
+
+[ms3_ReactedBang]
+Caption=What the-!
+
+[ms3_ReactedBreach]
+Caption=Look at the door!
+
+[ms3_ReactedDownOfficer]
+Caption=It's a start.
+
+[ms3_ReactedDownSuspect]
+Caption=Son of a bitch...
+
+[ms3_ReactedGas]
+Caption=They gassed us!
+
+[ms3_ReactedHitByDoor]
+Caption=Watch the door!
+
+[ms3_ReactedInjuryNormal]
+Caption=Oof!...Shit!
+
+[ms3_RepliedToHostage]
+Caption=What did I tell you?
+
+[ms3_ReportedBarricading]
+Caption=Stay quiet...
+
+[ms3_ShotAtBreachedDoor]
+Caption=Don't let 'em in!
+
+[ms3_TalkedToHostage]
+Caption=Quit whining!
+
+[ms3_ThreatenedHostage]
+Caption=I'll shoot! Get back!
+
+[ms4_AnnouncedBarricade]
+Caption=Gotta hide somewhere!
+
+[ms4_AnnouncedCompliant]
+Caption=I dropped it!
+
+[ms4_AnnouncedFlee]
+Caption=Run, damn it!
+
+[ms4_AnnouncedInvestigate]
+Caption=Take a look...
+
+[ms4_AnnouncedNonCompliant]
+Caption=Stop them!
+
+[ms4_AnnouncedRestrained]
+Caption=I want my lawyer!
+
+[ms4_AnnouncedSpottedOfficer]
+Caption=Cops are here!
+
+[ms4_AnnouncedSpottedOfficerScared]
+Caption=Don't let them get me!
+
+[ms4_AnnouncedSpottedOfficerSurprised]
+Caption=It's SWAT!
+
+[ms4_CalledForHelp]
+Caption=Gimme a hand!
+
+[ms4_DoorBlocked]
+Caption=Come on, can't be stuck now..
+
+[ms4_ReactedBreach]
+Caption=Door's goin' down!
+
+[ms4_ReactedDownOfficer]
+Caption=Guess who's next!
+
+[ms4_ReactedDownSuspect]
+Caption=Hold on...
+
+[ms4_ReactedHitByDoor]
+Caption=They're comin in'!
+
+[ms4_ReactedInjuryIntense]
+Caption=Ugh...Damn it!
+
+[ms4_ReactedInjuryNormal]
+Caption=Damn it!
+
+[ms4_RepliedToHostage]
+Caption=If you want to live...shut your damned mouth.
+
+[ms4_ReportedBarricading]
+Caption=Be ready!
+
+[ms4_ShotAFriend]
+Caption=Stay down!
+
+[ms4_TalkedToHostage]
+Caption=I ought to just kill you now..
+
+[fh1_AnnouncedCompliant]
+Caption=Don't shoot me!  I don't believe this is happening...
+
+[fh1_AnnouncedFlee]
+Caption=This is insane!
+
+[fh1_AnnouncedNonCompliant]
+Caption=No, no, they're still here... the gunmen... stop them....
+
+[fh1_AnnouncedRestrained]
+Caption=I don't believe this... why are you tying me up.... I thought you were going to rescue us... don't leave me here!
+
+[fh1_AnnouncedSpottedOfficer]
+Caption=You're gonna stop this madness, right?
+
+[fh1_AnnouncedSpottedOfficerScared]
+Caption=The gunmen... you've got to stop them....please...
+
+[fh1_AnnouncedSpottedOfficerSurprised]
+Caption=Where'd you come from?
+
+[fh1_CalledForHelp]
+Caption=In here!  Help!
+
+[fh1_DoorBlocked]
+Caption=No, no... this can't be locked...
+
+[fh1_ReactedBang]
+Caption=Hey!
+
+[fh1_ReactedBreach]
+Caption=Oh no!
+
+[fh1_ReactedHitByDoor]
+Caption=Someone's trying to get in!
+
+[fh1_ReactedInjuryNormal]
+Caption=Damn it!
+
+[fh1_ReactedSting]
+Caption=No....
+
+[fh2_AnnouncedCompliant]
+Caption=I don't believe this is happening... don't shoot me...
+
+[fh2_AnnouncedFlee]
+Caption=Oh shit!
+
+[fh2_AnnouncedNonCompliant]
+Caption=No, no, they're still here... the gunmen... stop them....
+
+[fh2_AnnouncedRestrained]
+Caption=I don't believe this... why are you tying me up.... I thought you were going to rescue us... don't leave me here!
+
+[fh2_AnnouncedSpottedOfficer]
+Caption=The police!  They're finally here!
+
+[fh2_AnnouncedSpottedOfficerScared]
+Caption=The gunmen... you've got to stop them....please...
+
+[fh2_AnnouncedSpottedOfficerSurprised]
+Caption=Where'd you come from?
+
+[fh2_CalledForHelp]
+Caption=Help me!  They're everywhere....
+
+[fh2_DoorBlocked]
+Caption=Damn it, open up... please....
+
+[fh2_ReactedBreach]
+Caption=The door!
+
+[fh2_ReactedHitByDoor]
+Caption=Someone's trying to get in!
+
+[fh3_AnnouncedCompliant]
+Caption=Just get me out of here...
+
+[fh3_AnnouncedFlee]
+Caption=Get out of here! Now!
+
+[fh3_AnnouncedNonCompliant]
+Caption=I'm not one of the shooters!
+
+[fh3_AnnouncedRestrained]
+Caption=Ow...Don't tie me up... just get me out of here!
+
+[fh3_AnnouncedSpottedOfficer]
+Caption=Guess they called out the big guns!
+
+[fh3_AnnouncedSpottedOfficerScared]
+Caption=Oh, my god, sir, they're still shooting... please!
+
+[fh3_AnnouncedSpottedOfficerSurprised]
+Caption=Holy...look it's SWAT!
+
+[fh3_CalledForHelp]
+Caption=Don't just stand there!  Help me!
+
+[fh3_DoorBlocked]
+Caption=Open up!
+
+[fh3_ReactedBreach]
+Caption=The door!
+
+[fh3_ReactedHitByDoor]
+Caption=Who's there?
+
+[fh4_AnnouncedCompliant]
+Caption=Just get me out of here...
+
+[fh4_AnnouncedFlee]
+Caption=Get out of here! Now!
+
+[fh4_AnnouncedNonCompliant]
+Caption=I'm not one of the shooters!
+
+[fh4_AnnouncedRestrained]
+Caption=Don't tie me up... just get me out of here!
+
+[fh4_AnnouncedSpottedOfficer]
+Caption=A cop!
+
+[fh4_AnnouncedSpottedOfficerScared]
+Caption=Don't let them kill us all!
+
+[fh4_AnnouncedSpottedOfficerSurprised]
+Caption=Holy... it's SWAT!
+
+[fh4_CalledForHelp]
+Caption=Get out of here! Now!
+
+[fh4_DoorBlocked]
+Caption=No!  This can't be locked!
+
+[fh4_ReactedBreach]
+Caption=The door!
+
+[fh4_ReactedHitByDoor]
+Caption=Someone's tryin' to get in...
+
+[fh4_ReactedInjuryNormal]
+Caption=Damn it!
+
+[mh1_AnnouncedCompliant]
+Caption=My hands're up!  Don't shoot!
+
+[mh1_AnnouncedEnemy]
+Caption=Hey, I'm not lookin' for trouble..
+
+[mh1_AnnouncedFlee]
+Caption=Run!
+
+[mh1_AnnouncedNonCompliant]
+Caption=Why aren't you stopping them?
+
+[mh1_AnnouncedRestrained]
+Caption=Wait... is there some mistake here?  You gotta stop those shooters...
+
+[mh1_AnnouncedSpottedOfficer]
+Caption=You better stop those bastards!
+
+[mh1_AnnouncedSpottedOfficerScared]
+Caption=Thank god you're here...
+
+[mh1_AnnouncedSpottedOfficerSurprised]
+Caption=Where'd you come from?
+
+[mh1_AnnouncedThreatened]
+Caption=Don't let him shoot me!
+
+[mh1_CalledForHelp]
+Caption=Over here!  Help!
+
+[mh1_DoorBlocked]
+Caption="I can't get it open!   "
+
+[mh1_PointedToEnemy]
+Caption=Over there!  Hurry!
+
+[mh1_ReactedBreach]
+Caption=Look out!  The door!
+
+[mh1_ReactedHitByDoor]
+Caption=The door!
+
+[mh1_ReactedHostageDown]
+Caption=Aw man, they got you!
+
+[mh1_ReactedOfficerDown]
+Caption=What now...
+
+[mh1_TalkedToEnemy]
+Caption=What's your problem.
+
+[mh2_AnnouncedCompliant]
+Caption=I don't believe this is happening...
+
+[mh2_AnnouncedEnemy]
+Caption=One a'the gunmen!  There!
+
+[mh2_AnnouncedFlee]
+Caption=Run!
+
+[mh2_AnnouncedNonCompliant]
+Caption=I'll ... just stay outta this, ok?
+
+[mh2_AnnouncedRestrained]
+Caption=You're gonna get me out of here?
+
+[mh2_AnnouncedSpottedOfficer]
+Caption=What took you so long?
+
+[mh2_AnnouncedSpottedOfficerScared]
+Caption=Youv'e got to get me out of here!
+
+[mh2_AnnouncedSpottedOfficerSurprised]
+Caption=You're a police officer?
+
+[mh2_AnnouncedThreatened]
+Caption=Watch out!  He's got a gun!
+
+[mh2_CalledForHelp]
+Caption=They're tryin' t' kill me!
+
+[mh2_DoorBlocked]
+Caption=What's wrong with this door?
+
+[mh2_PointedToEnemy]
+Caption=That way!
+
+[mh2_ReactedBreach]
+Caption=Ah!
+
+[mh2_ReactedHitByDoor]
+Caption=Who's back there?
+
+[mh2_ReactedHostageDown]
+Caption=We gotta get you outta here..
+
+[mh2_ReactedOfficerDown]
+Caption=That looks bad...
+
+[mh2_TalkedToEnemy]
+Caption=Why'd you drag me into this?
+
+[mh3_AnnouncedCompliant]
+Caption=Tell me this will be over soon.
+
+[mh3_AnnouncedEnemy]
+Caption=I can see one of the shooters..
+
+[mh3_AnnouncedFlee]
+Caption=I'm not waitin' here to get killed!
+
+[mh3_AnnouncedNonCompliant]
+Caption=Hurry, hurry, you've got to stop them!
+
+[mh3_AnnouncedRestrained]
+Caption=But.. But.. I didn't DO anything.
+
+[mh3_AnnouncedSpottedOfficer]
+Caption=Guess they called out the big guns!
+
+[mh3_AnnouncedSpottedOfficerScared]
+Caption=Don't let them kill us all!
+
+[mh3_AnnouncedSpottedOfficerSurprised]
+Caption=Holy it's SWAT!
+
+[mh3_AnnouncedThreatened]
+Caption=I think he's serious.
+
+[mh3_CalledForHelp]
+Caption=Don't just stand there!  Help me!
+
+[mh3_DoorBlocked]
+Caption=No!  This can't be locked!
+
+[mh3_PointedToEnemy]
+Caption=They went that way!
+
+[mh3_ReactedBreach]
+Caption=The door!
+
+[mh3_ReactedHitByDoor]
+Caption=Someone's tryin' to get in
+
+[mh3_ReactedHostageDown]
+Caption=Hang in there, the cop's're comin'!
+
+[mh3_ReactedOfficerDown]
+Caption=One of the cops is down!
+
+[mh3_TalkedToEnemy]
+Caption=There's got to be a  better solution
+
+[fh1_AnnouncedEnemy]
+Caption=He's got a gun!
+
+[fh1_AnnouncedThreatened]
+Caption=Watch out, watch out, he's got a gun...
+
+[fh1_PointedToEnemy]
+Caption=That way!
+
+[fh1_ReactedHostageDown]
+Caption=I don't believe this...
+
+[fh1_ReactedOfficerDown]
+Caption=Oh no!
+
+[fh1_TalkedToEnemy]
+Caption=Please... just let me go...
+
+[fh2_AnnouncedEnemy]
+Caption=He's got a gun!
+
+[fh2_AnnouncedThreatened]
+Caption=Watch out, watch out, he's got a gun...
+
+[fh2_PointedToEnemy]
+Caption=That way...
+
+[fh2_ReactedHostageDown]
+Caption=I don't believe this...
+
+[fh2_ReactedOfficerDown]
+Caption=Oh no!
+
+[fh2_TalkedToEnemy]
+Caption=Please... just let me go...
+
+[fh3_AnnouncedEnemy]
+Caption=There's a gunman, sir!
+
+[fh3_AnnouncedThreatened]
+Caption=Stop them!  Please!
+
+[fh3_PointedToEnemy]
+Caption=Over there!
+
+[fh3_ReactedHostageDown]
+Caption=Hang in there...
+
+[fh3_ReactedOfficerDown]
+Caption=One of the cops is down!
+
+[fh3_TalkedToEnemy]
+Caption=I have a family.. Please...
+
+[fh4_AnnouncedEnemy]
+Caption=I can see one of the shooters..
+
+[fh4_AnnouncedThreatened]
+Caption=I think he's serious....
+
+[fh4_PointedToEnemy]
+Caption=Oh... over there...
+
+[fh4_ReactedHostageDown]
+Caption=Hang in there, the cop's're comin'!
+
+[fh4_ReactedOfficerDown]
+Caption=One of the cops is down!
+
+[fh4_TalkedToEnemy]
+Caption=Can't we be reasonable?
+
+[ga_AnnouncedSpottedOfficerScared]
+Caption=Save me!
+
+[wr_TalkedToEnemy]
+Caption=You've got a lot of nerve!
+
+[Train35_1]
+Caption=Don't you listen?  Tell Blue to stack up on the door.
+
+[Train36_1]
+Caption=Maybe you didn't hear me.  Tell Blue to stack up on the door.
+
+[Train37_1]
+Caption=When you're ready to stop screwing around, let me know.
+
+[Train37_2]
+Caption=Fine, wise guy.  Figure it out yourself.
+
+[Train38_1]
+Caption="No, no, the other door.   "
+
+[Train39_1]
+Caption=No, you're goin' back where you came from now.  Try goin' left at the intersection.
+
+[Train40_1]
+Caption=Ok.  You can keep tabs on your officers when you are seperated from them by observing their movements through their helmet cameras.  Check out what Blue is seeing right now.  When you are ready, move into the next room and then we'll start getting fancy.
+
+[Train41_1]
+Caption=Since you can essentially see through their eyes, it's not hard to command them from a distance.  Tell the blue team to open and clear through the door they are covering.
+
+[Train42_1]
+Caption=Great.  Let's continue.
+
+[Train42_2]
+Caption=Head out of this room and stop about halfway up the stairs in the hallway.
+
+[Train43_1]
+Caption=Hold up there.
+
+[Train43_2]
+Caption=One of the most valuable members of your team is the sniper.  During the course of a mission, they will provide valuable intel and can even take out a bad guy without the team ever getting in harm's way.
+
+[Train43_3]
+Caption=Sierra One is across the warehouse in the little room above the firing range.
+
+[Train43_4]
+Caption=Sierra One, whenever you are ready.
+
+[Train43_4a]
+Caption=Sierra One to entry team.  I have a target.
+
+[Train43_5]
+Caption=The snipers will tell you when they see anything of interest.  You can switch to the sniper's point of view just like you can with your team mates.
+
+[Train43_6]
+Caption=Check it out.
+
+[Train43_7]
+Caption=When you're finished, continue up and go into the room with the target dummy.
+
+[Train44_1]
+Caption=Well, that's it for the refresher course I had planned for you.  Just the highlights, of course, but you'll be able to handle things from here on out.  When you're ready for active duty, just use that door to leave.  Otherwise, go ahead and roam about on your own, or continue training with the team.
+
+[Train45_1]
+Caption=OW!  What the Hell do you think you're doing?!
+
+[Train46_1]
+Caption=You could have killed me, you idiot!
+
+[Train47_1]
+Caption=Don't make come down there and kick your ass!
+
+[Train48_1]
+Caption=If you don't take this seriously, I can have you out of here in a heartbeat.
+
+[Train49_1]
+Caption="Damn! What the Hell was that for! Glad I wore my vest... "
+
+[Train50_1]
+Caption=Are you, a moron?!
+
+[Train51_1]
+Caption=What the hell are you doing?
+
+[Train52_1]
+Caption=Whoa!  You have got to check your fire!
+
+[Train53_1]
+Caption=That how people get killed during training, Officer!  Now watch it!
+
+[Train54_1]
+Caption=Take it easy!  You're lucky you didn't kill anyone!
+
+[Train55_1]
+Caption=Arrgh! Son of a bitch!
+
+[Train56_1]
+Caption=What the Hell was that for!
+
+[Train57_1]
+Caption=You're lucky I'm unarmed.
+
+[Train58_1]
+Caption=Shit!  I was just doing the Sergeant a favor by coming today
+
+[Train59_1]
+Caption=Arrgh! Son of a...
+
+[Train60_1]
+Caption=What the Hell was that for!
+
+[Train61_1]
+Caption=You're lucky I'm unarmed.
+
+[Train62_1]
+Caption=Shit!  I was just doing the Sergeant a favor by coming today
+
+[Train63_1]
+Caption=Oh my God!  You are an idiot.  Get the Hell out of here!
+
+[Train64_1]
+Caption=What in the hell are you doing! Get out of here!
+
+[Train65_1]
+Caption="Are you some kind of mental case!  "
+
+[Train66_1]
+Caption=Ill have your badge for this!
+
+[Train67_1]
+Caption=What do you think you're doing?
+
+[Train68_1]
+Caption=Move to the next area when you're done screwing around.
+
+[Train69_1]
+Caption=You're wasting my time.
+
+[Train70_1]
+Caption=Where are you goin?
+
+[Train71_1]
+Caption=Come over here when you're ready to get moving.
+
+[Train72_1]
+Caption=I'm getting paid overtime; I can wait for you.
+
+[Train73_1]
+Caption=Sweet!  Donuts!  Nobody told me there'd be donuts!
+
+[Train73_2]
+Caption=How can you eat that trash?  That crap'll slow you down in the field.
+
+[Train73_3]
+Caption=At least there's more to his diet than just meat.
+
+[Train73_4]
+Caption=Don't knock it till you've tried it, bro.
+
+[ConvFood1_1]
+Caption=That's our gun.
+
+[ConvFood2_1]
+Caption=TOC, this is entry team.  Evidence secured.
+
+[ConvFood2_2]
+Caption=Roger that.  Good job.
+
+[ConvFood3_1]
+Caption=Nice bench.  This Niu must be a real tough guy.
+
+[ConvSilence1_1]
+Caption=TOC, this is entry team.  We're in the house and continuing on.
+
+[ConvSilence1_2]
+Caption=Roger that.  Proceed with caution
+
+[ConvSilence2_1]
+Caption=This is one sick bastard.  I don't want to know what's on those tapes.
+
+[ConvSilence3_1]
+Caption=Jesus.  This is worse than the movies.  Get that girl out of here!
+
+[ConvSilence4_1]
+Caption=I don't feel good about this.  Not one bit
+
+[ConvSilence5_1]
+Caption=What is that smell?
+
+[ConvSilence6_1]
+Caption=TOC, this is entry team.  We tripped a booby trap.  Be alert for  perimeter breaks.
+
+[ConvSilence6_2]
+Caption="Roger that.   "
+
+[ConvSilence6_3]
+Caption=Check EVERY door!
+
+[ConvSilence7_1]
+Caption=We need to disable it, or find another way in.
+
+[ConvSilence8_1]
+Caption=This is disgusting.
+
+[ConvSilence9_1]
+Caption=May want to take a close look at the doors before we blow them!
+
+[ConvSilence10_1]
+Caption=What's that smell?  That is NOT teen spirit, people.
+
+[ConvSilence11_1]
+Caption=This is disgusting.  I mean, Python is pretty disgusting, but this is worse.
+
+[ConvSilence11_2]
+Caption=I know where you live, Fields.
+
+[ConvSilence12_2]
+Caption="TOC, this is entry team.  We've found an unidentified female victim, in need of medical assistance. "
+
+[ConvSilence12_3]
+Caption=Roger.  Notifying EMTs.  Keep us informed.
+
+[ConvSilence13_1]
+Caption=That's right Lisa.  According to Police another female body was discovered this morning.  It is believed that this young woman is also a victim of the so-called "Law School Lyncher."  According to our sources the Police are completely stumped and have no leads at this time.
+
+[ConvSilence14_1]
+Caption=I would just like to say...Melinda, if you can hear me, honey...I love you very much.  And I'd like to say to whoever took her...I beg you, please, please bring my daughter back...Please..Please...
+
+[ConvSilence14_2]
+Caption=That was the mother of Melinda Kline, an apparent victim of the so-called "Law School Lyncher".  Police have no leads as to the whereabouts of Melinda Kline at this time.  (beat)  And now a check on the weather...
+
+[ConvSilence15_1]
+Caption=This is not going to be good for my skin, I know it.
+
+[ConvSilence16_1]
+Caption=Holy Sigmund Freud
+
+[ConvSilence17_1]
+Caption="Creepy basement?  Check.  Creepy rat cages?  Check.   "
+
+[ConvSilence18_1]
+Caption=Not a film I'd like to be in...
+
+[ConvSilence19_1]
+Caption=TOC, this is entry team. There's an additional suspect in here.  Looks like Fairfax may have an accomplice.
+
+[ConvSilence19_2]
+Caption=Copy that, entry team.  We'll be ready for him.
+
+[ConvSilence20_1]
+Caption=Entry team to TOC.  We've found Melinda Kline.  She's going to be OK.
+
+[ConvSilence20_2]
+Caption=Roger on the good news, entry team.  We'll notify her family.
+
+[ConvConv1_1]
+Caption=This crap is worse than smack.  Makes 'em crazy.
+
+[ConvConv2_1]
+Caption=Guess her Bonnie and Clyde days are over.
+
+[ConvConv4_1]
+Caption=See, kids, this is why you should stay off drugs.
+
+[ConvConv4_2]
+Caption=Put a lid on it, Hollywood.  Stay sharp.
+
+[ConvConv4_3]
+Caption=Ok, dad.
+
+[ConvConv5_1]
+Caption=Man, she's tougher 'n some of the new recruits.  Old school gangster.
+
+[ConvConv6_1]
+Caption=Your Bonny and Clyde days are over, honey.
+
+[ConvAbomb1_1]
+Caption=TOC, this is entry team.  A lot of kids didn't make it out, and we're moving slower than expected.  Continuing on.
+
+[ConvAbomb1_2]
+Caption=Roger that.  Stay sharp.
+
+[ConvAbomb2_1]
+Caption=This is why I don't let my kids go to rock shows.
+
+[ConvAbomb2_2]
+Caption=What, and have them miss all this fun?
+
+[ConvAbomb3_1]
+Caption="TOC, this is entry team.  We've got a lot of injured civilians here.  "
+
+[ConvAbomb3_2]
+Caption=Roger that; contacting dispatch for additional EMT support.
+
+[ConvAbomb4_1]
+Caption=I could use a stiff one right about now.
+
+[ConvAbomb5_1]
+Caption=So, this is what the kids are doin' for fun nowadays...
+
+[ConvAbomb6_1]
+Caption=I'm not much of a dancer... but neither is this one, now.
+
+[ConvAbomb7_1]
+Caption=Bad hair day, chump?
+
+[ConvRepo1_1]
+Caption=Looks just like my old man's shop...
+
+[ConvRepo2_1]
+Caption=Nice outfit.
+
+[ConvRepo3_1]
+Caption=Think we're good for a discount next time we need an oil change?
+
+[ConvRedLib1_1]
+Caption=We could use one of those at the precinct.
+
+[ConvRedLib2_1]
+Caption="The ol' ratrace.  Now I remember why I joined the force.  "
+
+[ConvBarber1_1]
+Caption=Looks like Baccus has a lot more than bookmaking going on here.
+
+[ConvBarber2_1]
+Caption="TOC, this is entry team. There's a full blown casino in the basement!  Be prepared for additional suspects.   "
+
+[ConvBarber2_2]
+Caption="Roger.  Clean house and we'll sort it out later.  "
+
+[ConvBarber2_3]
+Caption=I wish I knew about this place when I was hooked on the ponies...
+
+[ConvBarber2_4]
+Caption=Can it, Girard...
+
+[ConvBarber3_1]
+Caption=What a setup!
+
+[ConvBarber4_1]
+Caption=Wonder how much this place clears...
+
+[ConvBarber5_1_b1]
+Caption=Damn!  It was wired to an alarm!
+
+[ConvBarber5_1_b2]
+Caption=Damn!  It was wired to an alarm!
+
+[ConvBarber5_1_r1]
+Caption=Damn!  It was wired to an alarm!
+
+[ConvBarber5_1_r2]
+Caption=Damn it!  It was wired to an alarm!
+
+[ConvBarber5_2]
+Caption=TOC, this is entry team.  We tripped an alarm; be alert for attempted perimeter breaks.
+
+[ConvBarber5_3]
+Caption="Roger that.   "
+
+[ConvBarber5_4]
+Caption=Told you it was going sideways.
+
+[ConvBarber6_1]
+Caption=Take a closer look at that door.
+
+[ConvBarber6_2_b1]
+Caption=There's an electronic lock on this door... could be wired to an alarm.
+
+[ConvBarber6_2_b2]
+Caption=There's an electronic lock on this door... could be wired to an alarm.
+
+[ConvBarber6_2_r1]
+Caption=There's an electronic lock on this door... could be wired to an alarm.
+
+[ConvBarber6_2_r2]
+Caption=There's an electronic lock on this door... could be wired to an alarm.
+
+[ConvBarber6_3]
+Caption=Should be some way to unlock it, maybe a button or a keypad?
+
+[ConvBarber7_1]
+Caption=Check out that door.
+
+[ConvBarber7_2_b1]
+Caption="The door's electronically locked -- probably alarmed, too. "
+
+[ConvBarber7_2_b2]
+Caption=The door's electronically locked -- probably alarmed.
+
+[ConvBarber7_2_r1]
+Caption="The door's electronically locked -- probably alarmed, too. "
+
+[ConvBarber7_2_r2]
+Caption="The door's electronically locked -- probably alarmed, too. "
+
+[ConvBarber7_3]
+Caption=I bet the button in the shop opens it.
+
+[ConvBarber8_1]
+Caption=Check out that door.
+
+[ConvBarber8_2_b1]
+Caption=Yeah, it was alarmed all right, electronic I think.  Too late now.
+
+[ConvBarber8_2_b2]
+Caption=Yeah, it was alarmed all right, electronic I think.  Too late now.
+
+[ConvBarber8_2_r1]
+Caption=Yeah, it was alarmed all right, electronic I think.  Too late now.
+
+[ConvBarber8_2_r2]
+Caption=Yeah, it was alarmed all right, electronic I think.  Too late now.
+
+[ConvBarber9_1]
+Caption=Check that button out.
+
+[ConvBarber9_2_b1]
+Caption=Taking a look.
+
+[ConvBarber9_2_b2]
+Caption=Taking a look.
+
+[ConvBarber9_2_r1]
+Caption=Taking a look.
+
+[ConvBarber9_2_r2]
+Caption=Taking a look.
+
+[ConvBarber9_3_b1]
+Caption=Looks like an access button.  Might unlock something.
+
+[ConvBarber9_3_b2]
+Caption=Looks like an access button.  Might unlock something.
+
+[ConvBarber9_3_r1]
+Caption=Looks like an access button.  Might unlock something.
+
+[ConvBarber9_3_r2]
+Caption=Looks like an access button.  Might unlock something.
+
+[ConvBarber10_1]
+Caption=Check out that button.
+
+[ConvBarber10_2_b1]
+Caption=Probably the buzzer for the basement door.
+
+[ConvBarber10_2_b2]
+Caption=Probably the buzzer for the basement door.
+
+[ConvBarber10_2_r1]
+Caption=Probably the buzzer for the basement door.
+
+[ConvBarber10_2_r2]
+Caption=Probably the buzzer for the basement door.
+
+[ConvBarber11_1]
+Caption=Check out that button.
+
+[ConvBarber11_2_b1]
+Caption=It's a buzzer -- gotta be for that basement door.
+
+[ConvBarber11_2_b2]
+Caption=It's a buzzer -- it's gotta be for the basement door.
+
+[ConvBarber11_2_r1]
+Caption=It's a buzzer -- gotta be for the basement door.
+
+[ConvBarber11_2_r2]
+Caption=It's a buzzer -- gotta be for that basement door.
+
+[ConvBarber12_1]
+Caption=Hit the buzzer and let us in.
+
+[ConvBarber12_2_b1]
+Caption=Ok,  That should have opened the door.
+
+[ConvBarber12_2_b2]
+Caption=Ok,  That should have opened the door.
+
+[ConvBarber12_2_r1]
+Caption=Ok,  That should have opened the door.
+
+[ConvBarber12_2_r2]
+Caption=Ok,  That should have opened that door.
+
+[ConvBarber13_1]
+Caption=Hit the button.
+
+[ConvBarber13_2_b1]
+Caption=Roger that, but it's too late now.
+
+[ConvBarber13_2_b2]
+Caption=Roger that, but it's too late now.
+
+[ConvBarber13_2_r1]
+Caption=Roger that, but it's too late now.
+
+[ConvBarber13_2_r2]
+Caption=Roger that, but it's too late now.
+
+[ConvBarber14_1]
+Caption=Highground reporting.  Shots are being fired at the perimeter from the neighboring laundromat.
+
+[ConvBarber14_2]
+Caption=TOC to entry team.  One of Walsh's contacts says the laundromat and the shop are connected.  You need to check it out ASAP.
+
+[ConvBarber14_3]
+Caption=Roger.  On our way.
+
+[ConvBarber14_4]
+Caption=This mission's going sideways...
+
+[ConvBarber15_1]
+Caption=Guess we don't need to ask how they cleaned their gambling take...
+
+[ConvBarber16_1]
+Caption=Entry team to TOC.  We found Officer Walsh; he's alive but in pretty bad shape.
+
+[ConvBarber16_2]
+Caption=Copy that.  Good job.  Notifying the EMTs.
+
+[ConvBarber17_1]
+Caption=TOC, this is entry team.  Checking out the laundromat now.
+
+[ConvBarber17_2]
+Caption="Copy that, entry team.      "
+
+[ConvJewel1_1]
+Caption=TOC, this is entry team. There's a large number of heavily armed suspects.  Be advised.
+
+[ConvJewel1_2]
+Caption=Roger that.  Stay Sharp.
+
+[ConvJewel2_1]
+Caption=Nice set up.
+
+[ConvJewel3_1]
+Caption=Impressive.
+
+[ConvJewel4_1]
+Caption=Bling bling!
+
+[ConvJewel5_1]
+Caption=Bank robbers ... so predictable...
+
+[ConvTen1_1]
+Caption=Jesus.  There's enough explosives here to send us all to high heaven.  Stay sharp.
+
+[ConvTen2_1]
+Caption="TOC, this is entry team. There's a large number of explosives here.  Be advised.   Any detonation could level this whole block.   "
+
+[ConvTen2_2]
+Caption=Roger that.  Continuing evacuations.
+
+[ConvTen3_1]
+Caption=Reminds me of boot camp.  And not in a good way.
+
+[ConvTen4_1]
+Caption=These guys are a lot more organized than I expected.
+
+[ConvTen4_2]
+Caption=Yeah...but with bombs.
+
+[ConvTen5_1]
+Caption=Oh, shit, and I thought I'd seen everything...
+
+[ConvTen6_1]
+Caption=TOC, we've found a graveyard in the basement.  Looks like it's their children.
+
+[ConvTen6_2]
+Caption="Copy that, entry team.  Notifiying the morgue.  "
+
+[ConvTen7_1]
+Caption=This place is giving me the creeps.
+
+[ConvTen8_1]
+Caption=What a piss poor excuse for a church...
+
+[ConvTen9_1]
+Caption=Ok, this is one bat filled belfry...
+
+[ConvTen10_1]
+Caption=Mother of god... those graves... they're just children...
+
+[ConvTen11_1]
+Caption=This is religion?  I don't think so.
+
+[ConvTen13_1]
+Caption=This is a map.. .of the city!   What the hell...
+
+[ConvHosp1_1]
+Caption=Thank you, Terry.  We're reporting live, just a few blocks from St. Michael's Medical Center, where apparently terrorists have invaded the ER wing.  I've just been told by our News 9 helicopter that SWAT has just entered the building to put an end to the situation.
+
+[ConvHosp1_2]
+Caption=Son of a bitch.
+
+[ConvHosp1_3]
+Caption=Here are the breaking details at this time.  An unknown number of heavily armed gunmen stormed into the hospital sometime after 11:30 PM.  The police are not telling us too many details.  But judging by the number of ambulances from other hospitals heading towards St Michael's, they have a serious situation in there...
+
+[ConvHosp1_4]
+Caption=TOC!  The TVs are on in here and the damn reporters just gave away our entry.   Get them off the air!
+
+[ConvHosp1_5]
+Caption=Consider it done, entry team.  Cutting the cable connection.
+
+[ConvHosp2_1]
+Caption=Cake anyone?
+
+[ConvHosp2_2]
+Caption=I'm not touching that shit.
+
+[ConvArms1_1]
+Caption="Undercover agent.   My name is Jennings.  "
+
+[ConvArms1_2]
+Caption=Entry team to TOC.  We have contact with Jennings
+
+[ConvArms1_3]
+Caption=Copy.  Bring him home.
+
+[ConvArms2_1]
+Caption=Highground reporting.  The meet is a go, principals in position.
+
+[ConvArms2_2]
+Caption=Entry team to TOC.  We are in position.
+
+[ConvArms2_3]
+Caption=TOC to entry team... you are cleared for action.  Go when ready.
+
+[ConvArms3_1]
+Caption=Looks they wanted to test the goods.
+
+[ConvArms4_1]
+Caption=Just what we didn't need...
+
+[ConvArms5_1]
+Caption=Home sweet home
+
+[ConvArms5_2]
+Caption=Sad.
+
+[ConvHotel1_1]
+Caption=Christ, this place is wired.
+
+[ConvHotel1_2]
+Caption=TOC, the shit just hit the fan.  This place is set to blow.  We don't have much time.  I need a sitrep.
+
+[ConvHotel1_3]
+Caption=Roger that, entry team.  We'll see what we can find out about this.
+
+[ConvHotel4_1]
+Caption=Tell the bomb squad they missed all the fun...
+
+[ConvHotel5_1]
+Caption=In ongoing news, the stalemate continues at the Old Granite Hotel.  To recap this afternoon's events, gunmen claiming to represent a group called America Now invaded the Old Granite, and kidnapped the heir to real estate baron James Bettencourt's empire.
+
+[ConvHotel5_2]
+Caption=The Old Granite is a local landmark, having been owned by the same family for nearly a hundred years until impending backruptcy forced the Jiarmin clan to sell the hotel to the Bettencourt trust...
+
+[ConvHotel6_1_b1]
+Caption=One down; this one is cut.
+
+[ConvHotel6_1_b2]
+Caption=This one is cut.  One down.
+
+[ConvHotel6_1_r1]
+Caption=One down; this one is cut.
+
+[ConvHotel6_1_r2]
+Caption=One down; this one is cut.
+
+[ConvHotel7_1_b1]
+Caption=It's safe.  That's two.
+
+[ConvHotel7_1_b2]
+Caption=That's two.  It's safe.
+
+[ConvHotel7_1_r1]
+Caption=It's safe.  That's two.
+
+[ConvHotel7_1_r2]
+Caption=It's safe.  That's two.
+
+[ConvHotel8_1_b1]
+Caption=This is secure; one left.
+
+[ConvHotel8_1_b2]
+Caption=This is secure; one left.
+
+[ConvHotel8_1_r1]
+Caption=This is secure; one left.
+
+[ConvHotel8_1_r2]
+Caption=This is secure; one left.
+
+[ConvHotel9_1_b1]
+Caption=That's four.
+
+[ConvHotel9_1_b2]
+Caption=That's four.
+
+[ConvHotel9_1_r1]
+Caption=That's four.
+
+[ConvHotel9_1_r2]
+Caption=That's four.
+
+[ConvHotel10_1]
+Caption=TOC to entry team.  We managed to access surveillance from a nearby storefront.  Four of our targets were carrying large packages.   Proceed as planned.  Bomb Squad is on the way.
+
+[ConvHotel10_2]
+Caption=Copy that, TOC.  I don't think we have time for the Squad, so we'll shut 'em down ourselves.
+
+[ConvHotel11_1]
+Caption=First bomb disabled.
+
+[ConvHotel12_1]
+Caption=Second bomb down.
+
+[ConvHotel13_1]
+Caption=Three done, one to go.
+
+[ConvHotel14_1]
+Caption=That's all four.
+
+[ConvDNA1_1]
+Caption=That looks like what we're after.  Take a look.
+
+[ConvDNA1_2_b1]
+Caption=That's it sir.  Let's grab it and go.
+
+[ConvDNA1_2_b2]
+Caption=That's it sir.  Let's grab it and go.
+
+[ConvDNA1_2_r1]
+Caption=That's it sir.  Let's grab it and go.
+
+[ConvDNA1_2_r2]
+Caption=That's it sir.  Let's grab it and go.
+
+[ConvDNA2_1]
+Caption=Always hated chemistry...
+
+[ConvDNA3_1]
+Caption=And they say science is boring... Not today, eh, class?
+
+[ConvDNA4_1]
+Caption=Cloning freaks me out.  But the world would be better with more ME in it..
+
+[ConvDNA5_1]
+Caption=There's my homework, professor.
+
+[ConvDNA6_1]
+Caption=So, this is what it's all about?  Man, what a crazy world..
+
+[s1_spottedcontact_m01]
+Caption=Sierra One reporting. Suspect spotted. Side 1, Level 2, in the living room.
+
+[s1_spottedcontact]
+Caption=Sierra One reporting. I have visible contact.
+
+[s1_spottedcontact_m02]
+Caption=Sierra One reporting. Suspect spotted. Side 2, Level 2.
+
+[s1_spottedcontact_m03]
+Caption=Sierra One reporting. Unknown in the store. Side 1, level 1.
+
+[s1_spottedcontact_m04]
+Caption=Sierra One to entry team. Suspect entered storage area. Side 4, level 1.
+
+[s1_spottedcontact_m06]
+Caption=Sierra One to entry team. Suspect spotted in rec room. That's side 2, Level 2.
+
+[s1_spottedcontact_m07]
+Caption=Sierra One reporting. Suspect in the rear storage area. Side 3, level 1.
+
+[s1_spottedcontact_m08]
+Caption=Sierra One to entry team. Unknown in 2nd floor office. Side 1, level 2.
+
+[s1_spottedcontact_m09]
+Caption=Sierra One reporting. Side 1, level 2. Suspect is in an office space. Could be a mailing room.
+
+[s1_spottedcontact_m11]
+Caption=This is Sierra One. Suspect spotted. Side 3.
+
+[s1_spottedcontact_m12]
+Caption=This is Sierra One. Suspect spotted. Side 1, Level 7.
+
+[s1_lostcontact_m01]
+Caption=Sierra One reporting. Suspect in living room has moved away.
+
+[s1_lostcontact]
+Caption=Sierra One reporting. I've lost sight of the suspect. Be advised.
+
+[s1_lostcontact_m02]
+Caption=Sierra One to entry team. Lost visuals. Side 2, level 2.
+
+[s1_lostcontact_m03]
+Caption=Sierra One to entry team. Cancel visual on the unknown. Moved out of the store area.
+
+[s1_lostcontact_m04]
+Caption=This is Sierra One. Lost contact on the suspect in storage room.
+
+[s1_lostcontact_m06]
+Caption=This is Sierra One. Suspect has left the rec room. Side 2, level 2.
+
+[s1_lostcontact_m07]
+Caption=This is Sierra One. Lost visual on side 3, level 1.
+
+[s1_lostcontact_m08]
+Caption=This is Sierra One. Side 1, level 2. Suspect has moved out of sight.
+
+[s1_lostcontact_m09]
+Caption=Sierra One to entry team. We have lost visual on suspect in mail room. Side 1, level 2.
+
+[s1_lostcontact_m11]
+Caption=Sierra One to entry team. Lost visual on side 3.
+
+[s1_lostcontact_m12]
+Caption=Sierra One to entry team. Lost visual. Side 1, level 7.
+
+[s2_SpottedContact_m01]
+Caption=Sierra Two reporting. Suspect spotted in the bedroom. Side 3, Level 2.
+
+[s2_SpottedContact]
+Caption=Sierra Two reporting I have visual contact.
+
+[s2_SpottedContact_m02]
+Caption=Sierra Two reporting. Suspect spotted. Side 4, Level 2.
+
+[s2_SpottedContact_m03]
+Caption=Suspect spotted in the back alley. Side 2, Level 2.
+
+[s2_SpottedContact_m06]
+Caption=Sierra Two to enty team. Suspect spotted in conference room. Side 4, Level 2.
+
+[s2_SpottedContact_m08]
+Caption=Sierra Two reporting. I have suspect spotted. Side 1, Level 2.
+
+[s2_SpottedContact_m09]
+Caption=Sierra Two to entry team. Side 2, level 2. I have a suspect in what looks to be a storage room.
+
+[s2_SpottedContact_m11]
+Caption=This is Sierra Two. Suspect spotted. Side 4, Level 2.
+
+[s2_SpottedContact_m12]
+Caption=Sierra Two reporting. Suspect spotted. Side 1, Level 6.
+
+[s2_LostContact_m01]
+Caption=This is Sierra Two. Suspect in the bedroom has moved away.
+
+[s2_LostContact]
+Caption=Sierra Two reporting. Be advised. I've lost sight of the suspect.
+
+[s2_LostContact_m02]
+Caption=This is Sierra Two. Suspect has moved. Last seen side 4, level 2. Living room.
+
+[s2_LostContact_m03]
+Caption=This is Sierra Two. Suspect has moved. I no longer have visual in the back alley.
+
+[s2_LostContact_m06]
+Caption=Sierra Two reporting Suspect has left visual range. Side 4, level 2.
+
+[s2_LostContact_m08]
+Caption=Sierra Two to entry team.  Suspect is no longer in sight. Side 1, level 2.
+
+[s2_LostContact_m09]
+Caption=This is Sierra Two. Suspect in storage room is out of view. Side 2, level 2.
+
+[s2_LostContact_m11]
+Caption=Sierra Two reporting Suspect contact lost. Side 4, level 2.
+
+[s2_LostContact_m12]
+Caption=This is Sierra Two. Suspect contact lost. Side 1, level 6.
+
+[hg_SpottedContact_m01]
+Caption=Highground reporting. Suspect has left the building and entered the alley.
+
+[hg_SpottedContact]
+Caption=Highground reporting. I have a visible contact.
+
+[hg_SpottedContact_m02]
+Caption=Highground reporting. Suspect spotted. Side 3, Level 2..
+
+[hg_SpottedContact_m03]
+Caption=Highground reporting. Suspect has left the building and entered the alley.
+
+[hg_SpottedContact_m04]
+Caption=Highground reporting. Side 2, level 1. Unknown in the parking lot.
+
+[hg_SpottedContact_m08]
+Caption=Highground to entry team. Suspect spotted in building foyer.
+
+[hg_SpottedContact_m09]
+Caption=Hightground to entry team Unknown spotted. Side 3, level 2.
+
+[hg_LostContact_m01]
+Caption=Highground reporting. Lost visual with suspect. He went back into the house.
+
+[hg_LostContact_m02]
+Caption=Hightground to entry team. Lost visual with suspect. Side 3, level 2.
+
+[hg_LostContact_m03]
+Caption=Highground reporting. Lost visual contact. Side 2, level 2.
+
+[hg_LostContact_m04]
+Caption=Hightground to entry team. Unknown has reentered building from the parking lot. Side 2, level 1.
+
+[hg_LostContact_m08]
+Caption=Highground reporting. Lost visual with suspect Side 1, level 1.
+
+[hg_LostContact_m09]
+Caption="Highground reporting. Side 3, level 2. Lost visual contact. "
+
+[ms1_AnnouncedBarricade_m05]
+Caption=Least they got locks in this shithole...
+
+[ms1_AnnouncedBarricade_m09]
+Caption=There is safety within...
+
+[ms1_AnnouncedCompliant_m01]
+Caption=Hey, I was just lookin' for dinner, man....
+
+[ms1_AnnouncedCompliant_m05]
+Caption=I don't give a damn about the fucking car!
+
+[ms1_AnnouncedCompliant_m07]
+Caption=How the hell did we get busted?
+
+[ms1_AnnouncedCompliant_m09]
+Caption=No!  Don't shoot!  The darkness... is coming...
+
+[ms1_AnnouncedCompliant_m10]
+Caption=This isn't over.
+
+[ms1_AnnouncedCompliant_m11]
+Caption=Nothin' here!  Leave me alone!
+
+[ms1_AnnouncedCompliant_m12]
+Caption=You think you've won, don't you?
+
+[ms1_AnnouncedFlee_m01]
+Caption=I ain't facin' the cops...
+
+[ms1_AnnouncedFlee_m07]
+Caption=There's a raid comin' thru!
+
+[ms1_AnnouncedFlee_m08]
+Caption=Pull back!
+
+[ms1_AnnouncedFlee_m09]
+Caption=Better to run than to fall!
+
+[ms1_AnnouncedInvestigate_m04]
+Caption=That's no clubbie!
+
+[ms1_AnnouncedInvestigate_m05]
+Caption=You hear that?
+
+[ms1_AnnouncedInvestigate_m07]
+Caption=Something's weird here?
+
+[ms1_AnnouncedInvestigate_m09]
+Caption=That's not the steps of our brothers!
+
+[ms1_AnnouncedInvestigate_m10]
+Caption=That bastard's around here somewhere!
+
+[ms1_AnnouncedInvestigate_m13]
+Caption=Too many stupid goddamned scientists...
+
+[ms1_AnnouncedNonCompliant_m01]
+Caption=Not again, damn it!
+
+[ms1_AnnouncedNonCompliant_m03]
+Caption=Not this time, coppers!
+
+[ms1_AnnouncedNonCompliant_m04]
+Caption=Stay outta this!
+
+[ms1_AnnouncedNonCompliant_m08]
+Caption=I don't think so, not today!
+
+[ms1_AnnouncedNonCompliant_m09]
+Caption=I will die defending Taronne, whose words are Truth!
+
+[ms1_AnnouncedNonCompliant_m10]
+Caption=No mercy!
+
+[ms1_AnnouncedNonCompliant_m11]
+Caption=You won't get us all!
+
+[ms1_AnnouncedNonCompliant_m12]
+Caption=Die, for America!
+
+[ms1_AnnouncedNonCompliant_m13]
+Caption=No!  There's a higher law!
+
+[ms1_AnnouncedRestrained_m01]
+Caption=Damn it, I'm clean, didn't do anything...
+
+[ms1_AnnouncedRestrained_m04]
+Caption=Oh shit, my old man's gonna be pissed...
+
+[ms1_AnnouncedRestrained_m06]
+Caption=Didn't mean t'hurt anyone...
+
+[ms1_AnnouncedRestrained_m07]
+Caption=Goddamn cops, sticking their noses where they don't belong...
+
+[ms1_AnnouncedRestrained_m09]
+Caption=Forgive me, Taronne... my fear made me weak....
+
+[ms1_AnnouncedRestrained_m10]
+Caption=You've got me... but we'll get that bastard yet!
+
+[ms1_AnnouncedRestrained_m11]
+Caption=This better not be a double cross!
+
+[ms1_AnnouncedRestrained_m12]
+Caption=We ain't done yet!  You won't get us all!
+
+[ms1_AnnouncedRestrained_m13]
+Caption=You should be arresting the scientists who work here, not us!
+
+[ms1_AnnouncedSpottedOfficer_m09]
+Caption=The time is upon us!
+
+[ms1_AnnouncedSpottedOfficer_m11]
+Caption=Five-0h!  Five-Oh!
+
+[ms1_AnnouncedSpottedOfficerScared_m08]
+Caption=Nothin' is goin' right today!
+
+[ms1_AnnouncedSpottedOfficerScared_m09]
+Caption=Not even for Him can I face them...
+
+[ms1_AnnouncedSpottedOfficerScared_m10]
+Caption=Move, move, we got trouble!
+
+[ms1_AnnouncedSpottedOfficerSurprised_m07]
+Caption=Damn it!  What happened to the alarm?
+
+[ms1_AnnouncedSpottedOfficerSurprised_m09]
+Caption=The Time has come too soon!
+
+[ms1_AnnouncedSpottedOfficerSurprised_m10]
+Caption=Cops incoming...
+
+[ms1_CalledForHelp_m05]
+Caption=Forget the garage, help me!
+
+[ms1_CalledForHelp_m07]
+Caption=It's some kinda sting!  Al!
+
+[ms1_CalledForHelp_m09]
+Caption=Help me, my Brothers!
+
+[ms1_DoorBlocked_m12]
+Caption=Goddamn hotel doors...
+
+[ms1_DoorBlocked_m13]
+Caption=Locked...
+
+[ms1_ReactedDownOfficer_m09]
+Caption=Out of the Darkness you came, to darkness you go.
+
+[ms1_ReactedDownOfficer_m10]
+Caption=Goddamned cops should'a stayed out of it!
+
+[ms1_ReactedDownOfficer_m13]
+Caption=You can't stop the truth, or those who defend it!
+
+[ms1_ReactedDownSuspect_m09]
+Caption=Your next breath will be with Taronne.
+
+[ms1_ReactedDownSuspect_m13]
+Caption=At least you fell a Martyr!
+
+[ms1_ReactedHitByDoor_m05]
+Caption=What the fuck... the door!
+
+[ms1_RepliedToHostage_m09]
+Caption=We will be together, in Taronne's Name.
+
+[ms1_RepliedToHostage_m13]
+Caption=I'd be happy to kill you, so shut up!
+
+[ms1_ReportedBarricading_m05]
+Caption=This garage sucks...
+
+[ms1_ReportedBarricading_m09]
+Caption=Andrew said they would come... we must be ready.
+
+[ms1_ShotAFriend_m09]
+Caption=The darkness has claimed you.
+
+[ms1_ShotAtBreachedDoor_m09]
+Caption=Don't let them stop the the Plan!
+
+[ms1_ShotAtBreachedDoor_m13]
+Caption=Hold the line... fire!
+
+[ms1_TalkedToHostage_m09]
+Caption=Do you remember the Words of Taronne?
+
+[ms1_ThreatenedHostage_m06]
+Caption=Keep goin' and there's one less corporate tool!
+
+[ms1_ThreatenedHostage_m08]
+Caption=You're disposable!
+
+[ms1_ThreatenedHostage_m09]
+Caption=I will save you from these evils!
+
+[ms1_ThreatenedHostage_m12]
+Caption=One more step and I'm wasting this French bastard!
+
+[ms1_ThreatenedHostage_m13]
+Caption=This stinking scientist is dead if you take another step!
+
+[ms2_AnnouncedBarricade_m09]
+Caption=Find safety behind locks!
+
+[ms2_AnnouncedBarricade_m11]
+Caption=Shit, this place is full of holes...
+
+[ms2_AnnouncedBarricade_m12]
+Caption=All the comforts of home...
+
+[ms2_AnnouncedCompliant_m01]
+Caption=Shit, I ain't lookin' for trouble!
+
+[ms2_AnnouncedCompliant_m04]
+Caption=I was just here for the show!  I swear!
+
+[ms2_AnnouncedCompliant_m05]
+Caption=Goddamn car ain't worth this!
+
+[ms2_AnnouncedCompliant_m06]
+Caption=Enough is enough!  I give!
+
+[ms2_AnnouncedCompliant_m07]
+Caption=Goddamn bust!
+
+[ms2_AnnouncedCompliant_m09]
+Caption=I may bend, but I will never break.
+
+[wr_ReactedSting]
+Caption=God! Ow!
+
+[ms2_AnnouncedFlee_m09]
+Caption=Run!
+
+[ms2_AnnouncedInvestigate_m04]
+Caption=That ain't the music...
+
+[wr_ReactedOfficerDown]
+Caption=Officer down!
+
+[ms2_AnnouncedInvestigate_m07]
+Caption=Hey, Louie, izzat you?
+
+[ms2_AnnouncedInvestigate_m08]
+Caption=Things keep goin' wrong....
+
+[wr_ReactedInjuryNormal]
+Caption=Ah! What're you doing!?
+
+[ms2_AnnouncedInvestigate_m09]
+Caption=Strange voices and sounds...
+
+[ms2_AnnouncedInvestigate_m13]
+Caption=Wonder how much this expensive shit cost...
+
+[ms2_AnnouncedNonCompliant_m04]
+Caption=Come an' join the party!
+
+[ms2_AnnouncedNonCompliant_m06]
+Caption=You lied!
+
+[ms2_AnnouncedNonCompliant_m08]
+Caption=Not this time!
+
+[ms2_AnnouncedNonCompliant_m09]
+Caption=Your laws mean nothing!
+
+[wr_ReactedHostageDown]
+Caption=Oh, God, no!
+
+[ms2_AnnouncedNonCompliant_m10]
+Caption=No surrender!
+
+[wr_ReactedHitByDoor]
+Caption=Hey!  Who tried to open that?
+
+[ms2_AnnouncedNonCompliant_m12]
+Caption=Traitors!
+
+[ms2_AnnouncedNonCompliant_m13]
+Caption=Do it!
+
+[ms2_AnnouncedRestrained_m01]
+Caption=You got a reason for this?  I swear, I was just getting dinner...
+
+[wr_ReactedDown]
+Caption=It hurts, oh god it hurts!
+
+[ms2_AnnouncedRestrained_m04]
+Caption=I was just defendin' myself!
+
+[wr_ReactedBreach]
+Caption=What... the door!
+
+[ms2_AnnouncedRestrained_m05]
+Caption=Most of the cars here're boosted anyway..
+
+[ms2_AnnouncedRestrained_m06]
+Caption=I didn't hurt anyone!  This wasn't my idea!
+
+[ms2_AnnouncedRestrained_m07]
+Caption=Betcha I'm out in a week...
+
+[ms2_AnnouncedRestrained_m08]
+Caption=Damn it.  I never shouldn'a come along.
+
+[wr_PointedToEnemy]
+Caption=Oh... over there...
+
+[ms2_AnnouncedRestrained_m09]
+Caption="You cannot stop Him from completing His Mission!  "
+
+[wr_DoorBlocked]
+Caption=Freakin' door!
+
+[ms2_AnnouncedRestrained_m10]
+Caption=We've got friends... you'll see.
+
+[wr_CalledForHelp]
+Caption=Help!
+
+[ms2_AnnouncedRestrained_m11]
+Caption=You think this is gonna make a drop of difference?  You know how many guns'r already out there?
+
+[ms2_AnnouncedRestrained_m12]
+Caption=You sorry sons of bitches... wait till they take your job!
+
+[wr_AnnouncedThreatened]
+Caption=Don't threaten me!
+
+[ms2_AnnouncedRestrained_m13]
+Caption=You will have to answer to a higher law!
+
+[wr_AnnouncedSpottedOfficerSurprised]
+Caption=How'd you get here?
+
+[ms2_AnnouncedSpottedOfficer_m07]
+Caption=Oh shit!  Somebody tell the bosses!
+
+[wr_AnnouncedSpottedOfficerScared]
+Caption=You've got to stop them!
+
+[ms2_AnnouncedSpottedOfficer_m09]
+Caption=Quickly, prepare to defend our leader!
+
+[wr_AnnouncedSpottedOfficer]
+Caption=Careful.  They're everywhere
+
+[ms2_AnnouncedSpottedOfficer_m11]
+Caption=You're gonna wish you'd stayed outta this!
+
+[wr_AnnouncedRestrained]
+Caption=This is outrageous!
+
+[ms2_AnnouncedSpottedOfficerScared_m09]
+Caption="No!  Not yet! "
+
+[wr_AnnouncedNonCompliant]
+Caption=You can't order me around!
+
+[ms2_AnnouncedSpottedOfficerSurprised_m09]
+Caption=Oh no, the Time has come!
+
+[wr_AnnouncedFlee]
+Caption=No!
+
+[ms2_AnnouncedSpottedOfficerSurprised_m11]
+Caption=Shit!  We've been ratted out!
+
+[wr_AnnouncedEnemy]
+Caption=There!
+
+[ms2_CalledForHelp_m07]
+Caption=Gowan!  We got cop trouble!
+
+[wr_AnnouncedCompliant]
+Caption=Me? What... why??
+
+[ms2_CalledForHelp_m08]
+Caption=I can't do this alone!
+
+[ts_TalkedToEnemy]
+Caption=This is science!  It saves lives!
+
+[ms2_CalledForHelp_m09]
+Caption=Help me, my Brothers!
+
+[ts_ReactedSting]
+Caption=Ah Help!
+
+[ts_ReactedPepper]
+Caption=Oww!  Oh dear!
+
+[ms2_ReactedDownOfficer_m09]
+Caption=May the darkness spare you...
+
+[ts_ReactedOfficerDown]
+Caption=Officer....
+
+[ms2_ReactedDownOfficer_m13]
+Caption=I'm sorry... but it was necessary.
+
+[ts_ReactedInjuryNormal]
+Caption=Ug! Damn it!
+
+[ms2_ReactedDownSuspect_m09]
+Caption=You will hear Taronne's voice.
+
+[ms2_ReactedDownSuspect_m13]
+Caption=Your name won't be forgotten!
+
+[ts_ReactedHostageDown]
+Caption=Oh, God, no!
+
+[ms2_ReactedInjuryNormal_m09]
+Caption=Taronne shield me!
+
+[ts_ReactedHitByDoor]
+Caption=Who's back there!
+
+[ms2_RepliedToHostage_m09]
+Caption=We will be together, in Taronne's Name.
+
+[ts_ReactedBreach]
+Caption=What?
+
+[ms2_ReportedBarricading_m09]
+Caption=Andrew said they would come... we must be ready.
+
+[ms2_ShotAFriend_m09]
+Caption=Wait for me!
+
+[ts_PointedToEnemy]
+Caption=They're over there...
+
+[ms2_ShotAFriend_m12]
+Caption=American blood for American land...
+
+[ts_DoorBlocked]
+Caption=Stuck!  Not now!
+
+[ms2_ShotAtBreachedDoor_m04]
+Caption=Last dance!
+
+[ts_CalledForHelp]
+Caption=Hurry!  They're destroying the equipment!
+
+[ms2_ShotAtBreachedDoor_m09]
+Caption=Don't let them stop the the Plan!
+
+[ts_AnnouncedThreatened]
+Caption=They aren't bluffing...
+
+[ms2_TalkedToHostage_m09]
+Caption=This is our chance...
+
+[ts_AnnouncedSpottedOfficerSurprised]
+Caption=How'd you get here?
+
+[ts_AnnouncedSpottedOfficerScared]
+Caption=They'll destroy everything!  Stop them!
+
+[ms2_ThreatenedHostage_m04]
+Caption=Get back, or this brat buys it!
+
+[ms2_ThreatenedHostage_m05]
+Caption=Stop or he's meat!
+
+[ts_AnnouncedSpottedOfficer]
+Caption=Officer!  Over here!
+
+[ms2_ThreatenedHostage_m09]
+Caption=Be brave, for you don't go alone.
+
+[ts_AnnouncedRestrained]
+Caption=The briefcase... did you find it???
+
+[ms2_ThreatenedHostage_m10]
+Caption=Stop right there, or it's game over!
+
+[ms2_ThreatenedHostage_m12]
+Caption=Don't give me an excuse to nail this traitor!
+
+[ms2_ThreatenedHostage_m13]
+Caption=You want this asshole dead?
+
+[ts_AnnouncedNonCompliant]
+Caption=No, no, I can't let anything happen to my research...
+
+[ts_AnnouncedFlee]
+Caption=Help me!
+
+[ms3_AnnouncedBarricade_m09]
+Caption=Quickly!  In here!
+
+[ts_AnnouncedEnemy]
+Caption=There they are!
+
+[ms3_AnnouncedCompliant_m04]
+Caption=Woah... I ain't shootin' nothin'!
+
+[ts_AnnouncedCompliant]
+Caption=No!  Please don't shoot...  You could destroy ... everything!
+
+[ms3_AnnouncedCompliant_m06]
+Caption=The hell with this!
+
+[mk_TalkedToEnemy]
+Caption=Please... don't touch me...
+
+[ms3_AnnouncedCompliant_m07]
+Caption=We ain't gonna win this one.
+
+[ms3_AnnouncedCompliant_m08]
+Caption=I ain't dying for some stupid gems!
+
+[ms3_AnnouncedCompliant_m09]
+Caption=I will comply, but I will never surrender.
+
+[ms3_AnnouncedCompliant_m10]
+Caption=You can't stop us!
+
+[ms3_AnnouncedCompliant_m11]
+Caption=Empty hands, empty hands...
+
+[mk_ReactedOfficerDown]
+Caption=No... not you..
+
+[ms3_AnnouncedFlee_m09]
+Caption=Run!
+
+[ms3_AnnouncedInvestigate_m09]
+Caption=Something wicked comes....
+
+[ms3_AnnouncedInvestigate_m10]
+Caption=Could be that damned diplomat... checking it out.
+
+[ms3_AnnouncedInvestigate_m11]
+Caption=This better not be no double cross...
+
+[ms3_AnnouncedInvestigate_m12]
+Caption=What, we got visitors?
+
+[ms3_AnnouncedInvestigate_m13]
+Caption=Lemme see what those eggheads are up to...
+
+[mk_ReactedHostageDown]
+Caption=Oh, God, no!
+
+[mk_ReactedHitByDoor]
+Caption=Who's back there!
+
+[ms3_AnnouncedNonCompliant_m04]
+Caption=Dance, cop!
+
+[ms3_AnnouncedNonCompliant_m09]
+Caption=Your laws mean nothing!
+
+[ms3_AnnouncedNonCompliant_m10]
+Caption=No mercy for traitors... and none for you!
+
+[ms3_AnnouncedNonCompliant_m11]
+Caption=I ain't givin' up!
+
+[mk_ReactedBreach]
+Caption=Oh no!
+
+[ms3_AnnouncedNonCompliant_m12]
+Caption=No surrender!
+
+[ms3_AnnouncedNonCompliant_m13]
+Caption=No!  They can't win!
+
+[mk_PointedToEnemy]
+Caption=I think.. he was... there...
+
+[ms3_AnnouncedRestrained_m03]
+Caption=You stinkin' cops... goddamn meddlers...
+
+[mk_DoorBlocked]
+Caption=It's locked... it's always locked...
+
+[ms3_AnnouncedRestrained_m04]
+Caption="They started it! C'mon, we were defendin' ourselves... "
+
+[mk_CalledForHelp]
+Caption=Can anyone hear me?
+
+[ms3_AnnouncedRestrained_m06]
+Caption=I don't understand how this happened... Nobody was suppose to get hurt...
+
+[ms3_AnnouncedRestrained_m07]
+Caption=Stinking raid... C'mon, don't you guys got somethin' better to do?
+
+[mk_AnnouncedThreatened]
+Caption=Stop him...
+
+[ms3_AnnouncedRestrained_m08]
+Caption=Guess you win some, you lose some..
+
+[mk_AnnouncedSpottedOfficerSurprised]
+Caption=You're here!
+
+[ms3_AnnouncedRestrained_m09]
+Caption=Taronne, I will never forget.
+
+[mk_AnnouncedSpottedOfficerScared]
+Caption=At last!
+
+[ms3_AnnouncedRestrained_m10]
+Caption=Stinking Imperialists.  You'll get what's coming, wait and see.
+
+[mk_AnnouncedSpottedOfficer]
+Caption=Thank God!
+
+[ms3_AnnouncedRestrained_m12]
+Caption=What, you work for the goddamned UN or something?  You oughtta be ashamed of yourselves.
+
+[mk_AnnouncedRestrained]
+Caption=You're gonna get me out... oh, please hurry, please...
+
+[ms3_AnnouncedRestrained_m13]
+Caption=I hope you never realize what a terrible mistake you are making, defending these bastards.
+
+[mk_AnnouncedNonCompliant]
+Caption="Wh ... what's going on?  "
+
+[ms3_AnnouncedSpottedOfficer_m09]
+Caption=Prepare to defend our leader!
+
+[mk_AnnouncedFlee]
+Caption=Now!
+
+[mk_AnnouncedEnemy]
+Caption=You! No!  Get away!
+
+[ms3_AnnouncedSpottedOfficerScared_m09]
+Caption=No!  Not yet! His Plans are not yet complete!
+
+[mk_AnnouncedCompliant]
+Caption=You found me!
+
+[ms3_AnnouncedSpottedOfficerSurprised_m09]
+Caption="He must be warned!   "
+
+[lb_TalkedToEnemy]
+Caption=You gotta get out of here...
+
+[ms3_CalledForHelp_m09]
+Caption=Brothers and Sisters!  To me!
+
+[lb_ReactedInjuryNormal]
+Caption=Ah shit!
+
+[ms3_ReactedDownOfficer_m09]
+Caption=Out of the Darkness you came, to darkness you go.
+
+[ms3_ReactedDownSuspect_m09]
+Caption=Sleep in the darkness, wake to the Light..
+
+[ms3_ReactedDownSuspect_m13]
+Caption=The Faithful won't forget you!
+
+[lb_ReactedHitByDoor]
+Caption=Watch it!
+
+[ms3_ReactedInjuryNormal_m09]
+Caption=Taronne shield me!
+
+[lb_ReactedDownSuspect]
+Caption=Goddamn cops!
+
+[lb_ReactedDownOfficer]
+Caption=There, that's what ya get.
+
+[ms3_RepliedToHostage_m09]
+Caption=We are one... our fate is twined...
+
+[ms3_RepliedToHostage_m13]
+Caption=Stinking scientists!
+
+[lb_ReactedBreach]
+Caption=The door!  Shit!
+
+[ms3_ReportedBarricading_m09]
+Caption=Our time will come...
+
+[ms3_ReportedBarricading_m12]
+Caption=Wouldn't mind renting this...
+
+[ms3_ReportedBarricading_m13]
+Caption=Jean is depending on us...
+
+[lb_ReactedBang]
+Caption=Huh!
+
+[ms3_ShotAFriend_m09]
+Caption=Taronne has blessed you!
+
+[lb_DoorBlocked]
+Caption=Damn door!
+
+[ms3_ShotAtBreachedDoor_m09]
+Caption=Stop them!
+
+[lb_CalledforHelp]
+Caption=Help!
+
+[ms3_TalkedToHostage_m09]
+Caption=Do you remember the Words of Taronne?
+
+[lb_AnnouncedThreatened]
+Caption=Watch where you're pointin' that...
+
+[lb_AnnouncedSpottedOfficerSurprised]
+Caption=What the hell?
+
+[ms3_ThreatenedHostage_m04]
+Caption=Keep comin', an there's one less punk here...
+
+[ms3_ThreatenedHostage_m06]
+Caption=I got nothing to lose, man!  Get back!
+
+[lb_AnnouncedSpottedOfficerScared]
+Caption=This ain't good!
+
+[ms3_ThreatenedHostage_m08]
+Caption=You wanna see this suit die?
+
+[lb_AnnouncedSpottedOfficer]
+Caption=Oh no look, Cops!  Over here.
+
+[ms3_ThreatenedHostage_m09]
+Caption=I will save you from these evils!
+
+[ms3_ThreatenedHostage_m10]
+Caption=This's my ticket out.. You stay back!
+
+[lb_AnnouncedRestrained]
+Caption=Wait till my lawyer hears about this... You gotta lot of nerve.
+
+[ms3_ThreatenedHostage_m12]
+Caption=I'd be happy to shoot this rich bastard!
+
+[ms3_ThreatenedHostage_m13]
+Caption=I won't miss this egghead!
+
+[lb_AnnouncedNonCompliant]
+Caption=No!  My shop....
+
+[lb_AnnouncedFlee]
+Caption=Lemme alone!
+
+[ms4_AnnouncedBarricade_m10]
+Caption=We need to hide somewhere.
+
+[lb_AnnouncedCompliant]
+Caption=Don't shoot!  I'm just the manager.
+
+[ms4_AnnouncedCompliant_m04]
+Caption=You don't know anything, you idiot.
+
+[la_TalkedToEnemy]
+Caption=You can't be serious!
+
+[ms4_AnnouncedCompliant_m05]
+Caption=I ain't dyin for a stupid car!
+
+[ms4_AnnouncedCompliant_m07]
+Caption=Standin' down!  Don't shoot!
+
+[la_Screamed]
+Caption=Noooo!!
+
+[ms4_AnnouncedCompliant_m10]
+Caption=My weapons are down!
+
+[ms4_AnnouncedCompliant_m11]
+Caption=I didn't know nothin' about this!  I swear!
+
+[la_ReactedSting]
+Caption=Ug! God!
+
+[ms4_AnnouncedCompliant_m13]
+Caption=Wait till next time...
+
+[la_ReactedPepper]
+Caption=Ah! No, no!
+
+[la_ReactedOfficerDown]
+Caption=It's going to be ok.  Just take it easy.
+
+[ms4_AnnouncedFlee_m04]
+Caption=Shit...
+
+[ms4_AnnouncedFlee_m10]
+Caption=Fall back and regroup!
+
+[la_ReactedInjuryNormal]
+Caption=Ug! Shit!
+
+[ms4_AnnouncedInvestigate_m06]
+Caption=Lemme see if that was one of those geeks...
+
+[ms4_AnnouncedInvestigate_m08]
+Caption=What's the problem now?
+
+[ms4_AnnouncedInvestigate_m10]
+Caption=I thought we'd cleared this place...
+
+[ms4_AnnouncedInvestigate_m11]
+Caption=Kashka's crew better not be up to somethin'...
+
+[ms4_AnnouncedNonCompliant_m04]
+Caption=Dance, damn it!
+
+[ms4_AnnouncedNonCompliant_m08]
+Caption=No!  You ain't ruining this heist!
+
+[la_ReactedHitByDoor]
+Caption=What the-?
+
+[ms4_AnnouncedNonCompliant_m10]
+Caption=Die, damn it!
+
+[ms4_AnnouncedNonCompliant_m13]
+Caption=We serve too!
+
+[ms4_AnnouncedRestrained_m04]
+Caption=You didn't hear what those bastards said...
+
+[ms4_AnnouncedRestrained_m05]
+Caption=Bet you think you're something, huh?
+
+[ms4_AnnouncedRestrained_m06]
+Caption=Took you long enough to get us... you feelin' stupid yet?
+
+[ms4_AnnouncedRestrained_m07]
+Caption=Watch it, you bastards; you ain't rolling over me.
+
+[la_ReactedBang]
+Caption=Shit!
+
+[ms4_AnnouncedRestrained_m08]
+Caption=Hit a jewelry store, he said... Easy pickins', he said.... Goddamn SWAT!
+
+[la_PointedToEnemy]
+Caption="That way.. "
+
+[ms4_AnnouncedRestrained_m10]
+Caption=Don't worry.  Someone'll get that traitor, no matter how you try to defend him.
+
+[la_DoorBlocked]
+Caption=Open up!
+
+[ms4_AnnouncedRestrained_m11]
+Caption=Don't start getting smug yet... I gotta really good lawyer, you know...
+
+[ms4_AnnouncedRestrained_m13]
+Caption=Don't you realize what these people are doing!  They have to be stopped!
+
+[la_CalledForHelp]
+Caption=Help me!
+
+[la_AnnouncedThreatened]
+Caption=He'll shoot!
+
+[ms4_AnnouncedSpottedOfficer_m10]
+Caption=It could be SWAT...
+
+[la_AnnouncedSpottedOfficerSurprised]
+Caption=Ah!, oh you startled me!
+
+[ms4_AnnouncedSpottedOfficerScared_m10]
+Caption=No!  More gunmen!
+
+[la_AnnouncedSpottedOfficerScared]
+Caption=They're everywhere!
+
+[ms4_AnnouncedSpottedOfficerSurprised_m10]
+Caption=You sure this is SWAT?
+
+[la_AnnouncedSpottedOfficer]
+Caption=These guys are crazy!
+
+[la_AnnouncedRestrained]
+Caption=Hey c'mon,  easy will ya?
+
+[ms4_CalledForHelp_m10]
+Caption=I'm being shot at!
+
+[la_AnnouncedNonCompliant]
+Caption=I look like a terrorist to you?
+
+[la_AnnouncedFlee]
+Caption=Get back!
+
+[la_AnnouncedEnemy]
+Caption=They've got machine guns!
+
+[la_AnnouncedCompliant]
+Caption=Right, right, whatever you say...
+
+[ms4_ReactedDownOfficer_m10]
+Caption=Time to pay the piper...
+
+[ms4_ReactedDownOfficer_m13]
+Caption=And that's your reward for defending these bastards!
+
+[jb_TalkedToEnemy]
+Caption=You're all crazy!
+
+[ms4_ReactedDownSuspect_m10]
+Caption=Ha!
+
+[ms4_ReactedDownSuspect_m13]
+Caption=Be strong, brother...
+
+[jb_ReactedSting]
+Caption=Ack!...ah...help!  Damn it!
+
+[jb_ReactedPepper]
+Caption=Ah...oh that burns...ug!
+
+[jb_ReactedOfficerDown]
+Caption=Oh no.
+
+[jb_ReactedInjuryNormal]
+Caption=Ug!...you bastard!
+
+[ms4_RepliedToHostage_m10]
+Caption=Don't get involved!
+
+[jb_ReactedHostageDown]
+Caption=Oh god...
+
+[jb_ReactedHitByDoor]
+Caption=What?
+
+[ms4_ReportedBarricading_m10]
+Caption=We need some real support...
+
+[ms4_ReportedBarricading_m13]
+Caption=Stay strong; think of your children!
+
+[jb_ReactedBreach]
+Caption=Not the door!
+
+[ms4_ShotAFriend_m07]
+Caption=Sorry, buddy.
+
+[ms4_ShotAFriend_m10]
+Caption=This can't be!
+
+[ms4_ShotAFriend_m13]
+Caption=Sacrifices must be made.
+
+[jb_ReactedBang]
+Caption=Damn it!
+
+[ms4_ShotAtBreachedDoor_m10]
+Caption=Defend him!
+
+[jb_PointedToEnemy]
+Caption=Stop them!  Hurry!
+
+[jb_DoorBlocked]
+Caption=Open, damn you!
+
+[ms4_TalkedToHostage_m10]
+Caption=Get out of here.  Now.
+
+[jb_CalledForHelp]
+Caption=In here!  Hurry!
+
+[ms4_ThreatenedHostage_m05]
+Caption=I'll blow his fucking head off!
+
+[jb_AnnouncedThreatened]
+Caption=Don't let them kill me!
+
+[ms4_ThreatenedHostage_m10]
+Caption=Damn it, I'm trying to do my job.
+
+[ms4_ThreatenedHostage_m13]
+Caption=Keep comin'!  I'd love to waste this bastard...
+
+[jb_AnnouncedSpottedOfficerScared]
+Caption=Get away!  Oh!  Police!
+
+[fh1_AnnouncedCompliant_m02]
+Caption=Don't shoot, don't shoot!
+
+[fh1_AnnouncedCompliant_m04]
+Caption=I'm down!  What a night...
+
+[jb_AnnouncedSpottedOfficer]
+Caption=Thank heavens.
+
+[fh1_AnnouncedCompliant_m06]
+Caption=I don't believe this is happening... Don't shoot me!
+
+[jb_AnnouncedRestrained]
+Caption=This is entirely uncalled for!  Do I look like some thug?
+
+[fh1_AnnouncedCompliant_m07]
+Caption=I came with a friend... I didn't know it was illegal!
+
+[fh1_AnnouncedCompliant_m08]
+Caption=Don't shoot me... I'm one of the secretaries...
+
+[jb_AnnouncedNonCompliant]
+Caption=Excuse me?
+
+[fh1_AnnouncedCompliant_m09]
+Caption=No!  I'm down!  No more shooting, no more explosions...
+
+[fh1_AnnouncedCompliant_m10]
+Caption=Tell me it's over...
+
+[jb_AnnouncedFlee]
+Caption=Run!
+
+[fh1_AnnouncedCompliant_m11]
+Caption=Don't shoot!  Nearly gave me a heart attack..
+
+[fh1_AnnouncedCompliant_m13]
+Caption=I can't believe this is happening...
+
+[jb_AnnouncedEnemy]
+Caption=They're in here!
+
+[jb_AnnouncedCompliant]
+Caption=I was afraid you'd never get here!
+
+[fh1_AnnouncedFlee_m02]
+Caption="No!  "
+
+[fh1_AnnouncedFlee_m04]
+Caption=This is insane!
+
+[hjp_TalkedToEnemy]
+Caption=You won't get what you want.
+
+[fh1_AnnouncedFlee_m07]
+Caption=This was the wrong night to come...
+
+[fh1_AnnouncedFlee_m09]
+Caption=Is nothing safe?
+
+[fh1_AnnouncedFlee_m11]
+Caption=This ain't no place for me...
+
+[fh1_AnnouncedFlee_m13]
+Caption=There must be someplace to hide!
+
+[fh1_AnnouncedNonCompliant_m02]
+Caption=What's going on?  I don't understand.
+
+[fh1_AnnouncedNonCompliant_m04]
+Caption="Oh, my god... "
+
+[fh1_AnnouncedNonCompliant_m06]
+Caption=What took so long!
+
+[hjp_ReactedOfficerDown]
+Caption=Those damn....
+
+[fh1_AnnouncedNonCompliant_m07]
+Caption=Who do you think you are, barging in here!
+
+[fh1_AnnouncedNonCompliant_m08]
+Caption=This can't be happnening..
+
+[fh1_AnnouncedNonCompliant_m09]
+Caption=How can you contaminate our house!
+
+[fh1_AnnouncedNonCompliant_m10]
+Caption=What... I don't understand...
+
+[fh1_AnnouncedNonCompliant_m11]
+Caption=I'm just tryin' to stay outta the cold.
+
+[fh1_AnnouncedNonCompliant_m13]
+Caption=I spent three months on that trial.... Three months!
+
+[fh1_AnnouncedRestrained_m02]
+Caption=Just get me out of here... please...
+
+[hjp_ReactedHostageDown]
+Caption=Madmen!
+
+[fh1_AnnouncedRestrained_m04]
+Caption=I just came to the club!  I didn't do anything!
+
+[fh1_AnnouncedRestrained_m06]
+Caption=This shouldn't be happening here.. I thought this was a safe town
+
+[hjp_ReactedHitByDoor]
+Caption=What?
+
+[fh1_AnnouncedRestrained_m07]
+Caption=Oh, shit, this can't be happening to me... I don't believe this...
+
+[fh1_AnnouncedRestrained_m08]
+Caption=Is this necessary?  I mean, it's pretty clear that I'm not one of those lunatics, right?
+
+[fh1_AnnouncedRestrained_m09]
+Caption=You won't stop him!  His Plan will prevail, and we will be with Him!
+
+[fh1_AnnouncedRestrained_m10]
+Caption=Oh, god, I can't believe this is happening ... It can't be....
+
+[fh1_AnnouncedRestrained_m11]
+Caption=Goddamn cops... what's it take fer you to stay outta my hair?
+
+[hjp_ReactedBreach]
+Caption=What?
+
+[fh1_AnnouncedRestrained_m13]
+Caption=No, no, I work here....
+
+[fh1_AnnouncedSpottedOfficer_m02]
+Caption=Who is that?  Are you...help me!
+
+[fh1_AnnouncedSpottedOfficer_m07]
+Caption=Oh, shit, we've been busted!
+
+[hjp_PointedToEnemy]
+Caption=There! Stop them!
+
+[fh1_AnnouncedSpottedOfficer_m09]
+Caption=Leave!  Leave at once!
+
+[hjp_DoorBlocked]
+Caption=Locked!
+
+[fh1_AnnouncedSpottedOfficer_m11]
+Caption=Guess that explains all the activity around here..
+
+[hjp_CalledForHelp]
+Caption=Help me!
+
+[fh1_AnnouncedSpottedOfficerScared_m02]
+Caption=No!  Not another one!
+
+[hjp_AnnouncedThreatened]
+Caption=They intend to kill me.
+
+[fh1_AnnouncedSpottedOfficerScared_m07]
+Caption=Get away from me!
+
+[fh1_AnnouncedSpottedOfficerScared_m09]
+Caption=Why weren't we warned?  Surely Taronne knew!
+
+[hjp_AnnouncedSpottedOfficerSurprised]
+Caption=At last!
+
+[fh1_AnnouncedSpottedOfficerScared_m11]
+Caption=Look... I dont know anythin' about this...
+
+[hjp_AnnouncedSpottedOfficerScared]
+Caption=Protect me!
+
+[fh1_AnnouncedSpottedOfficerSurprised_m02]
+Caption=Who... who's there?
+
+[hjp_AnnouncedSpottedOfficer]
+Caption=Did you stop them?
+
+[fh1_AnnouncedSpottedOfficerSurprised_m07]
+Caption=I thought this place was safe!
+
+[hjp_AnnouncedRestrained]
+Caption=Watch out... you've got to keep them away from me.
+
+[fh1_AnnouncedSpottedOfficerSurprised_m09]
+Caption=No!  They've invaded our haven!
+
+[fh1_AnnouncedSpottedOfficerSurprised_m11]
+Caption=I just sleep here, I swear....
+
+[hjp_AnnouncedNonCompliant]
+Caption=You're going to escort me out, right?
+
+[fh1_CalledForHelp_m02]
+Caption=In here!  Help me!
+
+[hjp_AnnouncedFlee]
+Caption=Help!
+
+[fh1_CalledForHelp_m04]
+Caption=They've gone crazy... they're shooting at everything....
+
+[hjp_AnnouncedEnemy]
+Caption=There!
+
+[fh1_CalledForHelp_m07]
+Caption=Oh, my god, it's a gunfight...
+
+[hjp_AnnouncedCompliant]
+Caption=Im hurt, you need to get me help..
+
+[fh1_CalledForHelp_m09]
+Caption=To me!  The darkness is here!
+
+[fh1_CalledForHelp_m11]
+Caption=Help!  They're shootin' everywhere!
+
+[gf_TalkedToEnemy]
+Caption=Lawrence, what's wrong with you?
+
+[fh1_CalledForHelp_m13]
+Caption=They're over here!  With guns.....
+
+[fh1_DoorBlocked_m04]
+Caption=Damint, I think it's blocked...
+
+[gf_ReactedTaser]
+Caption=My heart!
+
+[gf_ReactedPepper]
+Caption=Oh, my eyes...
+
+[fh1_ReactedBreach_m02]
+Caption=Oh god!
+
+[gf_ReactedOfficerDown]
+Caption=Oh, dear Lord protect us!
+
+[fh1_ReactedHitByDoor_m04]
+Caption=Watch out!  Someone's at the door!
+
+[fh1_ReactedOfficerDown_m09]
+Caption=This is our place, not yours!
+
+[gf_ReactedHostageDown]
+Caption=Nooo!
+
+[gf_ReactedHitByDoor]
+Caption=Who's back there!
+
+[fh2_AnnouncedCompliant_m03]
+Caption=I work here!  Don't shoot!
+
+[gf_ReactedBreach]
+Caption=Oh my god!
+
+[fh2_AnnouncedCompliant_m04]
+Caption=I was just here for the music....don't shoot...
+
+[fh2_AnnouncedCompliant_m06]
+Caption="What took you so long? "
+
+[fh2_AnnouncedCompliant_m07]
+Caption=I came with a friend... I didn't know it was illegal!
+
+[gf_PointedToEnemy]
+Caption=You better leave my little boy alone!
+
+[fh2_AnnouncedCompliant_m08]
+Caption=The vault!  They were heading for the vault!
+
+[gf_DoorBlocked]
+Caption=I gotta have key somewhere...
+
+[fh2_AnnouncedCompliant_m09]
+Caption=The answer won't be found with violence.
+
+[fh2_AnnouncedCompliant_m10]
+Caption=I hope this isn't a mistake...
+
+[gf_CalledForHelp]
+Caption=Help, someone, help me!
+
+[fh2_AnnouncedCompliant_m11]
+Caption=Jeez, don't shoot, I don't move so fast these days!
+
+[gf_AnnouncedThreatened]
+Caption=I don't understand, son.  Where did you get a gun?
+
+[fh2_AnnouncedCompliant_m13]
+Caption=Don't shoot!  You might hit something...
+
+[gf_AnnouncedSpottedOfficerSurprised]
+Caption=How'd you get in here!
+
+[fh2_AnnouncedFlee_m03]
+Caption=Oh no!
+
+[gf_AnnouncedSpottedOfficerScared]
+Caption=What are you doin' in my house!
+
+[fh2_AnnouncedFlee_m07]
+Caption="I always have the worst luck. "
+
+[gf_AnnouncedSpottedOfficer]
+Caption=How dare you come in here!
+
+[fh2_AnnouncedFlee_m09]
+Caption=Get away!
+
+[gf_AnnouncedRestrained]
+Caption=My Lawrence didn't do anything!  He couldn't have!
+
+[fh2_AnnouncedFlee_m11]
+Caption=What should I do?  Run!
+
+[gf_AnnouncedNonCompliant]
+Caption=Out of my house, you!
+
+[fh2_AnnouncedNonCompliant_m03]
+Caption=They're yelling something about drugs..
+
+[fh2_AnnouncedNonCompliant_m06]
+Caption=Those idiots were shooting at the servers!
+
+[fh2_AnnouncedNonCompliant_m07]
+Caption=Who do you think you are, barging in here!
+
+[gf_AnnouncedFlee]
+Caption=Nooo!
+
+[fh2_AnnouncedNonCompliant_m08]
+Caption=You've gotta be kidding...
+
+[fh2_AnnouncedNonCompliant_m09]
+Caption=I follow only Taronne...
+
+[gf_AnnouncedEnemy]
+Caption=I don't see anything!
+
+[fh2_AnnouncedNonCompliant_m10]
+Caption=People are hurt!  I've got to do something!
+
+[gf_AnnouncedCompliant]
+Caption=Aimin' guns at a lady!
+
+[fh2_AnnouncedNonCompliant_m11]
+Caption=Hey... wha's happenin?
+
+[ga_TalkedToEnemy]
+Caption=You know the cops are comin'.
+
+[fh2_AnnouncedNonCompliant_m13]
+Caption=My hood... they broke my hood...
+
+[fh2_AnnouncedRestrained_m03]
+Caption=Is Kim alright?  Where is he?
+
+[fh2_AnnouncedRestrained_m04]
+Caption=We were dancing, everything was fine, the band was great ... then someone started shouting ... and then they were pulling out guns!  It all happened so fast....
+
+[fh2_AnnouncedRestrained_m06]
+Caption=I can't believe I came into work today... Just for an hour, I said... I'll be out by two, I said...
+
+[ga_ReactedSting]
+Caption=Ugh!  ah...get me outta here!
+
+[fh2_AnnouncedRestrained_m08]
+Caption=What kind of a stupid rescue is this?  Tying us all up?  Who's side are you on, anyway?
+
+[ga_ReactedPepper]
+Caption=Ah!
+
+[fh2_AnnouncedRestrained_m09]
+Caption=Will I ever see them again... my little ones... I must have faith.
+
+[fh2_AnnouncedRestrained_m10]
+Caption=Who the hell attacks a hospital?  And why??
+
+[ga_ReactedOfficerDown]
+Caption=Oh no!
+
+[fh2_AnnouncedRestrained_m11]
+Caption=You think you can come in here an' just bully me?  Well, I got friends down at the Advocate's office... you better have a good reason for this... I ain't just any homeless lady!
+
+[fh2_AnnouncedRestrained_m13]
+Caption=They've been sending threats in the mail for weeks... I never thought it'd go this far... we could all have been killed...
+
+[ga_ReactedInjuryNormal]
+Caption=Damn it!
+
+[fh2_AnnouncedSpottedOfficer_m03]
+Caption=I've seen three of them so far!
+
+[fh2_AnnouncedSpottedOfficer_m07]
+Caption=It's a raid!
+
+[fh2_AnnouncedSpottedOfficer_m09]
+Caption=Get out!  You contaminate this house!
+
+[fh2_AnnouncedSpottedOfficer_m11]
+Caption=They're here!  They're here to take me!
+
+[fh2_AnnouncedSpottedOfficerScared_m07]
+Caption=No!  Not the cops!
+
+[ga_ReactedHostageDown]
+Caption=Oh, God, no!
+
+[fh2_AnnouncedSpottedOfficerScared_m09]
+Caption=Stop them!  They let in the darkness!
+
+[ga_ReactedHitByDoor]
+Caption=Who's there?
+
+[fh2_AnnouncedSpottedOfficerScared_m11]
+Caption=Look... I dont know anythin' about this...
+
+[fh2_AnnouncedSpottedOfficerSurprised_m07]
+Caption=How'd you get in here!
+
+[fh2_AnnouncedSpottedOfficerSurprised_m09]
+Caption=No!  They've invaded our haven!
+
+[fh2_AnnouncedSpottedOfficerSurprised_m11]
+Caption=You causin' all the racket?
+
+[ga_ReactedBreach]
+Caption=What the hell?
+
+[fh2_CalledForHelp_m03]
+Caption=Help!  They're here!
+
+[fh2_CalledForHelp_m07]
+Caption=You've all gone insane!
+
+[fh2_CalledForHelp_m09]
+Caption=Beware the false ones!
+
+[ga_PointedToEnemy]
+Caption=Right that way!
+
+[fh2_CalledForHelp_m11]
+Caption=Help!  They're gonna kill us!
+
+[ga_DoorBlocked]
+Caption=Come on, open up!
+
+[fh2_CalledForHelp_m13]
+Caption=More of them here!  You've got to help us!
+
+[ga_CalledForHelp]
+Caption=Help!
+
+[ga_AnnouncedThreatened]
+Caption=I don't think they're jokin' around...
+
+[ga_AnnouncedSpottedOfficerSurprised]
+Caption=Whoah!  SWAT!
+
+[ga_AnnouncedSpottedOfficer]
+Caption=Took your time gettin' here, huh?
+
+[ga_AnnouncedRestrained]
+Caption=Look, you're gonna get me out of here, right?
+
+[ga_AnnouncedNonCompliant]
+Caption=Hey, it's not me you're lookin' for.
+
+[fh2_ReactedOfficerDown_m09]
+Caption=There will only be darkness for you.
+
+[ga_AnnouncedFlee]
+Caption=I'm getting' outta here!
+
+[ga_AnnouncedEnemy]
+Caption=Goddamn punks!
+
+[ga_AnnouncedCompliant]
+Caption=Right, I'm cool... I'm down...
+
+[fh4_TalkedToEnemy_m13]
+Caption=Did you even go to college?
+
+[fh3_AnnouncedCompliant_m04]
+Caption=This isn't a show... it's a nightmare...
+
+[fh4_TalkedToEnemy_m11]
+Caption=Can't you just leave me alone?
+
+[fh3_AnnouncedCompliant_m06]
+Caption=I'm not a criminal, alright?  Don't hurt me!
+
+[fh3_AnnouncedCompliant_m07]
+Caption=Oh, I didn't have anything to do with this, sir.
+
+[fh4_TalkedToEnemy_m10]
+Caption=This won't help anyone!
+
+[fh3_AnnouncedCompliant_m08]
+Caption=I'm just one of the sellers here!
+
+[fh4_TalkedToEnemy_m07]
+Caption=What happened?
+
+[fh3_AnnouncedCompliant_m09]
+Caption=This is the darkness Taronne spoke of.
+
+[fh3_AnnouncedCompliant_m13]
+Caption=Why arent you stopping those lunatics?  They're crazy!
+
+[fh3_AnnouncedFlee_m07]
+Caption=Not my fight!
+
+[fh4_ReactedOfficerDown_m13]
+Caption=Oh, shit....
+
+[fh3_AnnouncedFlee_m09]
+Caption="Run!   "
+
+[fh3_AnnouncedFlee_m13]
+Caption=Oh please! I don't care what happens to the labs!
+
+[fh4_ReactedHostageDown_m13]
+Caption=We'll get out of here...
+
+[fh3_AnnouncedNonCompliant_m04]
+Caption=They're tearing up the nightclub! They're tearing it to pieces!
+
+[fh4_ReactedHostageDown_m11]
+Caption=You gotta make it...
+
+[fh3_AnnouncedNonCompliant_m06]
+Caption=They keep screamin' about the damned police...
+
+[fh3_AnnouncedNonCompliant_m07]
+Caption="Look, look at me.  I wasn't doin' anything wrong!  "
+
+[fh4_ReactedHostageDown_m07]
+Caption=No!
+
+[fh3_AnnouncedNonCompliant_m08]
+Caption=You've got to stop them!  Please,. Please!
+
+[fh4_ReactedHostageDown_m04]
+Caption=Not another one...
+
+[fh3_AnnouncedNonCompliant_m09]
+Caption=Get back!  You don't belong here!
+
+[fh3_AnnouncedNonCompliant_m10]
+Caption=No!  People are dying!  I have to do something!
+
+[fh3_AnnouncedNonCompliant_m13]
+Caption=My parents are never going to believe this...
+
+[fh4_PointedToEnemy_m09]
+Caption=Look there...
+
+[fh3_AnnouncedRestrained_m04]
+Caption=I been waiting all week for this show... my favorite band....
+
+[fh4_PointedToEnemy_m07]
+Caption=Not me... that way!
+
+[fh3_AnnouncedRestrained_m06]
+Caption=Ouch...You're getting' me outta here, right?
+
+[fh3_AnnouncedRestrained_m07]
+Caption=You got no right to be arresting me!
+
+[fh3_AnnouncedRestrained_m08]
+Caption=I never thought this could happen... I mean all the security, the guards, the cameras.  They still came crashing in here, shooting like madmen, I mean it was insane.
+
+[fh3_AnnouncedRestrained_m09]
+Caption="You can't stop His Plan!  "
+
+[fh4_AnnouncedThreatened_m11]
+Caption=Aw, no, don't let him shoot me!
+
+[fh3_AnnouncedRestrained_m10]
+Caption=Thank God you got here... just get those bastards, alright?
+
+[fh4_AnnouncedThreatened_m10]
+Caption=Oh god... I think he's serious...
+
+[fh3_AnnouncedRestrained_m13]
+Caption=One of them said he was lookin' for the Professor... you've got to save him!
+
+[fh4_AnnouncedThreatened_m07]
+Caption=No!  You've got to help me!
+
+[fh4_AnnouncedThreatened_m06]
+Caption=He's going to shoot me!  Do something!
+
+[fh3_AnnouncedSpottedOfficer_m07]
+Caption=Just my luck...
+
+[fh3_AnnouncedSpottedOfficer_m09]
+Caption=You have no place here!
+
+[fh4_AnnouncedEnemy_m13]
+Caption=No!  Get away from my lab!
+
+[fh3_AnnouncedSpottedOfficerScared_m07]
+Caption=C'mon, get away from me!
+
+[fh4_AnnouncedEnemy_m11]
+Caption=There's one a'them punks now.
+
+[fh3_AnnouncedSpottedOfficerScared_m09]
+Caption=Run!  Police... no! No!
+
+[fh4_AnnouncedEnemy_m10]
+Caption=Damn you all!
+
+[fh4_AnnouncedEnemy_m08]
+Caption=Don't let him get away!
+
+[fh3_AnnouncedSpottedOfficerSurprised_m07]
+Caption=Hey, how'd you get in here!
+
+[fh4_AnnouncedEnemy_m07]
+Caption=Watch out!
+
+[fh3_AnnouncedSpottedOfficerSurprised_m09]
+Caption=How can you be here?
+
+[fh4_AnnouncedEnemy_m04]
+Caption=I was just here for the music....don't shoot...
+
+[fh3_CalledForHelp_m07]
+Caption=You've all gone insane!
+
+[fh3_CalledForHelp_m09]
+Caption=Brothers, help me!
+
+[fh3_TalkedToEnemy_m13]
+Caption=Look, I just do chemistry...
+
+[fh3_TalkedToEnemy_m09]
+Caption="You are Taronne's Hand... "
+
+[fh3_TalkedToEnemy_m07]
+Caption=This does not look good...
+
+[fh3_TalkedToEnemy_m04]
+Caption=Um, have you been here before; is it always like this?
+
+[fh3_ReactedOfficerDown_m09]
+Caption=You won't follow us any more..
+
+[fh3_ReactedHostageDown_m09]
+Caption=Wait in the dark for Him.
+
+[fh3_ReactedHostageDown_m07]
+Caption=What a nightmare...
+
+[fh3_PointedToEnemy_m09]
+Caption=Into the darkness...
+
+[fh4_AnnouncedBarricade_m09]
+Caption=Quickly!  In here!
+
+[fh4_AnnouncedCompliant_m04]
+Caption=Don't shoot!  I don't believe this...
+
+[fh3_PointedToEnemy_m07]
+Caption=They're over there!
+
+[fh4_AnnouncedCompliant_m06]
+Caption=Finally the police... listen you've got to stop them!
+
+[fh4_AnnouncedCompliant_m07]
+Caption=I don't have anything to do with this..
+
+[fh4_AnnouncedCompliant_m08]
+Caption="I'm down!  Oh god, don't shoot me! "
+
+[fh3_AnnouncedThreatened_m09]
+Caption=I am in Taronne's hands now.
+
+[fh4_AnnouncedCompliant_m09]
+Caption=Forgive me, Taronne... my fear made me weak....
+
+[fh4_AnnouncedCompliant_m10]
+Caption=I hope this isn't a mistake...
+
+[fh3_AnnouncedThreatened_m08]
+Caption=Oh, my God!  You've got to do what he says...
+
+[fh4_AnnouncedCompliant_m11]
+Caption=Jeez, don't shoot, I don't move so fast these days!
+
+[fh3_AnnouncedThreatened_m07]
+Caption=No!  You've got to help me!
+
+[fh4_AnnouncedCompliant_m13]
+Caption=Don't shoot!  You might hit something...
+
+[fh4_AnnouncedFlee_m04]
+Caption=It's too dangerous here!
+
+[fh4_AnnouncedFlee_m07]
+Caption=This was the wrong night to come...
+
+[fh3_AnnouncedEnemy_m13]
+Caption=Shit!  One of the fanatics!
+
+[fh4_AnnouncedFlee_m09]
+Caption=Raise the alarm!
+
+[fh3_AnnouncedEnemy_m09]
+Caption=You must defend us!
+
+[fh4_AnnouncedFlee_m11]
+Caption=Guess it's time to move on..
+
+[fh4_AnnouncedFlee_m13]
+Caption=Run for it!
+
+[fh3_AnnouncedEnemy_m07]
+Caption=Get back!
+
+[fh4_AnnouncedInvestigate_m09]
+Caption=Those are not the footsteps of our brothers!
+
+[fh4_AnnouncedNonCompliant_m04]
+Caption=Stop them.... They've got guns!
+
+[fh2_TalkedToEnemy_m13]
+Caption=Did you even go to college?
+
+[fh4_AnnouncedNonCompliant_m06]
+Caption=No more yelling!
+
+[fh2_TalkedToEnemy_m11]
+Caption=Can't you just leave me alone?
+
+[fh4_AnnouncedNonCompliant_m07]
+Caption="Look, I wasn't doin' anything wrong!  "
+
+[fh4_AnnouncedNonCompliant_m08]
+Caption=You've gotta be kidding...
+
+[fh2_TalkedToEnemy_m09]
+Caption=Taronne will guide your hand, if you will bless me now...
+
+[fh4_AnnouncedNonCompliant_m09]
+Caption=The sanctuary is defiled!
+
+[fh4_AnnouncedNonCompliant_m10]
+Caption=You don't mean me... right?
+
+[fh2_TalkedToEnemy_m07]
+Caption=This is all your fault...
+
+[fh4_AnnouncedNonCompliant_m11]
+Caption=I'm just tryin' to stay outta the cold here.
+
+[fh4_AnnouncedNonCompliant_m13]
+Caption=My hood... they broke my hood...
+
+[fh2_TalkedToEnemy_m03]
+Caption=Look, I don't care about the money...
+
+[fh4_AnnouncedRestrained_m04]
+Caption=This was the worst night...
+
+[fh4_AnnouncedRestrained_m06]
+Caption=Keep them away from me!
+
+[fh4_AnnouncedRestrained_m07]
+Caption=I was just playing cards... what the hell?
+
+[fh2_ReactedHostageDown_m11]
+Caption=Aw, no, this ain't right!
+
+[fh4_AnnouncedRestrained_m08]
+Caption=Goddamn it, what kind of a stupid rescue is this?  Tying us all up?  Who's side are you on, anyway?
+
+[fh4_AnnouncedRestrained_m09]
+Caption=You are too late!  We have sent them on, into the damp dark, where He will find them and give them breath again!
+
+[fh2_ReactedHostageDown_m09]
+Caption=Sleep in the darkness... the Light is coming.
+
+[fh4_AnnouncedRestrained_m10]
+Caption=They moved so fast, shooting everything in their path... God help whoever they were gunning for...
+
+[fh2_ReactedHostageDown_m07]
+Caption=This is a nightmare.
+
+[fh4_AnnouncedRestrained_m11]
+Caption=You takin' me in?  At least they got heat at County...
+
+[fh4_AnnouncedRestrained_m13]
+Caption=They've been sending threats in the mail for weeks... I never thought it'd go this far... we could all have been killed...
+
+[fh2_PointedToEnemy_m09]
+Caption=We have turned to violence..
+
+[fh4_AnnouncedSpottedOfficer_m07]
+Caption=It's a raid!
+
+[fh4_AnnouncedSpottedOfficer_m09]
+Caption=We are invaded!
+
+[fh2_PointedToEnemy_m07]
+Caption=Uh... that way...
+
+[fh4_AnnouncedSpottedOfficer_m11]
+Caption=They're here!  They're here to take me!
+
+[fh4_AnnouncedSpottedOfficerScared_m07]
+Caption=No!  Not the cops!
+
+[fh2_AnnouncedThreatened_m11]
+Caption=Don't you shoot at me!
+
+[fh4_AnnouncedSpottedOfficerScared_m09]
+Caption=No!  Not yet! His Plans are not yet complete!
+
+[fh4_AnnouncedSpottedOfficerScared_m11]
+Caption=Look... I dont know anythin' about this...
+
+[fh2_AnnouncedThreatened_m09]
+Caption=I am in Taronne's hands now.
+
+[fh4_AnnouncedSpottedOfficerSurprised_m07]
+Caption=How'd you get in here!
+
+[fh2_AnnouncedThreatened_m07]
+Caption=No!  You've got to help me!
+
+[fh4_AnnouncedSpottedOfficerSurprised_m09]
+Caption=Get back!  They are here!
+
+[fh2_AnnouncedThreatened_m03]
+Caption=Don't let him shoot me...
+
+[fh4_AnnouncedSpottedOfficerSurprised_m11]
+Caption=I just sleep here, I swear....
+
+[fh4_CalledForHelp_m04]
+Caption=They've gone crazy... they're shooting at everything...
+
+[fh2_AnnouncedEnemy_m13]
+Caption=No!  Get away from my lab!
+
+[fh4_CalledForHelp_m07]
+Caption=You've all gone insane!
+
+[fh2_AnnouncedEnemy_m11]
+Caption=You must be the ones th' cop'sr lookin for...
+
+[fh4_CalledForHelp_m08]
+Caption=Over here!  Help me!
+
+[fh4_CalledForHelp_m09]
+Caption=Help me, my Brothers!
+
+[fh2_AnnouncedEnemy_m09]
+Caption=You must defend us!
+
+[fh4_CalledForHelp_m10]
+Caption=Help me now!
+
+[fh4_CalledForHelp_m11]
+Caption=Woah, they got guns' ... help!
+
+[fh2_AnnouncedEnemy_m07]
+Caption=Watch out!
+
+[fh4_CalledForHelp_m13]
+Caption=More of them here!  You've got to help us!
+
+[fh2_AnnouncedEnemy_m03]
+Caption=No... get away from me!
+
+[fh4_DoorBlocked_m04]
+Caption=Open up!  Damn it!
+
+[fh4_DoorBlocked_m10]
+Caption=Damn it, it's jammed...
+
+[fh1_TalkedToEnemy_m13]
+Caption=Hey, look, I'm just a student...
+
+[fh1_TalkedToEnemy_m11]
+Caption=Can't you just leave me alone?
+
+[fh4_ReactedBreach_m04]
+Caption=The door!
+
+[fh1_TalkedToEnemy_m10]
+Caption=Look, there's gotta be a better solution..
+
+[fh4_ReactedBreach_m13]
+Caption=Oh no!
+
+[fh1_TalkedToEnemy_m09]
+Caption=Send me into the dirt and darkness... they are waiting for me..
+
+[fh4_ReactedDownOfficer_m09]
+Caption="Sleep well... "
+
+[fh1_TalkedToEnemy_m07]
+Caption=This doesn't look good...
+
+[fh4_ReactedDownSuspect_m09]
+Caption=Into the earth you go..
+
+[fh1_TalkedToEnemy_m04]
+Caption=Guess you didn't like the band...
+
+[fh1_TalkedToEnemy_m02]
+Caption=Get away from me... get away...
+
+[fh4_ReactedHitByDoor_m04]
+Caption=Someone's trying to get in!
+
+[fh4_ReactedHitByDoor_m10]
+Caption=Someone's back there...
+
+[fh4_ReactedHitByDoor_m13]
+Caption=What?
+
+[fh1_ReactedOfficerDown_m02]
+Caption=It's just getting worse...
+
+[fh1_ReactedHostageDown_m11]
+Caption=Aw, no, this ain't right!
+
+[fh1_ReactedHostageDown_m09]
+Caption=You found the Path at last.
+
+[fh4_RepliedToHostage_m09]
+Caption=We will be together, in Taronne's Name.
+
+[fh1_ReactedHostageDown_m07]
+Caption=What a nightmare...
+
+[fh4_ReportedBarricading_m09]
+Caption=Andrew said they would come... we must be ready.
+
+[fh1_ReactedHostageDown_m02]
+Caption=We'll get out of here, somehow..
+
+[fh4_ShotAFriend_m09]
+Caption=The darkness has claimed you.
+
+[fh4_ShotAtBreachedDoor_m09]
+Caption=Don't let them stop the Plan!
+
+[fh1_PointedToEnemy_m09]
+Caption=My Brethren are everywhere...
+
+[fh4_TalkedToHostage_m09]
+Caption=Be blessed, and cured, by the dirt and the darkness..
+
+[fh4_ThreatenedHostage_m09]
+Caption=Your suffering will end!
+
+[fh1_PointedToEnemy_m07]
+Caption=They went that way...
+
+[aj_AnnouncedBarricade]
+Caption=This'll do..
+
+[fh1_PointedToEnemy_m02]
+Caption=I don't.. I don't know where..
+
+[aj_AnnouncedCompliant]
+Caption=Allright, allright...
+
+[aj_AnnouncedFlee]
+Caption=Shit!  Run!
+
+[aj_AnnouncedInvestigate]
+Caption=What the hell?
+
+[fh1_AnnouncedThreatened_m11]
+Caption=Don't you shoot at me!
+
+[aj_AnnouncedNonCompliant]
+Caption=Not this time!
+
+[aj_AnnouncedRestrained]
+Caption=I want my lawyer!
+
+[fh1_AnnouncedThreatened_m10]
+Caption=Please... just do whatever he says...
+
+[aj_AnnouncedSpottedOfficer]
+Caption=Cops!
+
+[fh1_AnnouncedThreatened_m09]
+Caption=I don't fear the darkness...
+
+[aj_AnnouncedSpottedOfficerScared]
+Caption=Oh, shit, it's the cops!
+
+[aj_AnnouncedSpottedOfficerSurprised]
+Caption=What the hell!
+
+[fh1_AnnouncedThreatened_m07]
+Caption=Don't let them shoot me!
+
+[aj_CalledforHelp]
+Caption=Niu!  Help!
+
+[fh1_AnnouncedThreatened_m02]
+Caption=Don't let him shoot me...
+
+[aj_DoorBlocked]
+Caption=Open up!
+
+[aj_ReactedBang]
+Caption=What!
+
+[fh1_AnnouncedEnemy_m13]
+Caption=You crazy fanatic!
+
+[aj_ReactedBreach]
+Caption=Comin' in!
+
+[fh1_AnnouncedEnemy_m11]
+Caption=I'll just stay outta yer way, OK?
+
+[aj_ReactedDownOfficer]
+Caption=Ha!
+
+[fh1_AnnouncedEnemy_m09]
+Caption=You carry a terrible burden...
+
+[fh1_AnnouncedEnemy_m07]
+Caption=Get back!
+
+[aj_ReactedHitByDoor]
+Caption=What th'...
+
+[fh1_AnnouncedEnemy_m04]
+Caption=I was just here for the music....don't shoot...
+
+[fh1_AnnouncedEnemy_m02]
+Caption=Get away from me!
+
+[mh3_ThreatenedHostage_m10]
+Caption=Get away from here, damn it!
+
+[mh3_TalkedToHostage_m10]
+Caption=Start running. Now.
+
+[aj_RepliedToHostage]
+Caption=Just shut up!
+
+[mh3_TalkedToEnemy_m11]
+Caption=Can't you just leave me alone?
+
+[aj_ReportedBarricading]
+Caption=Where are they...
+
+[mh3_TalkedToEnemy_m09]
+Caption=By your hand or theirs does it matter?
+
+[aj_ShotAFriend]
+Caption="No! "
+
+[mh3_TalkedToEnemy_m07]
+Caption=Hey calm down it's not my fault
+
+[aj_ShotAtBreachedDoor]
+Caption=Get back!
+
+[aj_TalkedToHostage]
+Caption=Don't move!
+
+[alj_AnnouncedBarricade]
+Caption=Lock it!
+
+[mh3_ShotAtBreachedDoor_m10]
+Caption=Keep them out!
+
+[alj_AnnouncedCompliant]
+Caption=All right, all right...
+
+[mh3_ShotAFriend_m10]
+Caption=Oh no!No.
+
+[alj_AnnouncedFlee]
+Caption=Run!
+
+[alj_AnnouncedInvestigate]
+Caption=Who was that!
+
+[mh3_RepliedToHostage_m10]
+Caption=Get out of here, you idiot!
+
+[alj_AnnouncedNonCompliant]
+Caption=I don't think so!!
+
+[alj_AnnouncedRestrained]
+Caption=I ain't sayin' nothing to you!
+
+[alj_AnnouncedSpottedOfficer]
+Caption=I'm not going back!
+
+[alj_AnnouncedSpottedOfficerScared]
+Caption=Shit!  Cops!
+
+[alj_AnnouncedSpottedOfficerSurprised]
+Caption=Watch out!
+
+[alj_CalledforHelp]
+Caption=Over here!
+
+[mh3_ReactedOfficerDown_m11]
+Caption=Uh oh
+
+[alj_DoorBlocked]
+Caption=Open up!  Now!
+
+[mh3_ReactedOfficerDown_m09]
+Caption=This is our place, not yours!
+
+[alj_ReactedBang]
+Caption=Oh God, God!!
+
+[mh3_ReactedOfficerDown_m07]
+Caption=What kind of an idiot shoots a cop!
+
+[alj_ReactedBreach]
+Caption=They're comin' in!
+
+[alj_ReactedDownOfficer]
+Caption=That's it.  Stay down.
+
+[alj_ReactedDownSuspect]
+Caption=Get up, you ass!
+
+[alj_ReactedHitByDoor]
+Caption=Hey!
+
+[alj_ReactedPepper]
+Caption=Shit! You blinded me you stupid fuck!
+
+[alj_RepliedToHostage]
+Caption=This is your fault!
+
+[mh3_ReactedHostageDown_m11]
+Caption=Aw, no, this ain't right!
+
+[alj_ReportedBarricading]
+Caption=Be ready...
+
+[mh3_ReactedHostageDown_m07]
+Caption=We were just playing cards
+
+[alj_ShotAFriend]
+Caption=Oh damn it!!
+
+[alj_ShotAtBreachedDoor]
+Caption=Don't wait!  Shoot!
+
+[alj_TalkedToHostage]
+Caption=Quit your whinin!
+
+[mh3_ReactedHitByDoor_m11]
+Caption=Yeah, knock knock to you too
+
+[alj_ThreatenedHostage]
+Caption=I'll shoot!  I will!
+
+[ak_AnnouncedBarricade]
+Caption=Outta the way!
+
+[ak_AnnouncedCompliant]
+Caption=I dropped it!  Don't shoot!
+
+[ak_AnnouncedFlee]
+Caption=Get back!
+
+[ak_AnnouncedInvestigate]
+Caption=What's that noise?
+
+[mh3_ReactedDownSuspect_m10]
+Caption=Yes!
+
+[ak_AnnouncedNonCompliant]
+Caption=Goddamn it!
+
+[ak_AnnouncedRestrained]
+Caption=You got a warrant?
+
+[ak_AnnouncedSpottedOfficer]
+Caption=Raid!  Cops!
+
+[ak_AnnouncedSpottedOfficerScared]
+Caption=Move!  Cops!
+
+[ak_AnnouncedSpottedOfficerSurprised]
+Caption=What the hell!
+
+[ak_CalledforHelp]
+Caption=Get  over here!
+
+[ak_DoorBlocked]
+Caption=Shit!  It won't budge!
+
+[mh3_PointedToEnemy_m10]
+Caption=That way!
+
+[mh3_PointedToEnemy_m09]
+Caption=Look there
+
+[ak_ReactedBreach]
+Caption=The door!  Watch out!
+
+[mh3_PointedToEnemy_m07]
+Caption=The shooters'r that way..
+
+[ak_ReactedDownOfficer]
+Caption=Next..
+
+[ak_ReactedDownSuspect]
+Caption=Hang in there..
+
+[mh3_DoorBlocked_m11]
+Caption=Figures, it's jammed
+
+[ak_ReactedHitByDoor]
+Caption=What!?
+
+[ak_ReactedInjuryNormal]
+Caption=Damn it!
+
+[mh3_CalledForHelp_m11]
+Caption=Woah, they got guns'  help!
+
+[mh3_CalledForHelp_m10]
+Caption=Get your gun over here!
+
+[mh3_CalledForHelp_m09]
+Caption=Help me!  Brothers!
+
+[ak_RepliedToHostage]
+Caption=Don't get smart.
+
+[mh3_CalledForHelp_m07]
+Caption="Son of a bitch!  "
+
+[ak_ReportedBarricading]
+Caption=Keep waiitin...
+
+[ak_ShotAFriend]
+Caption=Goddamn it!
+
+[ak_ShotAtBreachedDoor]
+Caption=You ain't gettin' in!
+
+[mh3_AnnouncedThreatened_m11]
+Caption=You gotta stop him, mister
+
+[ak_TalkedToHostage]
+Caption=Don't move, and you'll be fine...
+
+[ak_ThreatenedHostage]
+Caption=Stop there, or else!
+
+[mh3_AnnouncedThreatened_m07]
+Caption=You can't be serious
+
+[at_AnnouncedBarricade]
+Caption=He waits.
+
+[at_AnnouncedCompliant]
+Caption=I left you something in the basement.
+
+[at_AnnouncedFlee]
+Caption=This will not be the day.
+
+[mh3_AnnouncedSpottedOfficerSurprised_m11]
+Caption=I just sleep here, I swear.
+
+[at_AnnouncedInvestigate]
+Caption="He sees all.  You can not evade.  "
+
+[at_AnnouncedNonCompliant]
+Caption=They have angered Him.
+
+[mh3_AnnouncedSpottedOfficerSurprised_m10]
+Caption=Can we trust you?
+
+[at_AnnouncedRestrained]
+Caption=His spirit cannot be restrained.
+
+[mh3_AnnouncedSpottedOfficerSurprised_m09]
+Caption=No!  They've invaded our haven!
+
+[at_AnnouncedSpottedOfficer]
+Caption=Have you come to join us?
+
+[at_AnnouncedSpottedOfficerScared]
+Caption=Fear shall never overcome His heart
+
+[mh3_AnnouncedSpottedOfficerSurprised_m07]
+Caption=I thought this place was safe!
+
+[at_AnnouncedSpottedOfficerSurprised]
+Caption=So it begins.
+
+[at_CalledforHelp]
+Caption=To me!
+
+[at_DoorBlocked]
+Caption=He will not be blocked from the One path.
+
+[mh3_AnnouncedSpottedOfficerScared_m11]
+Caption=Wha.. What's with all the shooting!
+
+[at_ReactedBang]
+Caption=Huh!
+
+[mh3_AnnouncedSpottedOfficerScared_m10]
+Caption=No!  More gunmen!
+
+[at_ReactedBreach]
+Caption=He cast them into the pit.
+
+[mh3_AnnouncedSpottedOfficerScared_m09]
+Caption=Stop them!  They let in the darkness!
+
+[mh3_AnnouncedSpottedOfficerScared_m07]
+Caption=No!  Not the cops!
+
+[at_ReactedDownOfficer]
+Caption=The gate is shut to you, friend.
+
+[at_ReactedDownSuspect]
+Caption=Where one falls, many will rise.
+
+[mh3_AnnouncedSpottedOfficer_m11]
+Caption=They're here!  They're here to take me!
+
+[at_ReactedHitByDoor]
+Caption=He is here!
+
+[mh3_AnnouncedSpottedOfficer_m10]
+Caption=I think it's the cops, finally.
+
+[mh3_AnnouncedSpottedOfficer_m09]
+Caption=Leave!  Leave at once!
+
+[mh3_AnnouncedSpottedOfficer_m07]
+Caption=Oh, shit, we've been busted!
+
+[at_RepliedToHostage]
+Caption="His love for you will be proven.  "
+
+[mh3_AnnouncedRestrained_m11]
+Caption=Figures.   Finally find someplace outta the wind and the bloody army comes to haul me out
+
+[at_ReportedBarricading]
+Caption=On this day, we become legends.
+
+[mh3_AnnouncedRestrained_m10]
+Caption=I haven't done anything but hide for the last half hour I don't believe this is happening!.
+
+[at_ShotAFriend]
+Caption=Your purpose has been met.
+
+[at_ShotAtBreachedDoor]
+Caption=They seek to enter uninvited.
+
+[mh3_AnnouncedRestrained_m09]
+Caption=Will I ever see them again... my little ones... I must have faith.
+
+[at_TalkedToHostage]
+Caption=Take comfort child
+
+[at_ThreatenedHostage]
+Caption=You have been chosen
+
+[mh3_AnnouncedRestrained_m08]
+Caption=You've got to stop them! This'll ruin me, no one will ever trust our vaults again.
+
+[cj_AnnouncedBarricade]
+Caption=In here!
+
+[mh3_AnnouncedRestrained_m07]
+Caption=You're not really gonna arrest me, are you? I mean, I didn't do anything I just like bouncing the dice..
+
+[cj_AnnouncedCompliant]
+Caption=Police!   Undercover agent Jennings!
+
+[cj_AnnouncedFlee]
+Caption=We can't win!
+
+[mh3_AnnouncedRestrained_m06]
+Caption=You gotta keep your eyes out they're hidin' all over the building been waitin' for you, I think
+
+[cj_AnnouncedInvestigate]
+Caption=Checkin' it out.
+
+[cj_AnnouncedNonCompliant]
+Caption="Don't shoot!  Detective Jennings, police! "
+
+[mh3_AnnouncedRestrained_m04]
+Caption=There was a fight,  y'know, some guy calls the other a shithead, takes a swing at him, and next thing, there's guns gettin' pulled out
+
+[cj_AnnouncedRestrained]
+Caption=Keep an eye out for Koshka -- he's bad news, and he doesn't like losing.
+
+[mh3_AnnouncedRestrained_m01]
+Caption=What the hell is going on?  Why are you doing this?
+
+[cj_AnnouncedSpottedOfficer]
+Caption=I'm police!  Don't shoot!
+
+[cj_AnnouncedSpottedOfficerScared]
+Caption=Officer Jennings here! Hurry!
+
+[cj_AnnouncedSpottedOfficerSurprised]
+Caption=SWAT!  What took you so long!
+
+[cj_CalledforHelp]
+Caption=Help me out!
+
+[mh3_AnnouncedNonCompliant_m10]
+Caption=This is a hospital!
+
+[cj_DoorBlocked]
+Caption=Son of a bitch...
+
+[mh3_AnnouncedNonCompliant_m09]
+Caption=You're nothing but false authority!
+
+[cj_ReactedBang]
+Caption=Huh!
+
+[mh3_AnnouncedNonCompliant_m08]
+Caption=Get away from me, damn it!
+
+[cj_ReactedBreach]
+Caption=Comin' in!
+
+[mh3_AnnouncedNonCompliant_m06]
+Caption=Not more gunmen!
+
+[mh3_AnnouncedNonCompliant_m04]
+Caption=No!  I have to find Angie!
+
+[cj_ReactedDownOfficer]
+Caption=Hang in there, buddy...
+
+[mh3_AnnouncedNonCompliant_m01]
+Caption=What's wrong?
+
+[cj_ReactedDownSuspect]
+Caption=Now, that's a damn shame.
+
+[cj_ReactedHitByDoor]
+Caption=Who's out there?
+
+[mh3_AnnouncedInvestigate_m10]
+Caption=I'll go scout around.
+
+[mh3_AnnouncedFlee_m11]
+Caption=Run!
+
+[cj_ReactedInjuryNormal]
+Caption=Damn it!
+
+[mh3_AnnouncedFlee_m10]
+Caption=Run!
+
+[mh3_AnnouncedFlee_m09]
+Caption="Run!   "
+
+[mh3_AnnouncedFlee_m07]
+Caption=There's gotta be another way out of here!
+
+[cj_RepliedToHostage]
+Caption=You'll be fine.
+
+[cj_ReportedBarricading]
+Caption=Stay down!
+
+[mh3_AnnouncedEnemy_m11]
+Caption=You must be the ones th' cop'sr lookin for
+
+[cj_ShotAFriend]
+Caption=Damn!
+
+[cj_ShotAtBreachedDoor]
+Caption=Don't wait!
+
+[mh3_AnnouncedEnemy_m09]
+Caption=Face your enemies!
+
+[cj_TalkedToHostage]
+Caption=Stay calm...
+
+[mh3_AnnouncedEnemy_m07]
+Caption=They're armed
+
+[cj_ThreatenedHostage]
+Caption=Don't make me do something stupid.
+
+[hk_AnnouncedBarricade]
+Caption=Crappy place to hide..
+
+[hk_AnnouncedCompliant]
+Caption=Watch the guns... I'm down!
+
+[mh3_AnnouncedCompliant_m13]
+Caption=I thought tonight couldn't get any worse.
+
+[hk_AnnouncedFlee]
+Caption=Run!
+
+[hk_AnnouncedInvestigate]
+Caption=What was that?
+
+[mh3_AnnouncedCompliant_m11]
+Caption=I ain't movin' or nothin'!
+
+[hk_AnnouncedNonCompliant]
+Caption=Watch this!
+
+[mh3_AnnouncedCompliant_m09]
+Caption=I yield to darkness, but I still search for the light.
+
+[hk_AnnouncedRestrained]
+Caption=Look, I'm just a buisiness man, running a business here...
+
+[hk_AnnouncedSpottedOfficer]
+Caption=You should'a stayed out!
+
+[mh3_AnnouncedCompliant_m08]
+Caption=What the hell am I paying guards for?
+
+[hk_AnnouncedSpottedOfficerScared]
+Caption=You cannot be here!
+
+[mh3_AnnouncedCompliant_m07]
+Caption=Damned high handed cops
+
+[hk_AnnouncedSpottedOfficerSurprised]
+Caption=How did you know?!
+
+[mh3_AnnouncedCompliant_m04]
+Caption=I'm down!  I swear, I was just watchin' the show!
+
+[hk_CalledforHelp]
+Caption=Stop them!
+
+[mh3_AnnouncedCompliant_m01]
+Caption=This is unbelievable
+
+[hk_DoorBlocked]
+Caption=Damn it! What the hell!
+
+[hk_ReactedBang]
+Caption=Ah!
+
+[hk_ReactedBreach]
+Caption=What the ....
+
+[mh3_AnnouncedBarricade_m10]
+Caption=Let me lock that..
+
+[mh2_TalkedToEnemy_m11]
+Caption=Can't you just leave me alone?
+
+[hk_ReactedDownOfficer]
+Caption=Take that!
+
+[mh2_TalkedToEnemy_m09]
+Caption=Taronne will guide your hand, if you will bless me now...
+
+[hk_ReactedDownSuspect]
+Caption=Idiot!
+
+[mh2_TalkedToEnemy_m05]
+Caption=Are you stupid, or just crazy?
+
+[hk_ReactedHitByDoor]
+Caption=What!?
+
+[mh2_TalkedToEnemy_m03]
+Caption=Please... I just work here...
+
+[hk_RepliedToHostage]
+Caption=It's not my concern.
+
+[hk_ReportedBarricading]
+Caption=Might hold..
+
+[hk_ShotAFriend]
+Caption=Get down, damn it!
+
+[hk_ShotAtBreachedDoor]
+Caption=Take that!
+
+[mh2_ReactedOfficerDown_m11]
+Caption=Uh oh...
+
+[hk_TalkedToHostage]
+Caption=Shut up!  Stop whining!
+
+[hk_ThreatenedHostage]
+Caption=Don't get any closer!
+
+[mh2_ReactedOfficerDown_m09]
+Caption=You never belonged here...
+
+[jt_AnnouncedBarricade]
+Caption=Set up here.
+
+[mh2_ReactedOfficerDown_m07]
+Caption=What kind of an idiot shoots a cop!
+
+[jt_AnnouncedCompliant]
+Caption=My hands are empty!
+
+[jt_AnnouncedFlee]
+Caption=Fall back!
+
+[jt_AnnouncedInvestigate]
+Caption=What's going on?
+
+[jt_AnnouncedNonCompliant]
+Caption=No!  No compromise!
+
+[jt_AnnouncedRestrained]
+Caption=Legal or illegal, it doesn't change what is right and what is wrong.
+
+[jt_AnnouncedSpottedOfficer]
+Caption=You should have stayed out of this.
+
+[jt_AnnouncedSpottedOfficerScared]
+Caption=Get back!
+
+[jt_AnnouncedSpottedOfficerSurprised]
+Caption=You got here so fast!
+
+[jt_CalledforHelp]
+Caption=I need backup!  Now!
+
+[jt_DoorBlocked]
+Caption=It's blocked!
+
+[mh2_ReactedHostageDown_m11]
+Caption=Oh, no...
+
+[jt_ReactedBreach]
+Caption=The door!
+
+[mh2_ReactedHostageDown_m09]
+Caption=The Light will come...
+
+[jt_ReactedDownOfficer]
+Caption=I'm sorry....
+
+[jt_ReactedDownSuspect]
+Caption=Another loss..
+
+[mh2_ReactedHostageDown_m07]
+Caption=No!
+
+[jt_ReactedHitByDoor]
+Caption=Hey!
+
+[mh2_ReactedHitByDoor_m11]
+Caption=What?
+
+[mh2_ReactedHitByDoor_m05]
+Caption=I ain't comin' out!
+
+[jt_ReactedInjuryNormal]
+Caption=Ah! Damn it!
+
+[jt_RepliedToHostage]
+Caption=Shut up!
+
+[jt_ReportedBarricading]
+Caption=Remember the mission!
+
+[jt_ShotAFriend]
+Caption=Be careful!
+
+[jt_ShotAtBreachedDoor]
+Caption=Fire!
+
+[jt_TalkedToHostage]
+Caption=Where is the briefcase?
+
+[jt_ThreatenedHostage]
+Caption=Don't force my hand.
+
+[lf_AnnouncedBarricade]
+Caption=Leave me alone!
+
+[lf_AnnouncedCompliant]
+Caption=You can't take her away from me...
+
+[lf_AnnouncedFlee]
+Caption=Get back!
+
+[lf_AnnouncedInvestigate]
+Caption=Is... is someone there?
+
+[mh2_PointedToEnemy_m09]
+Caption=Seek your fate...
+
+[lf_AnnouncedNonCompliant]
+Caption=I'll show you!
+
+[mh2_PointedToEnemy_m07]
+Caption=Lemme be.. Get them.
+
+[lf_AnnouncedRestrained]
+Caption=Don't tell Ma about this... you can't....
+
+[lf_AnnouncedSpottedOfficer]
+Caption=You!
+
+[lf_AnnouncedSpottedOfficerScared]
+Caption=They're here, they're here...
+
+[lf_AnnouncedSpottedOfficerSurprised]
+Caption=What?
+
+[mh2_DoorBlocked_m11]
+Caption=Jammed!
+
+[lf_CalledforHelp]
+Caption=No!  No!
+
+[mh2_DoorBlocked_m05]
+Caption=Goddamn it, is this door busted again?
+
+[lf_DoorBlocked]
+Caption=Can't be locked, can't be...
+
+[lf_ReactedBang]
+Caption=Huh!
+
+[mh2_CalledForHelp_m11]
+Caption=Woah, they got guns' ... help!
+
+[lf_ReactedBreach]
+Caption=The door!
+
+[mh2_CalledForHelp_m09]
+Caption="To me!     "
+
+[lf_ReactedDownOfficer]
+Caption=Poor boy...
+
+[mh2_CalledForHelp_m07]
+Caption="Son of a bitch!  "
+
+[lf_ReactedDownSuspect]
+Caption=No, no, no.....
+
+[lf_ReactedHitByDoor]
+Caption=Who's there?
+
+[mh2_AnnouncedThreatened_m11]
+Caption=You gotta listen to him...
+
+[mh2_AnnouncedThreatened_m09]
+Caption=I am in Taronne's hands now.
+
+[lf_ReactedPepper]
+Caption=Wha?
+
+[mh2_AnnouncedThreatened_m08]
+Caption=Uh...you're gonna stop him, right?
+
+[mh2_AnnouncedThreatened_m07]
+Caption=You can't be serious...
+
+[lf_RepliedToHostage]
+Caption=You'll see, it'll be fine...
+
+[lf_ReportedBarricading]
+Caption=It'll all be fine... just fine....
+
+[mh2_AnnouncedSpottedOfficerSurprised_m11]
+Caption=I just sleep here, I swear...
+
+[lf_ShotAFriend]
+Caption=Ma!
+
+[mh2_AnnouncedSpottedOfficerSurprised_m09]
+Caption=No!  They've invaded our haven!
+
+[lf_ShotAtBreachedDoor]
+Caption=No!  Noooo!
+
+[mh2_AnnouncedSpottedOfficerSurprised_m07]
+Caption=I thought this place was safe!
+
+[lf_TalkedToHostage]
+Caption=Hush, hush, don't cry....
+
+[lf_ThreatenedHostage]
+Caption=Don't make me hurt the little girl...
+
+[ln_AnnouncedBarricade]
+Caption=Where's the lock...
+
+[ln_AnnouncedCompliant]
+Caption=I give up!  Don't shoot!
+
+[mh2_AnnouncedSpottedOfficerScared_m11]
+Caption=Look... I dont know anythin' about this...
+
+[ln_AnnouncedFlee]
+Caption=Run!
+
+[mh2_AnnouncedSpottedOfficerScared_m09]
+Caption=Why weren't we warned?  Surely Taronne knew!
+
+[ln_AnnouncedInvestigate]
+Caption=Is somethin' wrong?
+
+[ln_AnnouncedNonCompliant]
+Caption="Get away!  "
+
+[mh2_AnnouncedSpottedOfficerScared_m07]
+Caption=This is terrible!
+
+[ln_AnnouncedRestrained]
+Caption=You got this all wrong..it's just a little hobby, you know?
+
+[ln_AnnouncedSpottedOfficer]
+Caption=Cops!
+
+[ln_AnnouncedSpottedOfficerScared]
+Caption=Oh, shit!  Police!
+
+[mh2_AnnouncedSpottedOfficer_m11]
+Caption=Hey, why are you always buggin' me?
+
+[ln_AnnouncedSpottedOfficerSurprised]
+Caption="What?  Cops?  "
+
+[ln_CalledforHelp]
+Caption=Alex!
+
+[mh2_AnnouncedSpottedOfficer_m09]
+Caption=Leave!  Leave at once!
+
+[ln_DoorBlocked]
+Caption=Stupid door... open up!
+
+[mh2_AnnouncedSpottedOfficer_m07]
+Caption=It's a raid!
+
+[ln_ReactedBreach]
+Caption=The door!
+
+[mh2_AnnouncedRestrained_m13]
+Caption=They were all suited up like some Halloween show still can't believe they're in here, shootin' people.
+
+[ln_ReactedDownOfficer]
+Caption=One down...
+
+[mh2_AnnouncedRestrained_m12]
+Caption=More excitement than I wanted, that's for sure
+
+[ln_ReactedDownSuspect]
+Caption=Oh, shit...
+
+[mh2_AnnouncedRestrained_m10]
+Caption="I know you need to secure the place... but there are people dying in here!. "
+
+[ln_ReactedHitByDoor]
+Caption=Hey!
+
+[mh2_AnnouncedRestrained_m09]
+Caption=You won't stop him!  His Plan will prevail, and we will be with Him!
+
+[mh2_AnnouncedRestrained_m08]
+Caption=They really knew what they were doin'... came in here like a ton of bricks, I never been so scared in my life...
+
+[mh2_AnnouncedRestrained_m07]
+Caption=Look, a couple'a games never hurt anybody... What are you so upset about?
+
+[mh2_AnnouncedRestrained_m06]
+Caption=I could'a gone to the park today.. But no, I came into work.  What was I thinking!
+
+[ln_RepliedToHostage]
+Caption=Shut up!
+
+[mh2_AnnouncedRestrained_m05]
+Caption=Goddamn police, bargin' in, guess you shoot at anything that moves, right?
+
+[ln_ReportedBarricading]
+Caption=Oh, shit...
+
+[mh2_AnnouncedRestrained_m04]
+Caption=I don't know what happened... everything was goin' great, the band was hot, and then people started screamin....
+
+[mh2_AnnouncedRestrained_m03]
+Caption=This is the worst day of my life.
+
+[ln_ShotAFriend]
+Caption=Sorry, sorry...sorry
+
+[ln_ShotAtBreachedDoor]
+Caption=Stop them!
+
+[mh2_AnnouncedRestrained_m01]
+Caption=Look, you got a problem with the place, talk to the owner...
+
+[ln_TalkedToHostage]
+Caption=Don't move!
+
+[ln_ThreatenedHostage]
+Caption=Dont get any closer!
+
+[sg_AnnouncedBarricade]
+Caption=Hey! Get the doors!
+
+[sg_AnnouncedCompliant]
+Caption=I'm down!  Im down!
+
+[mh2_AnnouncedNonCompliant_m13]
+Caption=You goin' after those fanatics?
+
+[sg_AnnouncedFlee]
+Caption=No! I'm outta here, man!
+
+[mh2_AnnouncedNonCompliant_m12]
+Caption=You gonna stop those crazies?
+
+[sg_AnnouncedInvestigate]
+Caption=Let me see what's up.
+
+[mh2_AnnouncedNonCompliant_m11]
+Caption=Hey... what's goin' on?
+
+[sg_AnnouncedNonCompliant]
+Caption=Hey, it's a raid!  Stop 'em!
+
+[mh2_AnnouncedNonCompliant_m10]
+Caption="Damn it, this is a hospital!  "
+
+[sg_AnnouncedSpottedOfficer]
+Caption=There they are!
+
+[mh2_AnnouncedNonCompliant_m08]
+Caption=I can help ya...
+
+[sg_AnnouncedSpottedOfficerScared]
+Caption=Get away!  Cops!
+
+[mh2_AnnouncedNonCompliant_m07]
+Caption=It's the goddamn police!
+
+[sg_AnnouncedSpottedOfficerSurprised]
+Caption=What the hell?  Cops?
+
+[sg_CalledforHelp]
+Caption=Help!
+
+[mh2_AnnouncedNonCompliant_m05]
+Caption=Hey, I'm one'a th' mechanics here...
+
+[sg_DoorBlocked]
+Caption=Locked!  No!
+
+[mh2_AnnouncedNonCompliant_m04]
+Caption=Stop the idiots with guns, damn it...
+
+[sg_ReactedBang]
+Caption=Huh!
+
+[mh2_AnnouncedNonCompliant_m03]
+Caption=No, no... you want the robbers!
+
+[sg_ReactedBreach]
+Caption=Watch the door!
+
+[sg_ReactedDownOfficer]
+Caption=Ha! How's that feel?
+
+[mh2_AnnouncedFlee_m11]
+Caption="Shit! "
+
+[sg_ReactedDownSuspect]
+Caption=Hang on....
+
+[mh2_AnnouncedFlee_m09]
+Caption=So much darkness!
+
+[mh2_AnnouncedFlee_m08]
+Caption=This is more'n I get paid for!
+
+[sg_ReactedHitByDoor]
+Caption="Hey!      "
+
+[mh2_AnnouncedFlee_m07]
+Caption=There's gotta be another way out of here!
+
+[mh2_AnnouncedFlee_m05]
+Caption=Right... I'm leaving now!
+
+[sg_ReactedInjuryNormal]
+Caption=Damn it!
+
+[sg_ReactedPepper]
+Caption=My eyes!  Oh god, my eyes!
+
+[mh2_AnnouncedEnemy_m11]
+Caption=There!
+
+[mh2_AnnouncedEnemy_m09]
+Caption=You must defend us!
+
+[sg_RepliedToHostage]
+Caption=You stay out this.
+
+[mh2_AnnouncedEnemy_m07]
+Caption=Get back!
+
+[sg_ReportedBarricading]
+Caption=Now I'm ready for 'em...
+
+[mh2_AnnouncedEnemy_m05]
+Caption=Don't let him escape!
+
+[sg_ShotAFriend]
+Caption="Shit!   "
+
+[sg_ShotAtBreachedDoor]
+Caption=Now!  Start shooting!
+
+[mh2_AnnouncedCompliant_m12]
+Caption=Just glad they didn't care so much 'bout me
+
+[sg_TalkedToHostage]
+Caption=Keep your damned mouth shut.
+
+[mh2_AnnouncedCompliant_m11]
+Caption=Jeez, don't shoot, I don't move so fast these days!
+
+[sg_ThreatenedHostage]
+Caption=Leave me alone or I shoot!
+
+[mh2_AnnouncedCompliant_m10]
+Caption=Get those maniacs out of here!
+
+[mh1_AnnouncedCompliant_m01]
+Caption=You're busting the Foodwall?  What the hell?
+
+[mh2_AnnouncedCompliant_m09]
+Caption=The answer won't be found with violence.
+
+[mh1_AnnouncedCompliant_m04]
+Caption=Don't shoot!  Oh, I think I'm gonna puke...
+
+[mh2_AnnouncedCompliant_m08]
+Caption=Whatever you say!
+
+[mh1_AnnouncedCompliant_m06]
+Caption=Feels like I'm in a cop show.
+
+[mh2_AnnouncedCompliant_m07]
+Caption=You happy now?
+
+[mh1_AnnouncedCompliant_m07]
+Caption=Oh my god... you can't tell my wife...
+
+[mh1_AnnouncedCompliant_m09]
+Caption=The answer won't be found with violence.
+
+[mh2_AnnouncedCompliant_m06]
+Caption=Just tell me you'll get me outta here.
+
+[mh1_AnnouncedCompliant_m10]
+Caption=Ok, Ok, I'm down...quit shoving guns in my face!
+
+[mh2_AnnouncedCompliant_m04]
+Caption=You gotta save the Abomb...
+
+[mh1_AnnouncedCompliant_m11]
+Caption=Don't shoot!  You're freakin' me out!
+
+[mh2_AnnouncedCompliant_m03]
+Caption=You gonna get them too?
+
+[mh1_AnnouncedCompliant_m12]
+Caption=Course, ain't nobody gonna try an' take me hostage...
+
+[mh2_AnnouncedCompliant_m01]
+Caption=Jeez, don't shoot! What the hell...
+
+[mh1_AnnouncedCompliant_m13]
+Caption=Don't shoot!  You might break something!
+
+[mh1_AnnouncedEnemy_m04]
+Caption=Over there!
+
+[mh1_TalkedToEnemy_m13]
+Caption=I'm just a student here, you know....
+
+[mh1_AnnouncedEnemy_m07]
+Caption=Get back!
+
+[mh1_TalkedToEnemy_m11]
+Caption=Man, what did I do to you?
+
+[mh1_AnnouncedEnemy_m09]
+Caption=You carry a terrible burden...
+
+[mh1_AnnouncedEnemy_m11]
+Caption=I'll just stay outta yer way, OK?
+
+[mh1_TalkedToEnemy_m09]
+Caption=Please!  I follow His Voice, I follow His Steps....
+
+[mh1_TalkedToEnemy_m07]
+Caption=Hey... calm down... it's not my fault...
+
+[mh1_AnnouncedFlee_m07]
+Caption=Lemme out!
+
+[mh1_AnnouncedFlee_m09]
+Caption="Run!   "
+
+[mh1_TalkedToEnemy_m03]
+Caption=All the money is in the safe!
+
+[mh1_AnnouncedFlee_m11]
+Caption=Oh man, I'm outta here!
+
+[mh1_AnnouncedFlee_m13]
+Caption=You can have the damn samples!
+
+[mh1_AnnouncedNonCompliant_m03]
+Caption=Hey, I'm the manager!
+
+[mh1_AnnouncedNonCompliant_m04]
+Caption=This is one bad trip...
+
+[mh1_AnnouncedNonCompliant_m05]
+Caption=Hey, hey! This is my garage!
+
+[mh1_AnnouncedNonCompliant_m09]
+Caption=Get back!  You don't belong here!
+
+[mh1_AnnouncedNonCompliant_m11]
+Caption=Listen, I'm just tryin' to stay outta the cold.
+
+[mh1_AnnouncedNonCompliant_m12]
+Caption=Whatever man, I'm just a janitor!
+
+[mh1_AnnouncedNonCompliant_m13]
+Caption=Go stop those damned fanatics!
+
+[mh1_ReactedOfficerDown_m11]
+Caption=Uh oh...
+
+[mh1_AnnouncedRestrained_m01]
+Caption=Hey, what kind of shit is this?  I didn't do anything, I'm just trying to make ends meet!
+
+[mh1_AnnouncedRestrained_m03]
+Caption=The woman, she was crazy the register was nearly empty... I thought she was gonna shoot me right there...
+
+[mh1_ReactedOfficerDown_m09]
+Caption=You won't follow us any more..
+
+[mh1_AnnouncedRestrained_m04]
+Caption=Uhh... I think I'm gonna be sick...
+
+[mh1_ReactedOfficerDown_m07]
+Caption=Oh no!
+
+[mh1_AnnouncedRestrained_m05]
+Caption=Goddamn police, bargin' in, guess you shoot at anything that moves, right?
+
+[mh1_AnnouncedRestrained_m06]
+Caption=You gotta keep your eyes out... they're hidin' all over the building.  Careful, I think they're waiting for you.
+
+[mh1_AnnouncedRestrained_m07]
+Caption=Look, you gotta let me go, my wife's gonna kill me...
+
+[mh1_AnnouncedRestrained_m08]
+Caption=Do you have to do this?  I don't have any weapons.
+
+[mh1_AnnouncedRestrained_m09]
+Caption="You can't stop His Plan!  "
+
+[mh1_AnnouncedRestrained_m10]
+Caption="There's a lot of wounded folks out there.. "
+
+[mh1_AnnouncedRestrained_m11]
+Caption=Figures.   Finally find someplace to crash and this has to happen.
+
+[mh1_AnnouncedRestrained_m12]
+Caption=I ain't one a' them terrorists, you know.
+
+[mh1_AnnouncedRestrained_m13]
+Caption=My uncle's a cop... I know how this works.
+
+[mh1_AnnouncedSpottedOfficer_m09]
+Caption=Get out!  You contaminate this house!
+
+[mh1_AnnouncedSpottedOfficer_m11]
+Caption=They're here!  They're here to take me!
+
+[mh1_ReactedHostageDown_m11]
+Caption=Aw, no, this ain't right!
+
+[mh1_AnnouncedSpottedOfficerScared_m07]
+Caption=Get away from me!
+
+[mh1_AnnouncedSpottedOfficerScared_m09]
+Caption=No! Police... Run!
+
+[mh1_ReactedHostageDown_m09]
+Caption=Shhhh...sleep... wait for the Light..
+
+[mh1_AnnouncedSpottedOfficerScared_m11]
+Caption=Look... I dont know anythin' about this...
+
+[mh1_ReactedHostageDown_m07]
+Caption=Oh, god...
+
+[mh1_AnnouncedSpottedOfficerSurprised_m07]
+Caption=How'd you get in here!
+
+[mh1_AnnouncedSpottedOfficerSurprised_m09]
+Caption=No!  They've invaded our haven!
+
+[mh1_ReactedHitByDoor_m11]
+Caption=Hey, just go away!
+
+[mh1_AnnouncedSpottedOfficerSurprised_m11]
+Caption=What's with all the noise?
+
+[mh1_AnnouncedThreatened_m04]
+Caption=He's gotta gun...
+
+[mh1_AnnouncedThreatened_m07]
+Caption=You can't be serious...
+
+[mh1_AnnouncedThreatened_m08]
+Caption=You want the gems, just take them...
+
+[mh1_AnnouncedThreatened_m09]
+Caption=I don't fear the darkness...
+
+[mh1_AnnouncedThreatened_m11]
+Caption=You gotta stop him, man.
+
+[mh1_CalledForHelp_m09]
+Caption=Help me!  Brothers!
+
+[mh1_CalledForHelp_m11]
+Caption=Help!
+
+[mh1_DoorBlocked_m04]
+Caption=It's gotta open... I'm not that drunk...
+
+[mh1_DoorBlocked_m11]
+Caption=Stuck!
+
+[mh1_DoorBlocked_m13]
+Caption=Damn, where's my lab key?
+
+[mh1_PointedToEnemy_m09]
+Caption=You seek them...
+
+[mh1_PointedToEnemy_m07]
+Caption=You wanna get them...
+

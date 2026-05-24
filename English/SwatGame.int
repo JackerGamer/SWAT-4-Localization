@@ -1,0 +1,109 @@
+[SwatGUIConfig]
+DifficultyString[0]=Easy
+DifficultyString[1]=Normal
+DifficultyString[2]=Hard
+DifficultyString[3]=Elite
+FriendlyName=("Food Wall Restaurant","Fairfax Residence","Qwik Fuel Convenience Store","A-Bomb Nightclub","Victory Imports Auto Center","Red Library Offices","Northside Vending and Amusements","DuPlessis Wholesale Diamond Center","Children of Taronne Tenement","St. Michael's Medical Center","The Wolcott Projects","Old Granite Hotel","Mt. Threshold Research Center")
+CustomEquipmentLoadoutFriendlyNames=("Assaulter (JHP)","Assaulter (FMJ)","CQB Specialist","Breacher","Scout","Pacifier","Less Lethal Specialist")
+LocalizedCommandString=("Classic: Primary Weapon","Classic: Secondary Weapon","Classic: Flashbang Grenade","Classic: CS Gas Grenade","Classic: Sting Grenade","Classic: Pepper Spray","Classic: Breaching","Classic: Toolkit","Classic: Optiwand","Classic: Wedge","Graphic: Primary Weapon","Graphic: Secondary Weapon","Graphic: Flashbang Grenade","Graphic: CS Gas Grenade","Graphic: Sting Grenade","Graphic: Pepper Spray","Graphic: Breaching","Graphic: Toolkit","Graphic: Optiwand","Graphic: Wedge","Classic: Back","Classic: Deploy","Open/Close Menus","Fire","Reload","Equip Handcuffs","Change Firing Mode","Zoom","Toggle Flashlight","Use","Change command group","Toggle Red team Viewports","Toggle Blue team Viewports","Toggle Sniper Viewports","Deactivate Viewports","Control Viewports","Display Objectives & Scores","Open Graphic Command Interface","Give Quick Command","Equip Next Weapon","Equip Previous Weapon","Scroll Command Up","Scroll Command Down","Move Forward","Move Backward","Sidestep Left","Sidestep Right","Lean Left","Lean Right","Run/Walk","Crouch","Toggle Run/Walk","Toggle Crouch","Say","Team Say","Scroll Chat Up","Scroll Chat Down","Scroll Chat Page Up","Scroll Chat Page Down","Scroll Chat To Home","Scroll Chat To End")
+AudioVirtualizationChoices=("None","Low HRTF","High HRTF")
+SoundQualityChoices=("Low","High")
+ScreenResolutionChoices=("800x600","1024x576","1024x768","1280x720","1280x1024","1366x768","1600x1200","1440x1080","1920x1080","2560x1440","3840x2160")
+TextureDetailChoices=("Low","Medium","High")
+OtherDetailChoices=("Off","Low","Medium","High")
+RenderDetailChoices=("Custom","Low","Medium","High","Very High")
+PixelShaderChoices=("No","Yes")
+RealtimeMirrorChoices=("No","Yes")
+VoiceTypeChoices=("Random","Lead","Reynolds","Girard","Fields","Jackson")
+NetworkConnectionChoices=("Modem","ISDN","Cable/ADSL","LAN/T1")
+TDMDescription=The goal is to kill or arrest as many members of the opposite team as possible.  Kills are worth 1 point, arrests are worth 5 points.||The first team to reach the score limit wins.  If the time limit is reached, the team with the most points at the end of the round wins.
+VIPDescription=One player on the SWAT team is randomly chosen to be the VIP.  SWAT must escort the VIP to the escape point on the other side of the map.  The suspects must capture the VIP.  They must then hold him hostage for 2 minutes.  SWAT players can use the toolkit to release the VIP.  After the two minutes are up, the suspects must assassinate the VIP to win the game.||SWAT wins if the VIP escapes, or if the suspects kill the VIP before capturing and holding him.
+BombDescription=Three to five bombs are randomly spawned in the map.  SWAT must use the toolkit to defuse all of the bombs before the round ends.  The Suspects must defend the bombs and prevent them from being disabled.  Once all of the bombs are defused SWAT wins.  If the round timer expires while a bomb is still active, the Suspects win.
+COOPDescription=Play single player missions with a group of up to five officers.
+TDMFriendlyName=Barricaded Suspects
+VIPFriendlyName=VIP Escort
+BombFriendlyName=Rapid Deployment
+COOPFriendlyName=CO-OP
+MPSuspectsWinMessage=The Suspects have won the round!
+MPSWATWinMessage=SWAT has won the round!
+MPTieMessage=The game ended in a tie.
+MPName=Player
+MPNameAllowableCharSet=abcdefghijklmnopqrstuvwxyz1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZ()<>{}|_!^
+
+[SwatPlayer]
+YouString=You
+
+[ServerSettings]
+ServerName=Swat4 Server
+
+[ClassicCommandInterface]
+DeployMenuKeyString=-
+
+[TrainingTextManager]
+OpenKeybindingCode=[k=
+CloseKeybindingCode=]
+
+[ClassicCommandInterface_SP]
+ElementString=As an Element -
+RedTeamString=Red Team -
+BlueTeamString=Blue Team -
+BackString=Backspace: Main Menu
+
+[ClassicCommandInterface_MP]
+ElementString=What Should Go Here?
+RedTeamString=Red Team -
+BlueTeamString=Blue Team -
+BackString=Backspace: Main Menu
+
+[NetTeamA]
+TeamName=SWAT
+
+[NetTeamB]
+TeamName=Suspects
+
+[GUIFireMode]
+FireModeSingleText=SEMI
+FireModeBurstText=BURST
+FireModeAutoText=AUTO
+
+[ConcussiveDamageType]
+FriendlyName=C2 Explosion
+
+[OfficerRedOne]
+OfficerFriendlyName=Officer Red One
+
+[OfficerRedTwo]
+OfficerFriendlyName=Officer Red Two
+
+[OfficerBlueOne]
+OfficerFriendlyName=Officer Blue One
+
+[OfficerBlueTwo]
+OfficerFriendlyName=Officer Blue Two
+
+[CustomScenarioCreatorData]
+PredefinedRedOneLoadOut=("Assaulter_JHP","Assaulter_FMJ","CQB_Specialist","Breacher","Scout","Pacifier","LessLethal")
+PredefinedRedTwoLoadOut=("Assaulter_JHP","Assaulter_FMJ","CQB_Specialist","Breacher","Scout","Pacifier","LessLethal")
+PredefinedBlueOneLoadOut=("Assaulter_JHP","Assaulter_FMJ","CQB_Specialist","Breacher","Scout","Pacifier","LessLethal")
+PredefinedBlueTwoLoadOut=("Assaulter_JHP","Assaulter_FMJ","CQB_Specialist","Breacher","Scout","Pacifier","LessLethal")
+PrimaryWeaponCategoryDescription=("Machineguns","Submachineguns","Shotguns","Handguns")
+BackupWeaponCategoryDescription=("Machineguns","Submachineguns","Shotguns","Handguns")
+AnyString=Any
+AnyLoadoutString=Any Loadout
+NoneString=None
+CopyOfString=Copy of
+NewScenarioString=New Scenario
+DefaultPackString=Default
+UnavailableString=[ Unavailable ]
+LowString=Low
+MediumString=Medium
+HighString=High
+EasyString=Easy
+NormalString=Normal
+HardString=Hard
+EliteString=Elite
+NumberOfHostagesString=NUMBER OF HOSTAGES
+NumberOfEnemiesString=NUMBER OF SUSPECTS
+CommaIncludingString=, INCLUDING
+CampaignObjectivesString=CAMPAIGN OBJECTIVES.
+

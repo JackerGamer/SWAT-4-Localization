@@ -1,0 +1,19 @@
+# Windows / Explorer
+Thumbs.db
+Desktop.ini
+
+# Editor and temporary files
+*.tmp
+*.temp
+*.bak
+*.orig
+*~
+
+# Logs
+*.log
+
+# Generated comparison/output folders
+diff/
+out/
+tmp/
+temp/

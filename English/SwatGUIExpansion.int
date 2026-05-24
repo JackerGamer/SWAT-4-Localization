@@ -1,0 +1,387 @@
+[SwatPatchingPopup]
+PatchAvailableText=A new version of the game ([b]%v[\b]) is available at the following URL:
+PatchAvailableText2=You must upgrade to the latest version in order to play online. Would you like to exit the game and browse to the download location now?
+NoPatchAvailableText=Your game is up-to-date.
+LaunchFailedText=An error occurred while trying to launch your web browser. Please visit the website at the following address to download a patch for your software: [b]%u[\b]
+CheckingText=Checking for a new version...
+
+[SwatGamespyProfilePopup]
+DoneText=DONE
+CancelText=CANCEL
+WaitText=Please wait...
+ResultBadEmail=[c=ff0000]The email you supplied is invalid. Try again with a valid email.
+ResultBadLogin=[c=ff0000]The user name or password you provided is invalid.
+ResultBadPassword=[c=ff0000]The email address you supplied is already in use, and the password you provided is invalid. Use a different email address or enter the correct password.
+ResultCreateOk=[c=ffffff]Profile successfully created.
+ResultLoginOk=[c=ffffff]Login successful. You will be connected automatically on starting each game.
+ResultLoginAfterCreateOk=[c=00ff00]A new profile has been created for you and login was successful. You will be connected automatically on starting each game.
+ResultUnknown=[c=ff0000]An error occurred while transmitting data to GameSpy. Please try again later.
+ProfileCreated=Profile created, connecting...
+ProfileCreating=Account not found, creating...
+ProfileConnected=You are currently connected to the GameSpy stat-tracking service. Visit [b]www.gamespyid.com[\b] for account help.
+ProfileNotConnected=You are not currently connected to the GameSpy stat-tracking service. Please enter your login details and connect to enable stat-tracking.  Visit [b]www.gamespyid.com[\b] for account help.
+ProfileDetailsButNotConnected=You are not currently connected to the GameSpy stat-tracking service. You will be connected automatically each time you join a stats-enabled server.
+ValidateBadUsername=[c=ff0000]Usernames must have between 3 and 20 characters. Only alphanumeric characters and the characters #$%&'()*+-./:;<=>?@^_`{|}~ are allowed.
+ValidateBadUsernameFirstChar=[c=ff0000]Usernames may not begin with the following characters: @, +, :, #
+ValidateBadPassword=[c=ff0000]You must specify a password.
+ValidateBadEmail=[c=ff0000]The email address you specified is not a valid email address.
+
+[SwatGUIController]
+WaitingString=Waiting for other players...
+VIPTimerText=VIP Time Remaining:
+SmashAndGrabTimerText=Time Remaining
+RDTimerText=Bombs Remaining: %1/%2
+ViewingFrom="Now viewing from: "
+ViewingFromVIP="Now viewing from the VIP: "
+MissionCompleted=You have [c=00ff00]COMPLETED[\c] the mission!
+MissionFailed=You have [c=ff0000]FAILED[\c] the mission!
+ObjectiveShown=You have received a new objective!
+SwatWin=SWAT has won the round!
+SuspectsWin=The Suspects have won the round!
+GameTied=The round has ended in a tie!
+OneMinWarning=1 Minute left!
+TenSecWarning=10 Seconds!
+DisarmBomb=SWAT has disarmed a bomb!
+SwatWinRD=SWAT has disarmed all the bombs!
+SuspectsWinRD=[c=ff0000]The Suspects have won the round!
+SwatRespawnEvent=SWAT reinforcements have arrived.
+SuspectsRespawnEvent=Suspect reinforcements have arrived.
+BothTeamsRespawnEvent=Reinforcements have arrived.
+VIPSafe=The VIP has escaped!  SWAT wins!
+VIPRescued=SWAT has freed the VIP!
+VIPCaptured=Suspects have captured the VIP!
+YouAreVIP=You are the VIP! You must now avoid capture and escape.
+WinSuspectsGoodKill=SWAT accidentally killed the VIP! The suspects win the round.
+WinSuspectsBadKill=The Suspects have killed the VIP! The suspects win the round.
+WinSwatBadKill=The Suspects have killed the VIP too soon! SWAT wins the round.
+SwatWinSmashAndGrab=Swat has defended the case. Swat Wins!
+SuspectsWinSmashAndGrab=The suspects have escaped with the case!
+PreGameText=Time before round begins:
+MidGameText=Round time remaining:
+PostGameText=Time before next round:
+VoteYesNoKeys=Vote yes = %1, Vote no = %2
+HelpStack=("***Component Layout***","  ","(Up Arrow) - Moves the current control up","(Down Arrow) - Moves the current control down","(Left Arrow) - Moves the current control left","(Right Arrow) - Moves the current control right","(-) - Sizes the current control shorter","(=) - Sizes the current control taller","(NUMPAD -) - Sizes the current control thinner","(NUMPAD +) - Sizes the current control thicker","  ","***Information Displays and Toggles***","  ","(H) - Displays this quick help menu","(N) - Displays a list of all available GUI Styles and Fonts","(O) - Displays a list of all pages on the server stack","(M) - Displays the member list for the current control","(B) - Toggles edit mode for the member list","(K) - Toggles Config variables shown in Member Display","(L) - Toggles GUI members shown in Member Display","(G) - Toggles snap to grid on/off","  ","***Component Actions***","  ","(Ctrl + LeftMouse) - Selects the component under the mouse","(Ctrl + T) - Toggles absolute/scaling values of the current control","(Ctrl + I) - Toggles absolute/scaling values of all controls on current page","(Ctrl + Z) - Undoes the last operation on the current control","(Ctrl + A) - Redoes the last operation on the current control","(Ctrl + S) - Saves the configuration of the current control","(Ctrl + P) - Saves the configuration of all controls on the current page","(Ctrl + E) - Brings up the Object editor window on the current control","(Ctrl + N) - Create a new component for the selected MultiComponent or Active Page","				  Please enter a descriptive name and remember to save!!!","(Ctrl + Delete) - Delete the selected component","				  Please remember to save!!!","(Ctrl + C) - Copies the currently selected component's config properties to the clipboard component","(Ctrl + V) - Copies the currently selected component's config properties from the clipboard component","(Ctrl + F) - Move the current component forward in it's MenuOwner's Controls list","(Ctrl + B) - Move the current component backward in it's MenuOwner's Controls list","(Ctrl + Alt + F) - Move the current component to the front of it's MenuOwner's Controls list","(Ctrl + Alt + B) - Move the current component to the back of it's MenuOwner's Controls list","(Ctrl + O) - Reorder the Controls within this MultiComponent based on their RenderWeights","  ","***Styles***","  ","(Ctrl + Shift + N) - Create a new GUIStyles","				  Please enter a descriptive name!","(Ctrl + Shift + C) - Copies the currently selected component's style's config properties to the clipboard style","(Ctrl + Shift + V) - Copies the currently selected component's style's config properties from the clipboard style","  ","***Advanced***","  ","(Ctrl + Alt + D) - Toggle GUI Edit Mode (Must have bModAuthor specified for GUIController)","(Ctrl + Alt + U) - Brings up the Object editor window on this GUIController","(Ctrl + Alt + Y) - Saves the settings on this GUIController","  ","***Miscellaneous***","  ","(<Hold> Shift) - Removes the information display from the bottom of the screen","(<Hold> Ctrl + Alt) - Displays the hierarchy of the current control","(<Hold> Ctrl + Alt + MoveMouse) - Moves the currently selected control with the mouse (snapping done after release)","  ","***Console Commands***","  ","(SetGuiRes X Y) - Sets the gui & game resolution","(SetGuiStyle X) - Changes the GUIStyle of the current component to X","(SetGuiGridSize X) - Sets the grid spacing to X pixels","  "," "," GUI Editor V0.9 By Dan Kaplan"," Irrational Games, LLC"," ")
+DLG_OK=OK
+DLG_Yes=YES
+DLG_Continue=CONTINUE
+DLG_Retry=RETRY
+DLG_Ignore=IGNORE
+DLG_No=NO
+DLG_Abort=ABORT
+DLG_Cancel=CANCEL
+
+[SwatGUIPage]
+QuitPrompt=Quit to Windows?
+
+[SwatServerBrowserMenu]
+VersionFormatString=Version: %1
+ModFormatString=Mod: %1
+ConnectPasswordQueryString=Please enter the Password for the selected server:
+
+[SwatServerSetupMenu]
+BackButtonHelpString=Return to the Main Menu.
+CancelButtonHelpString=Discard changes and return to the previous menu.
+QuitButtonHelpString=Exit the game and return to Windows.
+AcceptButtonHelpString=Apply the current settings and return to the previous menu.
+StartButtonHelpString=Start the server with the current settings.
+ReStartButtonHelpString=Restart the server with the current settings.
+BackButtonString=MAIN
+CancelButtonString=CANCEL
+QuitButtonString=QUIT
+AcceptButtonString=APPLY
+StartButtonString=START SERVER
+ReStartButtonString=RESTART SERVER
+CannotUndercutCurrentPlayersFormatString=Cannot proceed.  The maximum number of players (%1) cannot be less than the current number of players (%2).  Please increase the Max Players value and try again.
+CannotStartDedicatedServerString=Cannot start dedicated server. A SWAT4 dedicated server is already running on this machine.
+HostCDKeyInvalidString=Invalid CD Key!
+StartDedicatedServerQueryString=Quit the game and launch a dedicated server with the current settings?
+StartServerQueryString=Start the server?
+ReStartServerQueryString=Restart the server with the current settings?
+
+[SwatMissionLoadingMenu]
+LoadSplashString=Loading...
+WaitForConnectionString=Connecting...
+LoadMapString=Loading...
+DownloadString=Downloading...
+
+[SwatObjectivesPopupMenu]
+ContinueString=CONTINUE
+ResumeString=RESUME
+AbortString=ABORT
+DebriefString=DEBRIEF
+AbortQueryString=Are you sure you wish to end the mission?
+
+[SwatMPPage]
+BombsRemaining=Bombs Remaining: %1/%2
+RoundsRemainingString=Round: %1/%2
+GameModeAndLevelString=Level: %2    Mode: %1
+LoadSplashString=Loading...
+WaitForConnectionString=Connecting...
+LoadMapString=Loading...
+DownloadString=Downloading...
+ConfirmAbortString=Disconnect from the current game?
+WaitingForPlayersString=Waiting for players to reconnect...
+
+[CustomScenarioPage]
+ConfirmationString=There are unsaved changes.  Are you sure you want to leave and lose those changes?
+ConfirmOverwriteExistingScenarioString=A scenario named '%1' already exists in pack '%2'.  Are you sure you wish to overwrite it?
+
+[CustomScenarioCoopPage]
+ConfirmAbortString=Disconnect from the current game?
+
+[SwatChatPanel]
+TeamChatMessage=[c=808080][b]%1[\b]: %2
+GlobalChatMessage=[c=00ff00][b]%1[\b]: %2
+NameChangeMessage=[c=ff00ff][b]%1[\b] changed name to [b]%2[\b].
+KickMessage=[c=ff00ff][b]%1[\b] kicked [b]%2[\b].
+BanMessage=[c=ff00ff][b]%1[\b] BANNED [b]%2[\b]!
+SwitchTeamsMessage=[c=00ffff][b]%1[\b] switched teams.
+StatsValidatedMessage=[c=ffff00][b][STATS][\b] The server has validated your profile and is tracking statistics.
+StatsBadProfileMessage=[c=ffff00][b][STATS][\b] Your profile data is invalid. Please ensure your profile data is entered correctly.
+COOPMessageLeaderSelected=[c=ffff00][b]%1[\b] has been promoted to leader.
+CoopQMMMessage=[c=ffff00]%1
+SwatSuicideMessage=[c=0000ff][b]%1[\b] suicided!
+SuspectsSuicideMessage=[c=ff0000][b]%1[\b] suicided!
+SwatTeamKillMessage=[c=0000ff][b]%1[\b] betrayed [b]%2[\b] with a %3!
+SuspectsTeamKillMessage=[c=ff0000][b]%1[\b] double crossed [b]%2[\b] with a %3!
+SwatKillMessage=[c=0000ff][b]%1[\b] neutralized [b]%2[\b] with a %3!
+SuspectsKillMessage=[c=ff0000][b]%1[\b] killed [b]%2[\b] with a %3!
+SwatArrestMessage=[c=0000ff][b]%1[\b] arrested [b]%2[\b]!
+SuspectsArrestMessage=[c=ff0000][b]%1[\b] arrested [b]%2[\b]!
+YesVoteMessage=[c=ff00ff]%1 voted yes
+NoVoteMessage=[c=ff00ff]%1 voted no
+KickReferendumStartedMessage=[c=ff00ff]%1 has started a vote to kick %2
+BanReferendumStartedMessage=[c=ff00ff]%1 has started a vote to ban %2
+LeaderReferendumStartedMessage=[c=ff00ff]%1 has started a vote to promote %2 to leader
+MapReferendumStartedMessage=[c=ff00ff]%1 has started a vote to change the map to %2 and the game mode to %3
+ReferendumAlreadyActiveMessage=[c=ff00ff]A vote is already in progress
+ReferendumStartCooldownMessage=[c=ff00ff]You may only start a vote once every 60 seconds
+PlayerImmuneFromReferendumMessage=[c=ff00ff]%1 is currently immune from voting
+ReferendumAgainstAdminMessage=[c=ff00ff]You may not start a vote against an admin
+ReferendumsDisabledMessage=[c=ff00ff]Voting has been disabled on this server
+LeaderVoteTeamMismatchMessage=[c=ff00ff]You may not start leadership votes for players on the other team
+ReferendumSucceededMessage=[c=ff00ff]The vote succeeded
+ReferendumFailedMessage=[c=ff00ff]The vote failed
+ConnectedMessage=[c=ffff00][b]%1[\b] connected to the server.
+DisconnectedMessage=[c=ffff00][b]%1[\b] dropped from the server.
+EquipNotAvailableString=[c=ffffff]No %1 available to equip.
+SniperAlertedString=[c=ffffff]Press %1 to activate the sniper view.
+NewObjectiveString=[c=ffffff]You have received a new objective.
+MissionCompletedString=[c=ffffff]You have [c=00ff00]COMPLETED[c=ffffff] the mission!
+MissionFailedString=[c=ffffff]You have [c=ff0000]FAILED[c=ffffff] the mission!
+SettingsUpdatedString=[c=ffff00][b]%1[\b] updated the server settings.
+DebugMessageString=[c=ffffff]DEBUG_MSG: %1
+StatsMessage=[c=ffff00]%1
+PromptToDebriefMessage=[c=ffffff]Press '[k=GUICloseMenu]' to proceed to Debrief.
+SomeoneString=someone
+SlotNames[0]=Invalid
+SlotNames[1]=Primary Weapon
+SlotNames[2]=Backup Weapon
+SlotNames[3]=Flashbang Grenade
+SlotNames[4]=CS Gas Grenade
+SlotNames[5]=Sting Grenade
+SlotNames[6]=Pepper Spray
+SlotNames[7]=breaching device
+SlotNames[8]=Toolkit
+SlotNames[9]=Optiwand
+SlotNames[10]=Wedge
+SlotNames[11]=ZipCuff
+SlotNames[14]=Lightstick
+SmashAndGrabGotItemMessage=[c=ffff00]%1 has picked up the briefcase.
+SmashAndGrabDroppedItemMessage=[c=ffff00]%1 dropped the briefcase.
+SmashAndGrabArrestTimeDeductionMessage=[c=ffff00]%1 seconds deducted from round time.
+
+[SwatServerSetupQuickPanel]
+SelectedIndexColorString=[c=00ff00]
+IdealPlayerCountString=Recommended Players: %1 - %2
+LevelAuthorString=Author: %1
+LevelTitleString=Map: %1
+LoadingMaplistString=Searching for available maps...
+LANString=LAN
+GAMESPYString=Internet
+
+[SwatMPScoresPanel]
+VIPString=" (VIP)"
+TeamScoreFormatString=%1: %2   Rounds won: %3
+StartGameString=START GAME
+AbortGameString=END GAME
+NextGameString=NEXT GAME
+AdminLoginString=ADMIN LOGIN
+AdminPasswordQueryString=Please enter the admin password to login:
+
+[SwatObjectivesPanel]
+InProgressString=In Progress
+CompletedString=Completed
+FailedString=Failed
+
+[SwatLeadershipPanel]
+BonusFormatString=%1
+PenaltyFormatStringx=%1
+TotalString=Total
+RankingFormatString=Ranking: %1
+NoPenaltiesDeducted=No Penalties Deducted!
+MissionFailedRanking=Failure!
+DifficultyLabelString=Required score: %1
+
+[SwatCOOPOfficerStatusPanel]
+IncapacitatedString=[c=ff0000][b]Incapacitated
+InjuredString=[c=ff0000]Injured
+HealthyString=Healthy
+NotAvailable=[c=ff00ff][b]Not Available
+NotReady=[c=FF0000]Not Ready
+Ready=[c=00FF00]Ready
+LeaderString=[c=ffff00][b]Leader
+
+[CustomScenario_MissionTabPanel]
+MissionChangedMessage=Mission changed:
+UsingCampaignObjecivesMessage=Using campaign objectives
+NotUsingCampaignObjecivesMessage=Not using campaign objectives
+UsingTimeLimitMessage=The mission will have a time limit
+NotUsingTimeLimitMessage=The mission will not have a time limit
+EitherSpawnPointMessage=Either spawn point will be used
+PrimarySpawnPointMessage=The primary spawn point will be used
+SecondarySpawnPointMessage=The secondary spawn point will be used
+ObjectiveAddedMessage=Objective added:
+ObjectiveRemovedMessage=Objective removed:
+DifficultyChangedMessage=Difficulty changed:
+
+[CustomScenario_HostagesTabPanel]
+UsingCampaignSettingsMessage=Using campaign settings
+NotUsingCampaignSettingsMessage=Not using campaign settings
+ModifiedHostageCountMinMessage=Minimum hostage count modified:
+ModifiedHostageCountMaxMessage=Maximum hostage count modified:
+ModifiedHostageMoraleMinMessage=Minimum hostage morale modified:
+ModifiedHostageMoraleMaxMessage=Maximum hostage morale modified:
+HostageArchetypeAddedMessage=Hostage archetype added:
+HostageArchetypeRemovedMessage=Hostage archetype removed:
+
+[CustomScenario_EnemiesTabPanel]
+UsingCampaignSettingsMessage=Using campaign settings
+NotUsingCampaignSettingsMessage=Not using campaign settings
+ModifiedEnemyCountMinMessage=Minimum enemy count modified:
+ModifiedEnemyCountMaxMessage=Maximum enemy count modified:
+ModifiedEnemyMoraleMinMessage=Minimum enemy morale modified:
+ModifiedEnemyMoraleMaxMessage=Maximum enemy morale modified:
+EnemyArchetypeAddedMessage=Enemy archetype added:
+EnemyArchetypeRemovedMessage=Enemy archetype removed:
+EnemySkillChangedMessage=Enemy skill changed:
+EnemyPrimaryWeaponTypeChangedMessage=Enemy primary weapon type changed:
+EnemyBackupWeaponTypeChangedMessage=Enemy backup weapon type changed:
+EnemyPrimaryWeaponSpecificChangedMessage=Specific primary enemy weapon changed:
+EnemyBackupWeaponSpecificChangedMessage=Specific backup enemy weapon changed:
+
+[SwatOfficerStatusPanel]
+IncapacitatedString=[c=ff0000][b]Incapacitated
+InjuredString=[c=ff0000]Injured
+HealthyString=Healthy
+NotAvailable=[c=ffffff][b]Not Available
+
+[SwatMissionSetupMenu]
+CampaignString=CAMPAIGN
+CustomString=CUSTOM
+
+[SwatSPLoadoutPanel]
+ConfirmOverwrite=A loadout named '%1' already exists; are you sure that you wish to overwrite it?
+ConfirmDelete=Delete loadout '%1'?
+ConfirmApplyToAll=Are you sure that you wish to apply the selected loadout to your entire team?
+OfficerInfo[0]=A recent transfer from Los Angeles, the Sergeant is cool under fire and always business like.  With a new element to command he will have to gain the respect of his squad while on the job.
+OfficerInfo[1]=A thirty year veteran of the force, and 25 year veteran of SWAT, Officer Reynolds is the most experienced member of the element.  His experience has taught him that staying calm can be the key to survival as a SWAT officer.  Realizing the value of his experience, he is always willing to give his advice to the element.
+OfficerInfo[2]=Officer Girard is a local boy, born and raised in the metropolitan area.  Girard has been a member of SWAT for 6 years and been decorated for his bravery on 2 occasions.
+OfficerInfo[3]=Spending only 2 years on the street before passing the rigorous SWAT training course and trials, Officer Fields is one of the youngest officers on the force to be promoted to SWAT.  Although a bit of a loudmouth, he has proven to be a very capable operator.
+OfficerInfo[4]=Officer Jackson has had a long and distinguished career on SWAT.  As well as being a top-notch operator, Jackson prides himself on being an athlete.  He is in peak physical condition and can be an intimidating presence on any operation.
+OfficerVitals[0]=|Nickname:  Boss|Badge No.:  3187|Years of Service:  13
+OfficerVitals[1]=Officer Steven Reynolds|Nickname:  Gramps|Badge No.:  3077|Years of Service: 28
+OfficerVitals[2]=Officer Anthony Girard|Nickname:  Subway|Badge No.:  3518|Years of Service: 12
+OfficerVitals[3]=Officer Zachary Fields|Nickname:  Hollywood|Badge No.: 3975|Years of Service:  4
+OfficerVitals[4]=Officer Allen Jackson|Nickname:  Python|Badge No.:  3248|Years of Service:  16
+
+[SwatMissionSelectionPanel]
+DifficultyLabelString=Score of [b]%1[\b] required to advance.
+
+[SwatMainMenu]
+TrainingFriendlyString=Training
+PromptToGotoTrainingFirstString=SWAT (R) 4 requires challenging squad-based tactics and compliance with law-enforcement procedures. It is [b]strongly[\b] recommended that you play the training mission before attempting other SWAT engagements. Continue anyway?
+ConfirmNoTrainingString=Are you sure that you do not want to play the training mission?
+
+[Swat4Credits]
+
+[SwatNewFeatures]
+NewFeaturesLines=("","[B]5.7x28mm Submachine Gun[\\B] ","","Designed by a leading European arms manufacturer, this ''personal defense weapon'' was originally intended for use by troops who did not use full-sized rifles and for whom pistols were ineffective against targets with modern body armor. Since its introduction, law enforcement and military personnel throughout Europe and the Middle East have adopted it. Its high reliability, large ammunition capacity and balance make it a desirable weapon.","","[B]Colt Accurized Rifle[\\B] ","","The Colt Accurized Rifle occupies the mid ground between an assault rifle and a dedicated sniper rifle. The CAR combines accurate range firing with the large ammo capacity required for urban field use and includes mounting points for a variety of scopes. Firing a 5.56mm round from a 20 round magazine, the CAR is only capable of firing in semiautomatic mode. Its length can make it a difficult weapon to wield in close quarters.","","[B]5.56mm Light Machine Gun[\\B] ","","This light support weapon is intended only for military operations; however, as with most weapons, some are available on the black market. The weapon is designed to be fired accurately from the hip or shoulder, though it is more commonly fired from a deployed bipod. It uses a box magazine holding 200 rounds of disintegrating-link ammunition.","","[B]40x46mm Grenade Launcher[\\B] ","","The grenade launcher has become a standard piece of police equipment for use in unusual situations such as hostage rescue or riot control. Its ability to fire a wide range of direct and indirect less-lethal ammunitions has proved it to be extremely versatile.","","[B]9mm Machine Pistol[\\B]","","This 9mm machine pistol is the scourge of law enforcement, considered only useful for drive-by shootings and armed hold-ups. Its high rate of fire and large ammunition capacity make it a favorite among criminals. Using anything other than full metal jacket rounds in this firearm greatly reduces its reliability.","","[B]Mark 19 .50 Semiautomatic Pistol[\\B]","","This semiautomatic pistol holds eight .50 Action Express rounds, providing the greatest stopping power of any handgun outside of a revolver. Favored by criminals for its considerable intimidation potential, it is often eschewed as a practical combat weapon due to its low ammunition capacity and excessive weight.","","[B]Cobra Stun Gun[\\B]","","The Cobra is a dual-purpose less-lethal weapon. It fires small electrodes into the target and then sends a powerful electric charge down thin wires still connected to the hand unit. The electrical discharge causes involuntary contraction of the target's muscle tissue regardless of an individual's pain tolerance or mental focus. The effect is painful and demoralizing to even the most aggressive suspects. It has a longer range than its Taser forbearer and can fire darts in groups of four or two separate groups of two. It can also be used in ''touch-stun'' mode as a melee weapon. An onboard computer records information on shock intensity and duration, among other factors.","")
+
+[SwatConnectionFailureMenu]
+ConnectionFailed=The connection to the server has failed.
+NetworkingFailed=The network connection has failed.
+UrlFailed=Error: %1
+ConnectionTimeout=The connection to the server has timed out.
+RejectedByServer=The connection to the server was rejected.
+CDKeyFailed=CD Key authentication has failed.
+DemoLoadFailed=Invalid demo map: '%1'
+ConfigMD5ChecksumFailure=File is incompatible with the version on the server: '%1'
+ConfigMD5ChecksumCountFailure=Connection to server rejected (unexpected number of configuration files).
+PackageMD5ChecksumFailure=Connection to server rejected (invalid content).
+GenericFailure=The connection to the server has failed.
+IPBanned=You have been banned from this server.
+WrongPassword=The password you entered is incorrect.
+NeedPassword=You need to enter a password to join this game.
+InvalidOptions=The options you specified are invalid.
+
+[SwatSaveCustomPopup]
+DefaultLoadoutName=My Loadout
+
+[SwatMissionAbortMenu]
+EndTheMissionConfirmation=Are you sure you wish to end the mission?
+
+[SwatVideoSettingsPanel]
+WarningTextVideoResolutionChange=The game will now attempt to change video resolution. If this fails, the game will revert to the current setting after 10 seconds. Are you sure you want to change video resolution?
+ConfirmResetString=Are you sure that you wish to reset all video settings to their defaults? This may take a few moments.
+
+[SwatKeyControlSettingsPanel]
+ReMappingQuery=The current bindings for %1 are %2. Press a different key to add it to the list of bindings, or press a currently bound key to remove it from the bindings.
+ConfirmResetString=Are you sure that you wish to reset all key bindings to their defaults? This may take a few moments.
+
+[SwatGameControlSettingsPanel]
+GCIOptionS1P1String=Hold [k=OpenGraphicCommandInterface | RightMouseAlias] to open menu
+GCIOptionS1P2String=Click [k=Fire] to select
+GCIOptionS1P3String=Release [k=OpenGraphicCommandInterface | RightMouseAlias] to cancel
+GCIOptionS2P1String=Hold [k=OpenGraphicCommandInterface | RightMouseAlias] to open menu
+GCIOptionS2P2String=Release [k=OpenGraphicCommandInterface | RightMouseAlias] to select
+GCIOptionS2P3String=Click [k=Fire] to cancel
+GCIOptionS3P1String=Click [k=OpenGraphicCommandInterface | RightMouseAlias] to open menu
+GCIOptionS3P2String=Click [k=Fire] to select
+GCIOptionS3P3String=Click [k=OpenGraphicCommandInterface | RightMouseAlias] to cancel
+GCIOptionS4P1String=Click [k=OpenGraphicCommandInterface | RightMouseAlias] to open menu
+GCIOptionS4P2String=Click [k=OpenGraphicCommandInterface | RightMouseAlias] to select
+GCIOptionS4P3String=Click [k=Fire] to cancel
+ConfirmResetString=Are you sure that you wish to reset all game settings to their defaults?
+
+[SwatAudioSettingsPanel]
+SpeechRecognitionDisabledHelpString=Speech recognition could not be initialized. Please consult the manual for help.
+ConfirmResetString=Are you sure that you wish to reset all audio settings to their defaults?
+
+[SwatSettingsPanel]
+ConfirmResetString=Are you sure that you wish to reset these settings to their defaults? This may take a few moments.
+ConfirmationTextSettingsChange=Do you wish to keep these new settings?
+
+[SwatGameSettingsMenu]
+MainMenuString=MAIN MENU
+BackString=BACK
+
+[SwatDebriefingMenu]
+MissionCompletedString=[c=ffffff]Mission [c=00ff00]Completed[c=ffffff]!
+MissionFailedString=[c=ffffff]Mission [c=ff0000]Failed[c=ffffff]!
+MissionCompletedDifficultyReqFailedString=[c=ffffff]Mission [c=ff0000]Completed[c=ffffff]!
+ContinueMissionCompletedString=NEXT MISSION
+ContinueMissionFailedString=SELECT MISSION
+MainMenuString=MAIN MENU
+
+[CustomScenario_SelectionPanel]
+ConfirmDeleteString=Are you sure that you wish to delete scenario %1 from pack %2?
+
+[SwatCampaignMenu]
+StringA=" is not a valid campaign name."
+StringB="Campaign: "
+StringC="A campaign with the name "
+StringE=" already exists.  Do you wish to overwrite it?"
+StringJ="Are you sure that you want to delete campaign "
+StringK=Officer Default
+

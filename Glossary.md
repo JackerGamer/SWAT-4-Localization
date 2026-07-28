@@ -40,14 +40,14 @@
 | Procedure | 程序 | 评分/流程规范语境。 |
 | Scenario | 场景 | 自定义任务语境。 |
 | Pack | 任务包 | 自定义任务/场景分组语境。 |
-| Mission Pack | 任务包 | 同上。 |
+| Mission Pack | 任务包 |  |
 | Expansion Pack | 扩展包 | 内容资料片语境，不译作任务包。 |
 | Loadout | 装备配置 |  |
 | Primary Weapon | 主武器 |  |
 | Primary Ammo | 主武器弹药 | 装备槽位。 |
 | Backup Weapon | 副武器 | 装备和键位界面统一用词。 |
 | Backup Ammo | 副武器弹药 | 装备槽位。 |
-| Secondary Weapon | 副武器 | 同上。 |
+| Secondary Weapon | 副武器 |  |
 | Evidence | 证据 |  |
 | Weapon secured | 已收缴武器 |  |
 | Secure Evidence | 收集证据 | 动作反馈。 |
@@ -61,7 +61,7 @@
 | DOA | DOA | Dead on Arrival，到达时已死亡。 |
 | Downed officer | 倒下的警员 |  |
 | Dead | 死亡 | 状态。 |
-| Restrained | 已约束 | 已用扎带控制的状态。 |
+| Restrained | 已约束 | 已用手铐控制的状态。 |
 | Compliant | 已服从 | 指角色已听从命令。 |
 | Incapacitated | 丧失行动能力 |  |
 | Injured | 受伤 |  |
@@ -69,20 +69,20 @@
 | Neutralized | 已制服 | 对象死亡时用 `杀死` / `击杀`。 |
 | Morale | 士气 | AI 服从机制。 |
 | Arrest | 逮捕 |  |
-| Capture | 抓住 |  |
+| Capture | 抓住 | VIP 模式中指嫌犯控制 VIP。 |
 | Kill | 杀死 / 击杀 | 规则、剧情用 `杀死`；多人/对战用 `击杀`。 |
 | Rescue | 营救 | 任务目标短文案；简报正文可用 `救出`、`解救`。 |
 | Escort | 护送 |  |
 | Escape point | 撤离点 | VIP 语境。 |
 | Exit | 出口 | Smash and Grab 语境。 |
 | Briefcase | 公文包 | Smash and Grab 目标物。 |
-| Case | 公文包 | 同上。 |
+| Case | 公文包 | Smash and Grab 目标物，与 `Briefcase` 统一。 |
 | Bomb | 炸弹 |  |
 | Defuse | 拆除 | 炸弹语境。 |
-| Disarm | 拆除 | 同上。 |
+| Disarm | 拆除 | 炸弹语境，与 `Defuse` 统一。 |
 | Disable | 解除 | 陷阱/装置语境。 |
 | Vote | 投票 | 可组成 `发起投票`、`投票通过`。 |
-| Referendum | 投票 | 同上。 |
+| Referendum | 投票 | 多人投票机制，与 `Vote` 统一。 |
 | Admin | 管理员 |  |
 | Server | 服务器 |  |
 | Dedicated server | 专用服务器 |  |
@@ -116,7 +116,7 @@
 | Host Game | 创建游戏 | 多人菜单。 |
 | Campaign Objectives | 战役目标 |  |
 | Time limit | 时间限制 |  |
-| Spawn point | 重生点 |  |
+| Spawn point | 重生点 | 多人模式的出生位置；任务入口使用 `突入点`。 |
 | Primary spawn point | 主要重生点 |  |
 | Secondary spawn point | 次要重生点 |  |
 | Entry point | 突入点 | 任务入口。 |
@@ -135,24 +135,25 @@
 | 9mm SMG | 9 毫米冲锋枪 |  |
 | 9mm Sub-Machine Gun | 9 毫米冲锋枪 | 与 `9mm SMG` 统一。 |
 | Suppressed 9mm SMG | 消音 9 毫米冲锋枪 | 与 Silenced 统一。 |
-| Silenced 9mm Sub-Machine Gun | 消音 9 毫米冲锋枪 | 同上。 |
+| Silenced 9mm Sub-Machine Gun | 消音 9 毫米冲锋枪 |  |
 | .45 SMG | .45 冲锋枪 |  |
 | Colt M4A1 Carbine | 柯尔特 M4A1 卡宾枪 |  |
 | Colt M4 Carbine | 柯尔特 M4 卡宾枪 |  |
 | GB36s Assault Rifle | GB36s 突击步枪 |  |
 | Benelli M4 Super90 | 贝内利 M4 超级 90 | 与 `Super 90` 写法统一。 |
-| Benelli M4 Super 90 | 贝内利 M4 超级 90 | 同上。 |
+| Benelli M4 Super 90 | 贝内利 M4 超级 90 |  |
 | Benelli M1 Super90 | 贝内利 M1 超级 90 | 与 `Super 90` 写法统一。 |
-| Benelli M1 Super 90 | 贝内利 M1 超级 90 | 同上。 |
+| Benelli M1 Super 90 | 贝内利 M1 超级 90 |  |
 | Nova Pump Shotgun | 新星泵动式霰弹枪 |  |
 | Less Lethal Shotgun | 低致命性霰弹枪 | 不用 `非致命性`。 |
 | Pepper-ball | 辣椒球枪 | `Pepper` 统一译为 `辣椒`。 |
-| Pepper-ball Gun | 辣椒球枪 | 同上。 |
+| Pepper-ball Gun | 辣椒球枪 |  |
 | Colt M1911 Handgun | 柯尔特 M1911 手枪 |  |
 | VIP Colt M1911 Handgun | VIP 柯尔特 M1911 手枪 |  |
 | 9mm Handgun | 9 毫米手枪 |  |
 | Taser Stun Gun | 泰瑟电击枪 | 单独的 `Taser` 译作 `泰瑟枪`。 |
-| Cobra Stun Gun | 眼镜蛇电击枪 |  |
+| Cobra Stun Gun | 眼镜蛇电击枪 | 正式装备名。 |
+| Stingray | 眼镜蛇 | 内部类名和语音旧称，与 `Cobra Stun Gun` 指同一武器。 |
 | 40mm Grenade Launcher | 40 毫米榴弹发射器 |  |
 | 5.7x28mm Submachine Gun | 5.7x28 毫米冲锋枪 |  |
 | Colt Accurized Rifle | 柯尔特精准步枪 | 描述中简称 CAR。 |
@@ -168,9 +169,9 @@
 | Gal Sub-machinegun | 加尔冲锋枪 |  |
 | AK-47 Machinegun | AK-47 步枪 | 原文为 Machinegun，但 AK 应为步枪。 |
 | AK74 | AK-74 | 按常见枪名规范化。 |
-| AK74su | AKS-74U | 同上。 |
+| AK74su | AKS-74U | 按常见枪名规范化。 |
 | GB53 | GB53 | 虚构/改名武器，保留游戏内名称。 |
-| SLP 40 | SLP 40 | 同上。 |
+| SLP 40 | SLP 40 | 虚构/改名武器，保留游戏内名称。 |
 | Cheetah N9 | 猎豹 N9 | 虚构/改名武器，意译。 |
 
 ## 装备与战术工具
@@ -192,8 +193,8 @@
 | Breaching Shotgun | 破门霰弹枪 |  |
 | Shotgun | 霰弹枪 |  |
 | Toolkit | 工具钳 | 开锁、拆弹、移除门楔。 |
-| Zip-cuffs | 扎带 |  |
-| ZipCuff | 扎带 |  |
+| Zip-cuffs | 手铐 | 装备名；描述材质时写作 `塑料手铐`。 |
+| ZipCuff | 手铐 | 同一装备的另一种拼写。 |
 | Tactical Aid | 战术辅助 | 装备槽位。 |
 | Breaching Device | 破门装备 | 装备槽位。 |
 | Head Protection | 头部防护 | 装备槽位。 |
@@ -239,7 +240,7 @@
 | Frangible Breaching Shot | 易碎破门弹 |  |
 | OC-Ball | 辣椒球 |  |
 | Beanbags | 豆袋弹 |  |
-| Cartridge | 弹匣 | 可用 `电击枪弹匣`。 |
+| Cartridge | 弹匣 | 仅指电击枪的一次性弹匣；普通枪弹语境不可套用。 |
 | Baton | 警棍弹 | 40mm 弹药。 |
 | Armor piercing | 穿甲 |  |
 | Penetration | 穿透力 |  |
@@ -257,11 +258,11 @@
 
 | 英文 | 简体中文 | 备注 |
 |---|---|---|
-| Classic | 经典 |  |
-| Graphic | 图形 |  |
+| Classic | 经典 | 命令界面模式。 |
+| Graphic | 图形 | 命令界面模式。 |
 | Open Menus | 打开菜单 |  |
 | Close Menus | 关闭菜单 |  |
-| Fire | 开火 |  |
+| Fire | 开火 | 武器操作；火灾语境另译。 |
 | Melee | 近战 |  |
 | Reload | 重新装填 |  |
 | Equip Handcuffs | 装备手铐 |  |
@@ -270,25 +271,25 @@
 | Zoom | 缩放 |  |
 | Toggle Flashlight | 切换手电筒 |  |
 | Use | 使用 |  |
-| Deploy | 部署 |  |
+| Deploy | 部署 | 键位或菜单统称；具体装备按动作译作 `投掷`、`安放` 或 `使用`。 |
 | Breaching | 破门 |  |
 | Throw Lightstick | 投掷荧光棒 |  |
-| Command group | 命令组 |  |
-| Viewport | 视窗 |  |
+| Command group | 命令组 | 指切换红队、蓝队或全队的命令目标。 |
+| Viewport | 视窗 | 队员或狙击手的画面窗口。 |
 | Sniper View | 狙击手视窗 |  |
 | Reticle | 准星 | HUD 瞄准/互动提示。 |
-| Crosshair | 准星 | 同上。 |
+| Crosshair | 准星 | HUD 语境，与 `Reticle` 统一。 |
 | Reticle Accuracy | 准星精度 | 训练说明。 |
 | Objectives & Scores | 目标与分数 |  |
 | Graphic Command Interface | 图形命令界面 |  |
 | Quick Command | 快速命令 |  |
-| Initiate | 执行 |  |
-| Hold Command | 暂存命令 |  |
+| Initiate | 执行 | 暂存命令语境，不译作 `开始`。 |
+| Hold Command | 暂存命令 | 扩展包的暂存/执行机制。 |
 | Stack Up | 列队 | 门口战术命令。 |
 | Fall In | 跟随 | 快速命令。 |
-| Clear | 清场 | 单独命令或战术命令。 |
+| Clear | 清场 | 命令译作 `清场`；回应或状态报告译作 `安全`。 |
 | Clear a room | 清查房间 | `Clear` 后接具体场景/区域时用 `清查`。 |
-| Clear the building | 清查建筑 | 同上。 |
+| Clear the building | 清查建筑 |  |
 | Area clear | 区域安全 | 状态报告。 |
 | Room clear | 房间安全 | 状态报告。 |
 | All clear | 全部安全 | 状态报告。 |
@@ -298,8 +299,8 @@
 | Exit Menu | 退出菜单 | 命令菜单。 |
 | Yell for compliance | 喊话要求服从 | 训练说明。 |
 | Comply | 服从 |  |
-| Restrain | 约束 | 使用扎带控制角色。 |
-| Cuff | 上铐 | 动词。 |
+| Restrain | 约束 | 使用手铐控制角色。 |
+| Cuff | 上铐 | 动词，避免写成 `上手铐`。 |
 | Interact | 互动 |  |
 | Pick up Equipment | 拾取装备 | 动作反馈。 |
 | Pick Lock | 开锁 | 工具钳动作。 |
@@ -326,6 +327,53 @@
 | Say | 全体聊天 |  |
 | Team Say | 队伍聊天 |  |
 | Scroll Chat | 滚动聊天 |  |
+
+## 无线电与现场口令
+
+| 英文 | 简体中文 | 备注 |
+|---|---|---|
+| Copy | 收到 |  |
+| Roger | 收到 | 不必与 `Copy` 刻意区分。 |
+| Roger that | 收到 |  |
+| Understood | 明白 |  |
+| On it | 马上办 | 独立回应；句中可按语气写作 `正在处理`。 |
+| Affirmative | 是 |  |
+| Negative | 不行 / 无法执行 | 无线电否定回应；按失败原因调整。 |
+| Stand by | 稍候 / 待命 | 对通话对象说时译 `稍候`；要求单位等待时译 `待命`。 |
+| Standing by | 待命 |  |
+| In position | 已就位 |  |
+| Moving | 正在移动 | 命令回应；可结合方向译作 `正在前进`、`正在赶来`。 |
+| On our way | 正在前往 |  |
+| Be advised | 注意 | 无线电提示语，不直译为 `被告知`。 |
+| Reporting | 报告 / 报到 | 汇报情况用 `报告`；人员自报到场用 `报到`。 |
+| X to Y | X 呼叫 Y | 无线电呼叫格式。 |
+| This is X | 这里是 X |  |
+| Gold | 金队 | 口头呼号，指红蓝两队组成的全队；界面功能标签用 `全队`。 |
+| Lead | 队长 | 作为称呼或呼号时，指玩家控制的小队指挥者。 |
+| Contact | 目标 / 人员 | 身份未明的可见人员；不要直译为 `接触目标`。 |
+| Contact spotted | 发现目标 |  |
+| Contact has complied | 目标已服从 | 身份确认后可按角色改为 `嫌犯` 或 `平民`。 |
+| Secured | 已控制 / 已收缴 | 人员译 `已控制`；武器、证据译 `已收缴`。 |
+| Complied | 已服从 |  |
+| Down | 倒下 | 状态报告，不擅自判断死亡或受伤。 |
+| Officer down | 警员倒下 |  |
+| Suspect down | 嫌犯倒下 |  |
+| Civilian down | 平民倒下 |  |
+| Ready for evac | 准备后送 | 伤员或倒下警员等待医疗后送。 |
+| Evac / evacuation | 后送 / 撤离 | 伤员送医用 `后送`；一般人员离场用 `撤离`。 |
+| Ready for transport | 准备转送 |  |
+| Medical attention | 医疗处置 |  |
+| Breacher | 破门手 |  |
+| Trailers | 后队 / 接应人员 | 随队行动时指后队；TOC 回应中指后续接应人员。 |
+| Drop your weapon | 放下武器 |  |
+| Drop your weapons | 放下武器 |  |
+| Get down | 趴下 |  |
+| Hands up | 举起手 |  |
+| Stay down | 趴着别动 |  |
+| Don't move | 别动 |  |
+| Get back | 后退 |  |
+| Door's locked | 门锁着 |  |
+| Door's unlocked | 门已解锁 |  |
 
 ## 界面与状态
 
@@ -495,7 +543,7 @@
 | Sierra Two | 山脉二号 | 狙击手/观察点呼号。 |
 | Visual | 目视 | 狙击手/观察点无线电语境，如 `Lost visual` 译作 `失去目视`。 |
 | Entry team | 突入小队 |  |
-| Tactical entry | 战术突入 |  |
+| Tactical entry | 战术突入 | 任务时间线和无线电语境。 |
 | Go tactical | 采取战术行动 |  |
 | Containment perimeter | 封锁线 |  |
 | Perimeter | 封锁线 |  |
@@ -522,71 +570,71 @@
 | Weight | 体重 | 人物资料字段，数值后加 `磅`。 |
 | Age | 年龄 | 人物资料字段，数值后加 `岁`。 |
 
-## 地点与外观
+## 专名、地点与外观
 
 | 英文 | 简体中文 | 备注 |
 |---|---|---|
-| Steven Reynolds | 史蒂文·雷诺兹 | 人名。 |
+| Steven Reynolds | 史蒂文·雷诺兹 |  |
 | Reynolds | 雷诺兹 | 队员姓氏。 |
-| Anthony Girard | 安东尼·吉拉德 | 人名。 |
+| Anthony Girard | 安东尼·吉拉德 |  |
 | Girard | 吉拉德 | 队员姓氏。 |
-| Zachary Fields | 扎卡里·菲尔兹 | 人名。 |
+| Zachary Fields | 扎卡里·菲尔兹 |  |
 | Fields | 菲尔兹 | 队员姓氏。 |
-| Allen Jackson | 艾伦·杰克逊 | 人名。 |
+| Allen Jackson | 艾伦·杰克逊 |  |
 | Jackson | 杰克逊 | 队员姓氏。 |
 | Hanson | 汉森 | 训练关警员姓氏。 |
 | Wilson | 威尔逊 | 训练关学员姓氏。 |
-| Jeremy Walsh | 杰里米·沃尔什 | 人名。 |
+| Jeremy Walsh | 杰里米·沃尔什 |  |
 | Detective Walsh | 沃尔什警探 | 职衔称呼。 |
-| Louie Baccus | 路易·巴克斯 | 人名。 |
-| Allen Kruse | 艾伦·克鲁斯 | 人名。 |
-| Simon Gowan | 西蒙·高恩 | 人名。 |
+| Louie Baccus | 路易·巴克斯 |  |
+| Allen Kruse | 艾伦·克鲁斯 |  |
+| Simon Gowan | 西蒙·高恩 |  |
 | Simon Grover | 西蒙·高恩 | 英文源与 Simon Gowan 不一致时，统一同一人物译名。 |
-| Collins | 柯林斯 | 人名。 |
+| Collins | 柯林斯 |  |
 | Lieutenant Bonds | 邦兹警督 | 职衔称呼。 |
-| Sonny Bonds | 桑尼·邦兹 | 人名。 |
-| Jean Trouffant | 让·特鲁方 | 人名。 |
-| Theodore Sturgeon | 西奥多·斯特金 | 人名。 |
+| Sonny Bonds | 桑尼·邦兹 |  |
+| Jean Trouffant | 让·特鲁方 |  |
+| Theodore Sturgeon | 西奥多·斯特金 |  |
 | Theodore Sterling | 西奥多·斯特金 | 英文源与 Theodore Sturgeon 不一致时，统一同一人物译名。 |
-| James Betincourt | 詹姆斯·贝廷库尔 | 人名。 |
+| James Betincourt | 詹姆斯·贝廷库尔 |  |
 | James Bettencourt | 詹姆斯·贝廷库尔 | 英文源与 James Betincourt 不一致时，统一同一人物译名。 |
-| Kevin Halskey | 凯文·哈尔斯基 | 人名。 |
-| Charles Betincourt | 查尔斯·贝廷库尔 | 人名。 |
-| Lawrence Adams | 劳伦斯·亚当斯 | 人名。 |
-| Hadeon Koshka | 哈迪恩·科什卡 | 人名。 |
-| Clark Jennings | 克拉克·詹宁斯 | 人名。 |
+| Kevin Halskey | 凯文·哈尔斯基 |  |
+| Charles Betincourt | 查尔斯·贝廷库尔 |  |
+| Lawrence Adams | 劳伦斯·亚当斯 |  |
+| Hadeon Koshka | 哈迪恩·科什卡 |  |
+| Clark Jennings | 克拉克·詹宁斯 |  |
 | Detective Jennings | 詹宁斯警探 | 职衔称呼。 |
-| Hyun-Jun Park | 朴贤俊 | 人名。 |
-| Andrew Taronne | 安德鲁·塔隆 | 人名。 |
+| Hyun-Jun Park | 朴贤俊 |  |
+| Andrew Taronne | 安德鲁·塔隆 |  |
 | Taronnians | 塔隆人 | 安德鲁·塔隆追随者的自称。 |
-| Warren Rooney | 沃伦·鲁尼 | 人名。 |
-| Gary Altman | 加里·奥特曼 | 人名。 |
-| Alice Jenkins | 爱丽丝·詹金斯 | 人名。 |
-| Willis Fischer | 威利斯·菲舍尔 | 人名。 |
+| Warren Rooney | 沃伦·鲁尼 |  |
+| Gary Altman | 加里·奥特曼 |  |
+| Alice Jenkins | 爱丽丝·詹金斯 |  |
+| Willis Fischer | 威利斯·菲舍尔 |  |
 | Willis Fillinger | 威利斯·菲舍尔 | 英文源与 Willis Fischer 不一致时，统一同一人物译名。 |
-| Heidi Rosenstein | 海蒂·罗森斯坦 | 人名。 |
-| Kim Dong Yin | 金东寅 | 人名。 |
-| Lawrence Fairfax | 劳伦斯·费尔法克斯 | 人名。 |
-| Melinda Kline | 梅琳达·克莱恩 | 人名。 |
-| Gladys Fairfax | 格拉迪斯·费尔法克斯 | 人名。 |
-| Angela Karey | 安吉拉·凯里 | 人名。 |
-| Rachel Polson | 蕾切尔·波尔森 | 人名。 |
-| Emmet Duran | 埃米特·杜兰 | 人名。 |
-| Alex Jimenez | 亚历克斯·希门尼斯 | 人名。 |
-| Carl Sheary | 卡尔·希里 | 人名。 |
+| Heidi Rosenstein | 海蒂·罗森斯坦 |  |
+| Kim Dong Yin | 金东寅 |  |
+| Lawrence Fairfax | 劳伦斯·费尔法克斯 |  |
+| Melinda Kline | 梅琳达·克莱恩 |  |
+| Gladys Fairfax | 格拉迪斯·费尔法克斯 |  |
+| Angela Karey | 安吉拉·凯里 |  |
+| Rachel Polson | 蕾切尔·波尔森 |  |
+| Emmet Duran | 埃米特·杜兰 |  |
+| Alex Jimenez | 亚历克斯·希门尼斯 |  |
+| Carl Sheary | 卡尔·希里 |  |
 | Detective Sheary | 希里警探 | 职衔称呼。 |
 | Lian Niu | 牛连 | 台湾人名；按英文名在前、姓在后的顺序还原。 |
-| Kiril Stetchkov | 基里尔·斯捷奇科夫 | 人名。 |
-| Todor Stetchkov | 托多尔·斯捷奇科夫 | 人名。 |
+| Kiril Stetchkov | 基里尔·斯捷奇科夫 |  |
+| Todor Stetchkov | 托多尔·斯捷奇科夫 |  |
 | Judge Rainer | 雷纳法官 | 职衔称呼。 |
-| Anton Georgiev | 安东·格奥尔基耶夫 | 人名。 |
+| Anton Georgiev | 安东·格奥尔基耶夫 |  |
 | Officer Wilkins | 威尔金斯警员 | 职衔称呼。 |
-| Wilkins | 威尔金斯 | 人名。 |
-| Rita Winston | 丽塔·温斯顿 | 人名。 |
-| Andrew Norman | 安德鲁·诺曼 | 人名。 |
-| Lionel Macarthur | 莱昂内尔·麦克阿瑟 | 人名。 |
-| Javier Arias | 哈维尔·阿里亚斯 | 人名。 |
-| Oscar Bogard | 奥斯卡·博加德 | 人名。 |
+| Wilkins | 威尔金斯 |  |
+| Rita Winston | 丽塔·温斯顿 |  |
+| Andrew Norman | 安德鲁·诺曼 |  |
+| Lionel Macarthur | 莱昂内尔·麦克阿瑟 |  |
+| Javier Arias | 哈维尔·阿里亚斯 |  |
+| Oscar Bogard | 奥斯卡·博加德 |  |
 | Tertiary Exports Limited | 第三出口有限公司 | 公司名。 |
 | Citizens Against Satanic Music | 反撒旦音乐公民 | 组织名。 |
 | CASM | CASM | 组织缩写，保留。 |
@@ -630,10 +678,10 @@
 | Side Entrance | 侧门 | 突入点。 |
 | Service Entrance | 服务入口 | 突入点。 |
 | Main Lobby | 主大厅 |  |
-| Side Dock Entrance | 侧码头入口 | 突入点。 |
+| Side Dock Entrance | 侧装卸区入口 | 突入点。 |
 | Fresnal Street Entrance | 弗雷斯纳尔街入口 | 突入点。 |
 | Maxwell Street Entrance | 麦克斯韦街入口 | 突入点。 |
-| Rear Loading Dock | 后装卸码头 | 突入点。 |
+| Rear Loading Dock | 后侧装卸区 | 突入点。 |
 | Delivery Entrance | 送货入口 | 突入点。 |
 | Stairwell | 楼梯间 |  |
 | Fire Escape Door | 消防通道门 |  |

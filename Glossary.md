@@ -5,6 +5,8 @@
 - 以英文原文为准，繁体中文译文仅作为格式参考，不要直接转换。
 - UE2 标记、占位符、资源路径、配置语法等按原格式保留。
 - 使用中文标点，如全角省略号、括号、引号，其前后不加空格。
+- 地址写作“道路名 门牌号”；地点名在前，以逗号分隔。
+- 序数道路名写作“第 87 街”；方向前缀写作“西 7 大道”。
 
 ## 按键写法
 
@@ -24,6 +26,7 @@
 | SWAT | SWAT |  |
 | Suspect | 嫌犯 |  |
 | Officer | 警员 |  |
+| SWAT veteran / member | 在 SWAT 任职 / 加入 SWAT | 人员经历。 |
 | Civilian | 平民 |  |
 | Hostage | 人质 |  |
 | VIP | VIP | 标签括注用 `（VIP）`。 |
@@ -58,7 +61,7 @@
 | Adam | 亚当 | 调度呼号，直译。 |
 | Boy | 男孩 | 调度呼号，直译。 |
 | Truck 1 | 卡车一号 | 调度呼号，直译。 |
-| DOA | DOA | Dead on Arrival，到达时已死亡。 |
+| DOA | 死亡 / 死者 | 按语境译；`looks DOA` 译“疑似死亡”。 |
 | Downed officer | 倒下的警员 |  |
 | Dead | 死亡 | 状态。 |
 | Restrained | 已约束 | 已用手铐控制的状态。 |
@@ -168,6 +171,7 @@
 | Pistol Grip Pump Shotgun | 手枪握把泵动式霰弹枪 |  |
 | Gal Sub-machinegun | 加尔冲锋枪 |  |
 | AK-47 Machinegun | AK-47 步枪 | 原文为 Machinegun，但 AK 应为步枪。 |
+| In service | 仍在使用 | 武器语境。 |
 | AK74 | AK-74 | 按常见枪名规范化。 |
 | AK74su | AKS-74U | 按常见枪名规范化。 |
 | GB53 | GB53 | 虚构/改名武器，保留游戏内名称。 |
@@ -280,6 +284,8 @@
 | Reticle | 准星 | HUD 瞄准/互动提示。 |
 | Crosshair | 准星 | HUD 语境，与 `Reticle` 统一。 |
 | Reticle Accuracy | 准星精度 | 训练说明。 |
+| Accuracy | 精度 | 射击、投掷语境。 |
+| Accurate fire | 精准射击 |  |
 | Objectives & Scores | 目标与分数 |  |
 | Graphic Command Interface | 图形命令界面 |  |
 | Quick Command | 快速命令 |  |
@@ -304,7 +310,7 @@
 | Interact | 互动 |  |
 | Pick up Equipment | 拾取装备 | 动作反馈。 |
 | Pick Lock | 开锁 | 工具钳动作。 |
-| Mirror Under Door | 窥视门下 | 窥视镜动作。 |
+| Mirror Under Door | 窥视门后 | 窥视镜指令。 |
 | Deploy Wedge | 部署门楔 |  |
 | Breach Door | 破门 | 动作反馈。 |
 | Set Charge | 安放炸药 | C2 动作。 |
@@ -346,8 +352,8 @@
 | On our way | 正在前往 |  |
 | Be advised | 注意 | 无线电提示语，不直译为 `被告知`。 |
 | Reporting | 报告 / 报到 | 汇报情况用 `报告`；人员自报到场用 `报到`。 |
-| X to Y | X 呼叫 Y | 无线电呼叫格式。 |
-| This is X | 这里是 X |  |
+| A to B | A 呼叫 B | 无线电呼叫格式。 |
+| This is A | 这里是 A |  |
 | Gold | 金队 | 口头呼号，指红蓝两队组成的全队；界面功能标签用 `全队`。 |
 | Lead | 队长 | 作为称呼或呼号时，指玩家控制的小队指挥者。 |
 | Contact | 目标 / 人员 | 身份未明的可见人员；不要直译为 `接触目标`。 |
@@ -361,7 +367,7 @@
 | Civilian down | 平民倒下 |  |
 | Ready for evac | 准备后送 | 伤员或倒下警员等待医疗后送。 |
 | Evac / evacuation | 后送 / 撤离 | 伤员送医用 `后送`；一般人员离场用 `撤离`。 |
-| Ready for transport | 准备转送 |  |
+| Ready for transport | 待转移 / 待押送 | 按对象区分。 |
 | Medical attention | 医疗处置 |  |
 | Breacher | 破门手 |  |
 | Trailers | 后队 / 接应人员 | 随队行动时指后队；TOC 回应中指后续接应人员。 |
@@ -373,7 +379,7 @@
 | Don't move | 别动 |  |
 | Get back | 后退 |  |
 | Door's locked | 门锁着 |  |
-| Door's unlocked | 门已解锁 |  |
+| Door's unlocked | 门没锁 / 门已解锁 | 依状态或完成语境。 |
 
 ## 界面与状态
 
@@ -486,7 +492,8 @@
 | 英文 | 简体中文 | 备注 |
 |---|---|---|
 | Complete Mission | 完成任务 |  |
-| Score of X required to advance | 晋级需要 X 分 | |
+| Score of A required to advance | 需要 A 分才能过关 | |
+| Required score: A | 所需分数：A | |
 | Suspects arrested | 已逮捕嫌犯 |  |
 | Suspects incapacitated | 嫌犯丧失行动能力 |  |
 | Suspects neutralized | 已制服嫌犯 |  |
@@ -530,11 +537,15 @@
 | 英文 | 简体中文 | 备注 |
 |---|---|---|
 | Dispatch | 调度中心 |  |
+| Code 2 | 二级响应 | 响应状态代码 |
+| Code 3 | 三级响应 | 同上 |
+| Code 996A | 996A 警情 | 炸弹警情代码。 |
 | Emergency services | 紧急服务部门 |  |
 | Forensic team | 法医团队 |  |
 | CNT | CNT | Crisis Negotiation Team，危机谈判小组。 |
 | Negotiator | 谈判员 |  |
 | TCC | TCC | Tactical Command Center，战术指挥中心。 |
+| HUD building | 公共住宅楼 | 美国公共住房。 |
 | DA | 地方检察官 | District Attorney。 |
 | OCCB | OCCB | Organized Crime Control Bureau，有组织犯罪控制局。 |
 | Vice | 风化组 | 警方部门语境。 |
@@ -560,7 +571,9 @@
 | Surround and call out | 包围并喊话 |  |
 | Hostage exchanged | 交换人质 | 时间线语境。 |
 | Wounded victim | 受伤人员 | 简报语境。 |
-| Side N, Level N | 第 N 面第 N 层 |  |
+| Accurate count | 确切人数 |  |
+| Precise numbers are unknown | 具体人数不详 |  |
+| Side A, Level B | 第 A 面第 B 层 |  |
 | Sex | 性别 | 人物资料字段，写作 `性别：男/女`。 |
 | Descent | 种族 | 人物资料字段，写作 `种族：欧洲裔/亚洲裔/西班牙裔/拉丁裔`。 |
 | Hair | 头发 | 人物资料字段。 |
@@ -638,7 +651,7 @@
 | Tertiary Exports Limited | 第三出口有限公司 | 公司名。 |
 | Citizens Against Satanic Music | 反撒旦音乐公民 | 组织名。 |
 | CASM | CASM | 组织缩写，保留。 |
-| Devil's Playthings | 魔鬼玩物 | 乐队名。 |
+| Devil's Playthings | 魔鬼的玩物 | 乐队名。 |
 | Die For The Devil | 为魔鬼而死 | 专辑名。 |
 | Food Wall Restaurant | 食墙餐厅 |  |
 | Fairfax Residence | 费尔法克斯住宅 |  |

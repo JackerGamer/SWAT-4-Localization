@@ -12,6 +12,10 @@ Desktop.ini
 # Logs
 *.log
 
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+
 # Generated comparison/output folders
 diff/
 out/

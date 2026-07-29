@@ -1,1 +1,1 @@
-ucc execmacro chinesefonts.exec -nobind
+ucc execmacro simplifiedchinesefonts.exec -nobind

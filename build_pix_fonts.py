@@ -7,9 +7,9 @@ from fontTools.ttLib.scaleUpem import ScalerVisitor
 
 
 SOURCES = {
-    "Pix": (r"C:\Windows\Fonts\msyh_0.ttc", 400, "unhinted"),
+    "Pix": (r"C:\Windows\Fonts\msyh.ttc", 400, "unhinted"),
     "PixBd": (r"C:\Windows\Fonts\msyhsb.ttc", 600, "compact_vertical_unhinted"),
-    "Swat": (r"C:\Windows\Fonts\msyhbd_0.ttc", 700, "glyphs_and_widths_cjk_bounds_unhinted"),
+    "Swat": (r"C:\Windows\Fonts\msyhbd.ttc", 700, "glyphs_and_widths_cjk_bounds_unhinted"),
 }
 OUTPUT_DIR = Path(__file__).resolve().parent / "Fonts"
 

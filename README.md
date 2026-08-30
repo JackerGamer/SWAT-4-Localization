@@ -35,7 +35,7 @@
 - Windows
 - Python 3
 - [`fonttools`](https://github.com/fonttools/fonttools)
-- 系统中可用的微软雅黑字体文件
+- 当前用户字体目录中可用的 MiSans 字体文件
 - 可以运行 `ucc` 的 SWAT 4 工具环境
 
 安装 Python 依赖并生成字体：
@@ -45,11 +45,11 @@ py -m pip install fonttools
 py build_pix_fonts.py
 ```
 
-脚本默认读取以下系统字体：
+脚本默认读取当前用户字体目录中的以下字体：
 
-- `C:\Windows\Fonts\msyh.ttc`
-- `C:\Windows\Fonts\msyhsb.ttc`
-- `C:\Windows\Fonts\msyhbd.ttc`
+- `%LOCALAPPDATA%\Microsoft\Windows\Fonts\MiSans-Regular.ttf`
+- `%LOCALAPPDATA%\Microsoft\Windows\Fonts\MiSans-Demibold.ttf`
+- `%LOCALAPPDATA%\Microsoft\Windows\Fonts\MiSans-Bold.ttf`
 
 生成结果位于 `Fonts/`。随后确保宏中引用的字体名称可被系统识别，并在可调用 `ucc` 的环境中运行：
 

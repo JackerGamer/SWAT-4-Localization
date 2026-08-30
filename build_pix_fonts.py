@@ -1,17 +1,17 @@
-from pathlib import Path
 from copy import deepcopy
+from functools import cache
+import os
+from pathlib import Path
 
-from fontTools.ttLib import TTCollection
+from fontTools.ttLib import TTFont
 from fontTools.ttLib.tables._g_l_y_f import GlyphCoordinates
 from fontTools.ttLib.scaleUpem import ScalerVisitor
 
 
-SOURCES = {
-    "Pix": (r"C:\Windows\Fonts\msyh.ttc", 400, "unhinted"),
-    "PixBd": (r"C:\Windows\Fonts\msyhsb.ttc", 600, "compact_vertical_unhinted"),
-    "Swat": (r"C:\Windows\Fonts\msyhbd.ttc", 700, "glyphs_and_widths_cjk_bounds_unhinted"),
-}
+LOCAL_FONT_DIR = Path(os.environ["LOCALAPPDATA"]) / "Microsoft" / "Windows" / "Fonts"
 OUTPUT_DIR = Path(__file__).resolve().parent / "Fonts"
+LOCALIZATION_DIR = Path(__file__).resolve().parent / "Simplified Chinese"
+SWAT_TARGET_BOUNDS = (0, 700)
 
 
 def set_name(font, name):
@@ -33,59 +33,58 @@ def set_name(font, name):
         name_table.setName("Regular", 17, platform, encoding, language)
 
 
+@cache
+def get_localization_characters():
+    """Load the unique characters used by all Simplified Chinese resources."""
+    characters = set()
+    for path in LOCALIZATION_DIR.rglob("*.sch"):
+        characters.update(path.read_text(encoding="utf-16"))
+    if not characters:
+        raise ValueError(f"No characters found in {LOCALIZATION_DIR}")
+    return frozenset(characters)
+
+
+def get_localization_vertical_bounds(font):
+    """Return the ink bounds of every supported character used by the game."""
+    cmap = font.getBestCmap()
+    glyf = font["glyf"]
+    bounds = []
+    for character in get_localization_characters():
+        glyph_name = cmap.get(ord(character))
+        if glyph_name is None:
+            continue
+        glyph = glyf[glyph_name]
+        if glyph.numberOfContours == 0 and not glyph.isComposite():
+            continue
+        glyph.recalcBounds(glyf)
+        bounds.append((glyph.yMin, glyph.yMax))
+    if not bounds:
+        raise ValueError(f"No supported characters found in {LOCALIZATION_DIR}")
+    return min(y_min for y_min, _ in bounds), max(y_max for _, y_max in bounds)
+
+
 def compact_vertical_metrics(font):
-    """Reduce only Windows-facing vertical metrics by the prior 19.3% target."""
-    factor = 2182 / 2703
+    """Set the smallest metrics that contain every localization glyph."""
+    ink_bottom, ink_top = get_localization_vertical_bounds(font)
     os2 = font["OS/2"]
     hhea = font["hhea"]
-    hhea.ascent = round(hhea.ascent * factor)
-    hhea.descent = round(hhea.descent * factor)
-    hhea.lineGap = round(hhea.lineGap * factor)
-    os2.sTypoAscender = round(os2.sTypoAscender * factor)
-    os2.sTypoDescender = round(os2.sTypoDescender * factor)
-    os2.sTypoLineGap = round(os2.sTypoLineGap * factor)
-    os2.usWinAscent = round(os2.usWinAscent * factor)
-    os2.usWinDescent = round(os2.usWinDescent * factor)
-    # Legacy Windows controls can take their small-size line box from VDMX.
-    for group in font["VDMX"].groups:
-        for ppem, (y_max, y_min) in group.items():
-            group[ppem] = (round(y_max * factor), round(y_min * factor))
+
+    hhea.ascent = ink_top
+    hhea.descent = ink_bottom
+    hhea.lineGap = 0
+    os2.sTypoAscender = hhea.ascent
+    os2.sTypoDescender = hhea.descent
+    os2.sTypoLineGap = hhea.lineGap
+    os2.usWinAscent = hhea.ascent
+    os2.usWinDescent = -hhea.descent
+    os2.fsSelection |= 0x80  # USE_TYPO_METRICS
 
 
-def scale_outlines_only(font, factor):
-    """Shrink glyph drawings while deliberately leaving all metrics untouched."""
-    glyf = font["glyf"]
-    for glyph_name in font.getGlyphOrder():
-        glyph = glyf[glyph_name]
-        if glyph.isComposite():
-            for component in glyph.components:
-                component.x = round(component.x * factor)
-                component.y = round(component.y * factor)
-        elif glyph.numberOfContours > 0:
-            glyph.coordinates = GlyphCoordinates(
-                [(round(x * factor), round(y * factor)) for x, y in glyph.coordinates]
-            )
-        glyph.recalcBounds(glyf)
-    font.recalcBBoxes = True
-
-
-def scale_font_uniformly(font, factor=0.5):
-    """Scale all layout data together, keeping the original em size."""
-    original_upm = font["head"].unitsPerEm
-    ScalerVisitor(factor).visit(font)
-    font["head"].unitsPerEm = original_upm
-    # FontTools scales standard OpenType layout tables, but VDMX needs an
-    # explicit matching update for legacy Windows rasterizers.
-    for group in font["VDMX"].groups:
-        for ppem, (y_max, y_min) in group.items():
-            group[ppem] = (round(y_max * factor), round(y_min * factor))
-
-
-def scale_glyphs_and_widths(font, factor=0.5):
+def scale_glyphs_and_widths(font, factor):
     """Scale drawings and horizontal layout, but restore vertical behavior."""
-    original_vdmx = deepcopy(font["VDMX"])
-    original_vhea = deepcopy(font["vhea"])
-    original_vmtx = deepcopy(font["vmtx"])
+    original_vdmx = deepcopy(font["VDMX"]) if "VDMX" in font else None
+    original_vhea = deepcopy(font["vhea"]) if "vhea" in font else None
+    original_vmtx = deepcopy(font["vmtx"]) if "vmtx" in font else None
     hhea = font["hhea"]
     original_hhea = (hhea.ascent, hhea.descent, hhea.lineGap)
     os2 = font["OS/2"]
@@ -99,23 +98,26 @@ def scale_glyphs_and_widths(font, factor=0.5):
     original_upm = font["head"].unitsPerEm
     ScalerVisitor(factor).visit(font)
     font["head"].unitsPerEm = original_upm
-    font["VDMX"] = original_vdmx
-    font["vhea"] = original_vhea
-    font["vmtx"] = original_vmtx
+    if original_vdmx is not None:
+        font["VDMX"] = original_vdmx
+    if original_vhea is not None:
+        font["vhea"] = original_vhea
+    if original_vmtx is not None:
+        font["vmtx"] = original_vmtx
     font["hhea"].ascent, font["hhea"].descent, font["hhea"].lineGap = original_hhea
     for field, value in original_os2.items():
         setattr(font["OS/2"], field, value)
 
 
-def scale_glyphs_and_widths_from_upper_anchor(font):
-    """Fit the Bold Chinese top and Latin descender range into y=100..1450."""
-    source_bottom = -481
-    source_top = 1765
-    factor = (1450 - 100) / (source_top - source_bottom)
+def fit_localization_to_swat_bounds(font):
+    """Fit every localization glyph into y=0..700."""
+    source_bottom, source_top = get_localization_vertical_bounds(font)
+    target_bottom, target_top = SWAT_TARGET_BOUNDS
+    factor = (target_top - target_bottom) / (source_top - source_bottom)
     scale_glyphs_and_widths(font, factor)
     # The general scaler uses (0, 0) as its origin. Shift the scaled source
     # bottom onto the game's lower visible bound.
-    vertical_shift = 100 - round(source_bottom * factor)
+    vertical_shift = target_bottom - round(source_bottom * factor)
     glyf = font["glyf"]
     for glyph_name in font.getGlyphOrder():
         glyph = glyf[glyph_name]
@@ -128,90 +130,23 @@ def scale_glyphs_and_widths_from_upper_anchor(font):
         if glyf[glyph_name].isComposite():
             glyf[glyph_name].recalcBounds(glyf)
     font.recalcBBoxes = True
+    actual_bottom, actual_top = get_localization_vertical_bounds(font)
+    if (actual_bottom, actual_top) != (target_bottom, target_top):
+        raise ValueError(
+            "Scaled localization bounds are "
+            f"{actual_bottom}..{actual_top}, expected {target_bottom}..{target_top}"
+        )
+
+FONT_SPECS = (
+    ("Pix", LOCAL_FONT_DIR / "MiSans-Regular.ttf", 400, compact_vertical_metrics),
+    ("PixBd", LOCAL_FONT_DIR / "MiSans-Demibold.ttf", 600, compact_vertical_metrics),
+    ("Swat", LOCAL_FONT_DIR / "MiSans-Bold.ttf", 700, fit_localization_to_swat_bounds),
+)
 
 
-def remove_truetype_hinting(font):
-    """Remove native TrueType hinting and request smoothing without grid fitting."""
-    if "glyf" in font:
-        for glyph in font["glyf"].glyphs.values():
-            glyph.removeHinting()
-    for tag in ("cvt ", "fpgm", "prep", "hdmx", "LTSH"):
-        if tag in font:
-            del font[tag]
-    if "maxp" in font and hasattr(font["maxp"], "maxSizeOfInstructions"):
-        font["maxp"].maxSizeOfInstructions = 0
-    if "gasp" in font:
-        # Enable grayscale and symmetric smoothing without grid fitting.
-        font["gasp"].gaspRange = {0xFFFF: 0x000A}
-
-
-def fit_j_hook_inside_advance(font):
-    """Move only j's negative-x hook points inside buggy bitmap font cells."""
-    glyph_name = font.getBestCmap().get(ord("j"))
-    if glyph_name is None:
-        return
-    glyf = font["glyf"]
-    glyph = glyf[glyph_name]
-    if glyph.isComposite() or glyph.numberOfContours <= 0:
-        return
-    left = min(x for x, _ in glyph.coordinates)
-    if left >= 0:
-        return
-    shift = -left
-    glyph.coordinates = GlyphCoordinates(
-        [(x + shift if x < 0 else x, y) for x, y in glyph.coordinates]
-    )
-    glyph.recalcBounds(glyf)
-    advance, _ = font["hmtx"][glyph_name]
-    font["hmtx"][glyph_name] = (advance, glyph.xMin)
-    font.recalcBBoxes = True
-
-
-def scale_glyphs_and_widths_from_descender_anchor(font):
-    """Scale to 60% while keeping the g/j/p/q/y descender bottom in place."""
-    factor = 0.6
-    anchor_y = -482
-    scale_glyphs_and_widths(font, factor)
-    vertical_shift = round(anchor_y * (1 - factor))
-    glyf = font["glyf"]
-    for glyph_name in font.getGlyphOrder():
-        glyph = glyf[glyph_name]
-        if not glyph.isComposite() and glyph.numberOfContours > 0:
-            glyph.coordinates = GlyphCoordinates(
-                [(x, y + vertical_shift) for x, y in glyph.coordinates]
-            )
-            glyph.recalcBounds(glyf)
-    for glyph_name in font.getGlyphOrder():
-        if glyf[glyph_name].isComposite():
-            glyf[glyph_name].recalcBounds(glyf)
-    font.recalcBBoxes = True
-
-
-def build(name, source, weight, mode):
-    font = TTCollection(source).fonts[0]
-    if mode == "compact_vertical":
-        compact_vertical_metrics(font)
-    elif mode == "unhinted":
-        fit_j_hook_inside_advance(font)
-        remove_truetype_hinting(font)
-    elif mode == "compact_vertical_unhinted":
-        compact_vertical_metrics(font)
-        fit_j_hook_inside_advance(font)
-        remove_truetype_hinting(font)
-    elif mode == "outline_50":
-        scale_outlines_only(font, 0.5)
-    elif mode == "outline_70":
-        scale_outlines_only(font)
-    elif mode == "glyphs_and_widths_50":
-        scale_glyphs_and_widths(font)
-    elif mode == "glyphs_and_widths_cjk_bounds":
-        scale_glyphs_and_widths_from_upper_anchor(font)
-    elif mode == "glyphs_and_widths_cjk_bounds_unhinted":
-        scale_glyphs_and_widths_from_upper_anchor(font)
-        fit_j_hook_inside_advance(font)
-        remove_truetype_hinting(font)
-    elif mode == "glyphs_and_widths_60_descender":
-        scale_glyphs_and_widths_from_descender_anchor(font)
+def build(name, source, weight, transform):
+    font = TTFont(source, recalcTimestamp=False)
+    transform(font)
     set_name(font, name)
     font["OS/2"].usWeightClass = weight
     font["OS/2"].fsSelection = font["OS/2"].fsSelection & ~0x61
@@ -221,7 +156,7 @@ def build(name, source, weight, mode):
     else:
         font["OS/2"].fsSelection |= 0x40
         font["head"].macStyle &= ~1
-    font["head"].modified = 0
+    font["head"].modified = font["head"].created
     output = OUTPUT_DIR / f"{name}.ttf"
     font.save(output)
     return output
@@ -229,8 +164,8 @@ def build(name, source, weight, mode):
 
 def main():
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-    for name, (source, weight, mode) in SOURCES.items():
-        output = build(name, source, weight, mode)
+    for name, source, weight, transform in FONT_SPECS:
+        output = build(name, source, weight, transform)
         print(output)
 
 

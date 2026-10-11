@@ -61,7 +61,7 @@ ConvertFonts.bat
 
 ## 翻译与编辑
 
-本地化规范记录在 [`Specifications.md`](Specifications.md) 中。编辑 `.sch` 文件时还应注意：
+本地化风格指南在 [`STYLE_GUIDE.md`](STYLE_GUIDE.md) 中。编辑 `.sch` 文件时还应注意：
 
 - 保持 UTF-16 编码，不要擅自转换格式。
 - 修改后检查界面长度、字幕时序以及任务语境。

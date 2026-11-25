@@ -21,3 +21,9 @@ diff/
 out/
 tmp/
 temp/
+
+# Font files: third-party or generated locally, never redistributed here
+Fonts/
+*.ttf
+*.otf
+*.utx

@@ -1,0 +1,11 @@
+# English source files are plain ASCII; keep CRLF in the working tree for the game.
+*.int    text eol=crlf
+
+# Localized files and the font macro are UTF-16 LE with BOM; Git must not touch them.
+*.sch    binary
+*.tch    binary
+*.exec   binary
+
+*.bat    text eol=crlf
+*.py     text eol=lf
+*.md     text eol=lf

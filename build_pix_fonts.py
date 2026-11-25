@@ -8,7 +8,12 @@ from fontTools.ttLib.tables._g_l_y_f import GlyphCoordinates
 from fontTools.ttLib.scaleUpem import ScalerVisitor
 
 
-LOCAL_FONT_DIR = Path(os.environ["LOCALAPPDATA"]) / "Microsoft" / "Windows" / "Fonts"
+# MiSans source fonts. Override with the MISANS_DIR environment variable;
+# defaults to the per-user Windows font directory.
+LOCAL_FONT_DIR = Path(
+    os.environ.get("MISANS_DIR")
+    or Path(os.environ.get("LOCALAPPDATA", "")) / "Microsoft" / "Windows" / "Fonts"
+)
 OUTPUT_DIR = Path(__file__).resolve().parent / "Fonts"
 LOCALIZATION_DIR = Path(__file__).resolve().parent / "Simplified Chinese"
 SWAT_TARGET_BOUNDS = (0, 700)
@@ -26,7 +31,7 @@ def set_name(font, name):
     for platform, encoding, language in ((3, 1, 0x0409), (3, 1, 0x0804)):
         name_table.setName(name, 1, platform, encoding, language)
         name_table.setName("Regular", 2, platform, encoding, language)
-        name_table.setName(f"OpenAI:{name}:1.0", 3, platform, encoding, language)
+        name_table.setName(f"SWAT4-Localization:{name}:1.0", 3, platform, encoding, language)
         name_table.setName(name, 4, platform, encoding, language)
         name_table.setName(name, 6, platform, encoding, language)
         name_table.setName(name, 16, platform, encoding, language)
@@ -163,6 +168,12 @@ def build(name, source, weight, transform):
 
 
 def main():
+    missing = [str(source) for _, source, _, _ in FONT_SPECS if not source.is_file()]
+    if missing:
+        raise SystemExit(
+            "Missing MiSans source font(s):\n  " + "\n  ".join(missing)
+            + "\nInstall MiSans for the current user or set MISANS_DIR."
+        )
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     for name, source, weight, transform in FONT_SPECS:
         output = build(name, source, weight, transform)

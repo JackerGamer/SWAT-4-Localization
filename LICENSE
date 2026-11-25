@@ -19,16 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
--------------------------------------------------------------------------------
-
-Scope: this MIT license covers only the scripts and tooling in this repository
-(build_pix_fonts.py, ConvertFonts.bat, SimplifiedChineseFonts.exec).
-
-The Simplified Chinese translation (Simplified Chinese/) and STYLE_GUIDE.md are
-licensed under CC BY-NC-SA 4.0; see LICENSE-TRANSLATIONS.
-
-The English source text (English/) and Traditional Chinese reference text
-(Traditional Chinese/) are taken from the original game and remain the property
-of their respective rights holders. They are not licensed under either license
-above.
